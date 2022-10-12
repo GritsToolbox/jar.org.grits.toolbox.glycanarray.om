@@ -90,6 +90,8 @@ public class GenePixParser implements IGlycanArrayExperimentParser {
 	        String[] splitted = curLine.split("\t");
 	        if (splitted.length == 0)
 	        	continue;
+	        if (curLine.toLowerCase().contains("end raw data"))
+	        	continue;
 	        String firstColumn = splitted[0].trim();
 	        if (firstColumn.indexOf("Creator") != -1) {
 	        	if(firstColumn.lastIndexOf("\"") != -1) {
@@ -154,7 +156,7 @@ public class GenePixParser implements IGlycanArrayExperimentParser {
 	        	try {
 	        		if (blockColumn != null) {
 		        		// firstColumn is the location of the block
-		        		int blockLocation = Integer.parseInt(blockColumn.trim());
+		        		int blockLocation = (int)Double.parseDouble(blockColumn.trim());
 		        		if (prevBlockLocation != -1 && blockLocation != prevBlockLocation) { // go to next block
 		        			index++;
 		        			prevBlockLocation = blockLocation;
@@ -188,8 +190,8 @@ public class GenePixParser implements IGlycanArrayExperimentParser {
 	        		} else {   // using meta column and meta row
 	        			String metaColumn = splitted[config.getMetaColumn()].trim();
 	        			String metaRow = splitted[config.getMetaRow()].trim();
-	        			int metaRowIdx = Integer.parseInt(metaRow);
-	        			int metaColumnIdx = Integer.parseInt(metaColumn);
+	        			int metaRowIdx = (int)Double.parseDouble(metaRow);
+	        			int metaColumnIdx =(int) Double.parseDouble(metaColumn);
 	        			if (prevMetaColumn != -1 && prevMetaRow != -1 &&
 	        					(metaColumnIdx != prevMetaColumn || prevMetaRow != metaRowIdx)) {
 	        				// new block
@@ -234,8 +236,8 @@ public class GenePixParser implements IGlycanArrayExperimentParser {
 //	        		}
 	        		
 	        		// second and third column are spot indices
-	        		int x = Integer.parseInt(splitted[config.positionColumnX].trim()); // column
-	        		int y = Integer.parseInt(splitted[config.positionColumnY].trim()); // row
+	        		int x = (int)Double.parseDouble(splitted[config.positionColumnX].trim()); // column
+	        		int y = (int)Double.parseDouble(splitted[config.positionColumnY].trim()); // row
 	        		Well spotLocation = new Well(x, y);
 	        		if (block.getLayoutData() == null) {
 	        			scan.close();
@@ -267,11 +269,11 @@ public class GenePixParser implements IGlycanArrayExperimentParser {
 	        		if (config.meanMinusBColumn != -1)
 	        			data.setMeanMinusB(Double.parseDouble(splitted[config.meanMinusBColumn].trim()));
 	        		if (config.flagsColumn != -1)
-	        			data.setFlags(Integer.parseInt(splitted[config.flagsColumn].trim()));
+	        			data.setFlags((int)Double.parseDouble(splitted[config.flagsColumn].trim()));
 	        		if (config.fPixelsColumn != -1)
-	        			data.setfPixels(Integer.parseInt(splitted[config.fPixelsColumn].trim()));
+	        			data.setfPixels((int)Double.parseDouble(splitted[config.fPixelsColumn].trim()));
 	        		if (config.bPixelsColumn != -1)
-	        			data.setbPixels(Integer.parseInt(splitted[config.bPixelsColumn].trim()));
+	        			data.setbPixels((int)Double.parseDouble(splitted[config.bPixelsColumn].trim()));
 		        	if (config.percentageOneSDColumn != -1)
 		        		data.setPercentageOneSD(Double.parseDouble(splitted[config.percentageOneSDColumn].trim()));
 	        		if (config.percentageTwoSDColumn != -1)

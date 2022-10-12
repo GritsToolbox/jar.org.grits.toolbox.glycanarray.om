@@ -245,7 +245,7 @@ public class GlycanArrayParserUtils {
 			for (SpotData spotData : dataList) {
 				if (groupId == null)
 					groupId = spotData.getGroup();
-				if (!spotData.getGroup().equals(groupId)) {
+				if (spotData.getGroup() != null && !spotData.getGroup().equals(groupId)) {
 					split = true;
 					if (newFeature == null) {
 						newFeature = new Feature();
