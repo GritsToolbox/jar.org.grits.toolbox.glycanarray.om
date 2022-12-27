@@ -1,0 +1,5417 @@
+ATF	1.0
+38	5
+"Type=GenePix ArrayList V1.0"
+"BlockCount=32"
+"BlockType=0"
+"Block1=2000, 16400, 100, 12, 300, 14, 300"
+"Block2=6500, 16400, 100, 12, 300, 14, 300"
+"Block3=11000, 16400, 100, 12, 300, 14, 300"
+"Block4=15500, 16400, 100, 12, 300, 14, 300"
+"Block5=2000, 20900, 100, 12, 300, 14, 300"
+"Block6=6500, 20900, 100, 12, 300, 14, 300"
+"Block7=11000, 20900, 100, 12, 300, 14, 300"
+"Block8=15500, 20900, 100, 12, 300, 14, 300"
+"Block9=2000, 25400, 100, 12, 300, 14, 300"
+"Block10=6500, 25400, 100, 12, 300, 14, 300"
+"Block11=11000, 25400, 100, 12, 300, 14, 300"
+"Block12=15500, 25400, 100, 12, 300, 14, 300"
+"Block13=2000, 29900, 100, 12, 300, 14, 300"
+"Block14=6500, 29900, 100, 12, 300, 14, 300"
+"Block15=11000, 29900, 100, 12, 300, 14, 300"
+"Block16=15500, 29900, 100, 12, 300, 14, 300"
+"Block17=2000, 34400, 100, 12, 300, 14, 300"
+"Block18=6500, 34400, 100, 12, 300, 14, 300"
+"Block19=11000, 34400, 100, 12, 300, 14, 300"
+"Block20=15500, 34400, 100, 12, 300, 14, 300"
+"Block21=2000, 38900, 100, 12, 300, 14, 300"
+"Block22=6500, 38900, 100, 12, 300, 14, 300"
+"Block23=11000, 38900, 100, 12, 300, 14, 300"
+"Block24=15500, 38900, 100, 12, 300, 14, 300"
+"Block25=2000, 43400, 100, 12, 300, 14, 300"
+"Block26=6500, 43400, 100, 12, 300, 14, 300"
+"Block27=11000, 43400, 100, 12, 300, 14, 300"
+"Block28=15500, 43400, 100, 12, 300, 14, 300"
+"Block29=2000, 47900, 100, 12, 300, 14, 300"
+"Block30=6500, 47900, 100, 12, 300, 14, 300"
+"Block31=11000, 47900, 100, 12, 300, 14, 300"
+"Block32=15500, 47900, 100, 12, 300, 14, 300"
+"Supplier=BioRobotics"
+"ArrayerSoftwareName=TAS Application Suite (MicroGrid II)"
+"ArrayerSoftwareVersion=2.7.1.18"
+"Block"	"Column"	"Row"	"ID"	"Name"
+1	1	1	empty	empty
+1	1	2	624 Sp14	"2I16"
+1	1	3	502 Sp10	"2A8"
+1	1	4	624 Sp14	"2I16"
+1	1	5	502 Sp10	"2A8"
+1	1	6	624 Sp14	"2I16"
+1	1	7	502 Sp10	"2A8"
+1	1	8	238 Sp0	"1I16"
+1	1	9	92 Sp0	"1A8"
+1	1	10	238 Sp0	"1I16"
+1	1	11	92 Sp0	"1A8"
+1	1	12	238 Sp0	"1I16"
+1	1	13	92 Sp0	"1A8"
+1	1	14	Grid Marker	"2A24"
+1	2	1	empty	empty
+1	2	2	639 Sp21	"2M16"
+1	2	3	525 Sp21	"2E8"
+1	2	4	639 Sp21	"2M16"
+1	2	5	525 Sp21	"2E8"
+1	2	6	639 Sp21	"2M16"
+1	2	7	525 Sp21	"2E8"
+1	2	8	261 Sp0	"1M16"
+1	2	9	108 Sp8	"1E8"
+1	2	10	261 Sp0	"1M16"
+1	2	11	108 Sp8	"1E8"
+1	2	12	261 Sp0	"1M16"
+1	2	13	108 Sp8	"1E8"
+1	2	14	Grid Marker	"2A24"
+1	3	1	empty	empty
+1	3	2	624 Sp14	"2I16"
+1	3	3	502 Sp10	"2A8"
+1	3	4	624 Sp14	"2I16"
+1	3	5	502 Sp10	"2A8"
+1	3	6	624 Sp14	"2I16"
+1	3	7	502 Sp10	"2A8"
+1	3	8	238 Sp0	"1I16"
+1	3	9	92 Sp0	"1A8"
+1	3	10	238 Sp0	"1I16"
+1	3	11	92 Sp0	"1A8"
+1	3	12	238 Sp0	"1I16"
+1	3	13	92 Sp0	"1A8"
+1	3	14	empty	empty
+1	4	1	empty	empty
+1	4	2	639 Sp21	"2M16"
+1	4	3	525 Sp21	"2E8"
+1	4	4	639 Sp21	"2M16"
+1	4	5	525 Sp21	"2E8"
+1	4	6	639 Sp21	"2M16"
+1	4	7	525 Sp21	"2E8"
+1	4	8	261 Sp0	"1M16"
+1	4	9	108 Sp8	"1E8"
+1	4	10	261 Sp0	"1M16"
+1	4	11	108 Sp8	"1E8"
+1	4	12	261 Sp0	"1M16"
+1	4	13	108 Sp8	"1E8"
+1	4	14	empty	empty
+1	5	1	empty	empty
+1	5	2	empty	empty
+1	5	3	548 Sp10	"2I8"
+1	5	4	empty	empty
+1	5	5	548 Sp10	"2I8"
+1	5	6	empty	empty
+1	5	7	548 Sp10	"2I8"
+1	5	8	298 Sp0	"1A24"
+1	5	9	129 Sp0	"1I8"
+1	5	10	298 Sp0	"1A24"
+1	5	11	129 Sp0	"1I8"
+1	5	12	298 Sp0	"1A24"
+1	5	13	129 Sp0	"1I8"
+1	5	14	empty	empty
+1	6	1	empty	empty
+1	6	2	empty	empty
+1	6	3	571 Sp21	"2M8"
+1	6	4	empty	empty
+1	6	5	571 Sp21	"2M8"
+1	6	6	empty	empty
+1	6	7	571 Sp21	"2M8"
+1	6	8	329 Sp10	"1E24"
+1	6	9	152 Sp14	"1M8"
+1	6	10	329 Sp10	"1E24"
+1	6	11	152 Sp14	"1M8"
+1	6	12	329 Sp10	"1E24"
+1	6	13	152 Sp14	"1M8"
+1	6	14	empty	empty
+1	7	1	empty	empty
+1	7	2	empty	empty
+1	7	3	548 Sp10	"2I8"
+1	7	4	empty	empty
+1	7	5	548 Sp10	"2I8"
+1	7	6	empty	empty
+1	7	7	548 Sp10	"2I8"
+1	7	8	298 Sp0	"1A24"
+1	7	9	129 Sp0	"1I8"
+1	7	10	298 Sp0	"1A24"
+1	7	11	129 Sp0	"1I8"
+1	7	12	298 Sp0	"1A24"
+1	7	13	129 Sp0	"1I8"
+1	7	14	empty	empty
+1	8	1	empty	empty
+1	8	2	empty	empty
+1	8	3	571 Sp21	"2M8"
+1	8	4	empty	empty
+1	8	5	571 Sp21	"2M8"
+1	8	6	empty	empty
+1	8	7	571 Sp21	"2M8"
+1	8	8	329 Sp10	"1E24"
+1	8	9	152 Sp14	"1M8"
+1	8	10	329 Sp10	"1E24"
+1	8	11	152 Sp14	"1M8"
+1	8	12	329 Sp10	"1E24"
+1	8	13	152 Sp14	"1M8"
+1	8	14	empty	empty
+1	9	1	empty	empty
+1	9	2	empty	empty
+1	9	3	594 Sp25	"2A16"
+1	9	4	empty	empty
+1	9	5	594 Sp25	"2A16"
+1	9	6	empty	empty
+1	9	7	594 Sp25	"2A16"
+1	9	8	358 Sp0	"1I24"
+1	9	9	177 Sp8	"1A16"
+1	9	10	358 Sp0	"1I24"
+1	9	11	177 Sp8	"1A16"
+1	9	12	358 Sp0	"1I24"
+1	9	13	177 Sp8	"1A16"
+1	9	14	empty	empty
+1	10	1	Grid Marker	"2A24"
+1	10	2	empty	empty
+1	10	3	0	"2E16"
+1	10	4	empty	empty
+1	10	5	0	"2E16"
+1	10	6	empty	empty
+1	10	7	0	"2E16"
+1	10	8	383 Sp14	"1M24"
+1	10	9	208 Sp0	"1E16"
+1	10	10	383 Sp14	"1M24"
+1	10	11	208 Sp0	"1E16"
+1	10	12	383 Sp14	"1M24"
+1	10	13	208 Sp0	"1E16"
+1	10	14	empty	empty
+1	11	1	Grid Marker	"2A24"
+1	11	2	empty	empty
+1	11	3	594 Sp25	"2A16"
+1	11	4	empty	empty
+1	11	5	594 Sp25	"2A16"
+1	11	6	empty	empty
+1	11	7	594 Sp25	"2A16"
+1	11	8	358 Sp0	"1I24"
+1	11	9	177 Sp8	"1A16"
+1	11	10	358 Sp0	"1I24"
+1	11	11	177 Sp8	"1A16"
+1	11	12	358 Sp0	"1I24"
+1	11	13	177 Sp8	"1A16"
+1	11	14	empty	empty
+1	12	1	Grid Marker	"2A24"
+1	12	2	empty	empty
+1	12	3	0	"2E16"
+1	12	4	empty	empty
+1	12	5	0	"2E16"
+1	12	6	empty	empty
+1	12	7	0	"2E16"
+1	12	8	383 Sp14	"1M24"
+1	12	9	208 Sp0	"1E16"
+1	12	10	383 Sp14	"1M24"
+1	12	11	208 Sp0	"1E16"
+1	12	12	383 Sp14	"1M24"
+1	12	13	208 Sp0	"1E16"
+1	12	14	empty	empty
+2	1	1	empty	empty
+2	1	2	625 Sp14	"2J16"
+2	1	3	503 Sp14	"2B8"
+2	1	4	625 Sp14	"2J16"
+2	1	5	503 Sp14	"2B8"
+2	1	6	625 Sp14	"2J16"
+2	1	7	503 Sp14	"2B8"
+2	1	8	240 Sp8	"1J16"
+2	1	9	92 Sp8	"1B8"
+2	1	10	240 Sp8	"1J16"
+2	1	11	92 Sp8	"1B8"
+2	1	12	240 Sp8	"1J16"
+2	1	13	92 Sp8	"1B8"
+2	1	14	Grid Marker	"2B24"
+2	2	1	empty	empty
+2	2	2	640 Sp21	"2N16"
+2	2	3	526 Sp14	"2F8"
+2	2	4	640 Sp21	"2N16"
+2	2	5	526 Sp14	"2F8"
+2	2	6	640 Sp21	"2N16"
+2	2	7	526 Sp14	"2F8"
+2	2	8	261 Sp8	"1N16"
+2	2	9	109 Sp0	"1F8"
+2	2	10	261 Sp8	"1N16"
+2	2	11	109 Sp0	"1F8"
+2	2	12	261 Sp8	"1N16"
+2	2	13	109 Sp0	"1F8"
+2	2	14	Grid Marker	"2B24"
+2	3	1	empty	empty
+2	3	2	625 Sp14	"2J16"
+2	3	3	503 Sp14	"2B8"
+2	3	4	625 Sp14	"2J16"
+2	3	5	503 Sp14	"2B8"
+2	3	6	625 Sp14	"2J16"
+2	3	7	503 Sp14	"2B8"
+2	3	8	240 Sp8	"1J16"
+2	3	9	92 Sp8	"1B8"
+2	3	10	240 Sp8	"1J16"
+2	3	11	92 Sp8	"1B8"
+2	3	12	240 Sp8	"1J16"
+2	3	13	92 Sp8	"1B8"
+2	3	14	empty	empty
+2	4	1	empty	empty
+2	4	2	640 Sp21	"2N16"
+2	4	3	526 Sp14	"2F8"
+2	4	4	640 Sp21	"2N16"
+2	4	5	526 Sp14	"2F8"
+2	4	6	640 Sp21	"2N16"
+2	4	7	526 Sp14	"2F8"
+2	4	8	261 Sp8	"1N16"
+2	4	9	109 Sp0	"1F8"
+2	4	10	261 Sp8	"1N16"
+2	4	11	109 Sp0	"1F8"
+2	4	12	261 Sp8	"1N16"
+2	4	13	109 Sp0	"1F8"
+2	4	14	empty	empty
+2	5	1	empty	empty
+2	5	2	empty	empty
+2	5	3	549 Sp0	"2J8"
+2	5	4	empty	empty
+2	5	5	549 Sp0	"2J8"
+2	5	6	empty	empty
+2	5	7	549 Sp0	"2J8"
+2	5	8	299 Sp0	"1B24"
+2	5	9	130 Sp8	"1J8"
+2	5	10	299 Sp0	"1B24"
+2	5	11	130 Sp8	"1J8"
+2	5	12	299 Sp0	"1B24"
+2	5	13	130 Sp8	"1J8"
+2	5	14	empty	empty
+2	6	1	empty	empty
+2	6	2	empty	empty
+2	6	3	572 Sp25	"2N8"
+2	6	4	empty	empty
+2	6	5	572 Sp25	"2N8"
+2	6	6	empty	empty
+2	6	7	572 Sp25	"2N8"
+2	6	8	330 Sp10	"1F24"
+2	6	9	153 Sp0	"1N8"
+2	6	10	330 Sp10	"1F24"
+2	6	11	153 Sp0	"1N8"
+2	6	12	330 Sp10	"1F24"
+2	6	13	153 Sp0	"1N8"
+2	6	14	empty	empty
+2	7	1	empty	empty
+2	7	2	empty	empty
+2	7	3	549 Sp0	"2J8"
+2	7	4	empty	empty
+2	7	5	549 Sp0	"2J8"
+2	7	6	empty	empty
+2	7	7	549 Sp0	"2J8"
+2	7	8	299 Sp0	"1B24"
+2	7	9	130 Sp8	"1J8"
+2	7	10	299 Sp0	"1B24"
+2	7	11	130 Sp8	"1J8"
+2	7	12	299 Sp0	"1B24"
+2	7	13	130 Sp8	"1J8"
+2	7	14	empty	empty
+2	8	1	empty	empty
+2	8	2	empty	empty
+2	8	3	572 Sp25	"2N8"
+2	8	4	empty	empty
+2	8	5	572 Sp25	"2N8"
+2	8	6	empty	empty
+2	8	7	572 Sp25	"2N8"
+2	8	8	330 Sp10	"1F24"
+2	8	9	153 Sp0	"1N8"
+2	8	10	330 Sp10	"1F24"
+2	8	11	153 Sp0	"1N8"
+2	8	12	330 Sp10	"1F24"
+2	8	13	153 Sp0	"1N8"
+2	8	14	empty	empty
+2	9	1	empty	empty
+2	9	2	empty	empty
+2	9	3	595 Sp14	"2B16"
+2	9	4	empty	empty
+2	9	5	595 Sp14	"2B16"
+2	9	6	empty	empty
+2	9	7	595 Sp14	"2B16"
+2	9	8	359 Sp14	"1J24"
+2	9	9	178 Sp8	"1B16"
+2	9	10	359 Sp14	"1J24"
+2	9	11	178 Sp8	"1B16"
+2	9	12	359 Sp14	"1J24"
+2	9	13	178 Sp8	"1B16"
+2	9	14	empty	empty
+2	10	1	Grid Marker	"2B24"
+2	10	2	empty	empty
+2	10	3	0	"2F16"
+2	10	4	empty	empty
+2	10	5	0	"2F16"
+2	10	6	empty	empty
+2	10	7	0	"2F16"
+2	10	8	384 Sp20	"1N24"
+2	10	9	210 Sp0	"1F16"
+2	10	10	384 Sp20	"1N24"
+2	10	11	210 Sp0	"1F16"
+2	10	12	384 Sp20	"1N24"
+2	10	13	210 Sp0	"1F16"
+2	10	14	empty	empty
+2	11	1	Grid Marker	"2B24"
+2	11	2	empty	empty
+2	11	3	595 Sp14	"2B16"
+2	11	4	empty	empty
+2	11	5	595 Sp14	"2B16"
+2	11	6	empty	empty
+2	11	7	595 Sp14	"2B16"
+2	11	8	359 Sp14	"1J24"
+2	11	9	178 Sp8	"1B16"
+2	11	10	359 Sp14	"1J24"
+2	11	11	178 Sp8	"1B16"
+2	11	12	359 Sp14	"1J24"
+2	11	13	178 Sp8	"1B16"
+2	11	14	empty	empty
+2	12	1	Grid Marker	"2B24"
+2	12	2	empty	empty
+2	12	3	0	"2F16"
+2	12	4	empty	empty
+2	12	5	0	"2F16"
+2	12	6	empty	empty
+2	12	7	0	"2F16"
+2	12	8	384 Sp20	"1N24"
+2	12	9	210 Sp0	"1F16"
+2	12	10	384 Sp20	"1N24"
+2	12	11	210 Sp0	"1F16"
+2	12	12	384 Sp20	"1N24"
+2	12	13	210 Sp0	"1F16"
+2	12	14	empty	empty
+3	1	1	empty	empty
+3	1	2	632 Sp14	"2K16"
+3	1	3	514 Sp24	"2C8"
+3	1	4	632 Sp14	"2K16"
+3	1	5	514 Sp24	"2C8"
+3	1	6	632 Sp14	"2K16"
+3	1	7	514 Sp24	"2C8"
+3	1	8	251 Sp8	"1K16"
+3	1	9	100 Sp8	"1C8"
+3	1	10	251 Sp8	"1K16"
+3	1	11	100 Sp8	"1C8"
+3	1	12	251 Sp8	"1K16"
+3	1	13	100 Sp8	"1C8"
+3	1	14	Grid Marker	"2C24"
+3	2	1	empty	empty
+3	2	2	0	"2O16"
+3	2	3	537 Sp14	"2G8"
+3	2	4	0	"2O16"
+3	2	5	537 Sp14	"2G8"
+3	2	6	0	"2O16"
+3	2	7	537 Sp14	"2G8"
+3	2	8	273 Sp8	"1O16"
+3	2	9	120 Sp8	"1G8"
+3	2	10	273 Sp8	"1O16"
+3	2	11	120 Sp8	"1G8"
+3	2	12	273 Sp8	"1O16"
+3	2	13	120 Sp8	"1G8"
+3	2	14	Grid Marker	"2C24"
+3	3	1	empty	empty
+3	3	2	632 Sp14	"2K16"
+3	3	3	514 Sp24	"2C8"
+3	3	4	632 Sp14	"2K16"
+3	3	5	514 Sp24	"2C8"
+3	3	6	632 Sp14	"2K16"
+3	3	7	514 Sp24	"2C8"
+3	3	8	251 Sp8	"1K16"
+3	3	9	100 Sp8	"1C8"
+3	3	10	251 Sp8	"1K16"
+3	3	11	100 Sp8	"1C8"
+3	3	12	251 Sp8	"1K16"
+3	3	13	100 Sp8	"1C8"
+3	3	14	empty	empty
+3	4	1	empty	empty
+3	4	2	0	"2O16"
+3	4	3	537 Sp14	"2G8"
+3	4	4	0	"2O16"
+3	4	5	537 Sp14	"2G8"
+3	4	6	0	"2O16"
+3	4	7	537 Sp14	"2G8"
+3	4	8	273 Sp8	"1O16"
+3	4	9	120 Sp8	"1G8"
+3	4	10	273 Sp8	"1O16"
+3	4	11	120 Sp8	"1G8"
+3	4	12	273 Sp8	"1O16"
+3	4	13	120 Sp8	"1G8"
+3	4	14	empty	empty
+3	5	1	empty	empty
+3	5	2	empty	empty
+3	5	3	560 Sp0	"2K8"
+3	5	4	empty	empty
+3	5	5	560 Sp0	"2K8"
+3	5	6	empty	empty
+3	5	7	560 Sp0	"2K8"
+3	5	8	314 Sp0	"1C24"
+3	5	9	140 Sp8	"1K8"
+3	5	10	314 Sp0	"1C24"
+3	5	11	140 Sp8	"1K8"
+3	5	12	314 Sp0	"1C24"
+3	5	13	140 Sp8	"1K8"
+3	5	14	empty	empty
+3	6	1	empty	empty
+3	6	2	empty	empty
+3	6	3	0	"2O8"
+3	6	4	empty	empty
+3	6	5	0	"2O8"
+3	6	6	empty	empty
+3	6	7	0	"2O8"
+3	6	8	345 Sp12	"1G24"
+3	6	9	162 Sp8	"1O8"
+3	6	10	345 Sp12	"1G24"
+3	6	11	162 Sp8	"1O8"
+3	6	12	345 Sp12	"1G24"
+3	6	13	162 Sp8	"1O8"
+3	6	14	empty	empty
+3	7	1	empty	empty
+3	7	2	empty	empty
+3	7	3	560 Sp0	"2K8"
+3	7	4	empty	empty
+3	7	5	560 Sp0	"2K8"
+3	7	6	empty	empty
+3	7	7	560 Sp0	"2K8"
+3	7	8	314 Sp0	"1C24"
+3	7	9	140 Sp8	"1K8"
+3	7	10	314 Sp0	"1C24"
+3	7	11	140 Sp8	"1K8"
+3	7	12	314 Sp0	"1C24"
+3	7	13	140 Sp8	"1K8"
+3	7	14	empty	empty
+3	8	1	empty	empty
+3	8	2	empty	empty
+3	8	3	0	"2O8"
+3	8	4	empty	empty
+3	8	5	0	"2O8"
+3	8	6	empty	empty
+3	8	7	0	"2O8"
+3	8	8	345 Sp12	"1G24"
+3	8	9	162 Sp8	"1O8"
+3	8	10	345 Sp12	"1G24"
+3	8	11	162 Sp8	"1O8"
+3	8	12	345 Sp12	"1G24"
+3	8	13	162 Sp8	"1O8"
+3	8	14	empty	empty
+3	9	1	empty	empty
+3	9	2	empty	empty
+3	9	3	602 Sp21	"2C16"
+3	9	4	empty	empty
+3	9	5	602 Sp21	"2C16"
+3	9	6	empty	empty
+3	9	7	602 Sp21	"2C16"
+3	9	8	370 Sp12	"1K24"
+3	9	9	189 Sp0	"1C16"
+3	9	10	370 Sp12	"1K24"
+3	9	11	189 Sp0	"1C16"
+3	9	12	370 Sp12	"1K24"
+3	9	13	189 Sp0	"1C16"
+3	9	14	empty	empty
+3	10	1	Grid Marker	"2C24"
+3	10	2	empty	empty
+3	10	3	0	"2G16"
+3	10	4	empty	empty
+3	10	5	0	"2G16"
+3	10	6	empty	empty
+3	10	7	0	"2G16"
+3	10	8	395 Sp20	"1O24"
+3	10	9	227 Sp8	"1G16"
+3	10	10	395 Sp20	"1O24"
+3	10	11	227 Sp8	"1G16"
+3	10	12	395 Sp20	"1O24"
+3	10	13	227 Sp8	"1G16"
+3	10	14	empty	empty
+3	11	1	Grid Marker	"2C24"
+3	11	2	empty	empty
+3	11	3	602 Sp21	"2C16"
+3	11	4	empty	empty
+3	11	5	602 Sp21	"2C16"
+3	11	6	empty	empty
+3	11	7	602 Sp21	"2C16"
+3	11	8	370 Sp12	"1K24"
+3	11	9	189 Sp0	"1C16"
+3	11	10	370 Sp12	"1K24"
+3	11	11	189 Sp0	"1C16"
+3	11	12	370 Sp12	"1K24"
+3	11	13	189 Sp0	"1C16"
+3	11	14	empty	empty
+3	12	1	Grid Marker	"2C24"
+3	12	2	empty	empty
+3	12	3	0	"2G16"
+3	12	4	empty	empty
+3	12	5	0	"2G16"
+3	12	6	empty	empty
+3	12	7	0	"2G16"
+3	12	8	395 Sp20	"1O24"
+3	12	9	227 Sp8	"1G16"
+3	12	10	395 Sp20	"1O24"
+3	12	11	227 Sp8	"1G16"
+3	12	12	395 Sp20	"1O24"
+3	12	13	227 Sp8	"1G16"
+3	12	14	empty	empty
+4	1	1	empty	empty
+4	1	2	0	"2L16"
+4	1	3	0	"2D8"
+4	1	4	0	"2L16"
+4	1	5	0	"2D8"
+4	1	6	0	"2L16"
+4	1	7	0	"2D8"
+4	1	8	0	"1L16"
+4	1	9	0	"1D8"
+4	1	10	0	"1L16"
+4	1	11	0	"1D8"
+4	1	12	0	"1L16"
+4	1	13	0	"1D8"
+4	1	14	Grid Marker	"2D24"
+4	2	1	empty	empty
+4	2	2	0	"2P16"
+4	2	3	0	"2H8"
+4	2	4	0	"2P16"
+4	2	5	0	"2H8"
+4	2	6	0	"2P16"
+4	2	7	0	"2H8"
+4	2	8	0	"1P16"
+4	2	9	0	"1H8"
+4	2	10	0	"1P16"
+4	2	11	0	"1H8"
+4	2	12	0	"1P16"
+4	2	13	0	"1H8"
+4	2	14	Grid Marker	"2D24"
+4	3	1	empty	empty
+4	3	2	0	"2L16"
+4	3	3	0	"2D8"
+4	3	4	0	"2L16"
+4	3	5	0	"2D8"
+4	3	6	0	"2L16"
+4	3	7	0	"2D8"
+4	3	8	0	"1L16"
+4	3	9	0	"1D8"
+4	3	10	0	"1L16"
+4	3	11	0	"1D8"
+4	3	12	0	"1L16"
+4	3	13	0	"1D8"
+4	3	14	empty	empty
+4	4	1	empty	empty
+4	4	2	0	"2P16"
+4	4	3	0	"2H8"
+4	4	4	0	"2P16"
+4	4	5	0	"2H8"
+4	4	6	0	"2P16"
+4	4	7	0	"2H8"
+4	4	8	0	"1P16"
+4	4	9	0	"1H8"
+4	4	10	0	"1P16"
+4	4	11	0	"1H8"
+4	4	12	0	"1P16"
+4	4	13	0	"1H8"
+4	4	14	empty	empty
+4	5	1	empty	empty
+4	5	2	empty	empty
+4	5	3	0	"2L8"
+4	5	4	empty	empty
+4	5	5	0	"2L8"
+4	5	6	empty	empty
+4	5	7	0	"2L8"
+4	5	8	0	"1D24"
+4	5	9	0	"1L8"
+4	5	10	0	"1D24"
+4	5	11	0	"1L8"
+4	5	12	0	"1D24"
+4	5	13	0	"1L8"
+4	5	14	empty	empty
+4	6	1	empty	empty
+4	6	2	empty	empty
+4	6	3	0	"2P8"
+4	6	4	empty	empty
+4	6	5	0	"2P8"
+4	6	6	empty	empty
+4	6	7	0	"2P8"
+4	6	8	0	"1H24"
+4	6	9	0	"1P8"
+4	6	10	0	"1H24"
+4	6	11	0	"1P8"
+4	6	12	0	"1H24"
+4	6	13	0	"1P8"
+4	6	14	empty	empty
+4	7	1	empty	empty
+4	7	2	empty	empty
+4	7	3	0	"2L8"
+4	7	4	empty	empty
+4	7	5	0	"2L8"
+4	7	6	empty	empty
+4	7	7	0	"2L8"
+4	7	8	0	"1D24"
+4	7	9	0	"1L8"
+4	7	10	0	"1D24"
+4	7	11	0	"1L8"
+4	7	12	0	"1D24"
+4	7	13	0	"1L8"
+4	7	14	empty	empty
+4	8	1	empty	empty
+4	8	2	empty	empty
+4	8	3	0	"2P8"
+4	8	4	empty	empty
+4	8	5	0	"2P8"
+4	8	6	empty	empty
+4	8	7	0	"2P8"
+4	8	8	0	"1H24"
+4	8	9	0	"1P8"
+4	8	10	0	"1H24"
+4	8	11	0	"1P8"
+4	8	12	0	"1H24"
+4	8	13	0	"1P8"
+4	8	14	empty	empty
+4	9	1	empty	empty
+4	9	2	empty	empty
+4	9	3	0	"2D16"
+4	9	4	empty	empty
+4	9	5	0	"2D16"
+4	9	6	empty	empty
+4	9	7	0	"2D16"
+4	9	8	0	"1L24"
+4	9	9	0	"1D16"
+4	9	10	0	"1L24"
+4	9	11	0	"1D16"
+4	9	12	0	"1L24"
+4	9	13	0	"1D16"
+4	9	14	empty	empty
+4	10	1	Grid Marker	"2D24"
+4	10	2	empty	empty
+4	10	3	0	"2H16"
+4	10	4	empty	empty
+4	10	5	0	"2H16"
+4	10	6	empty	empty
+4	10	7	0	"2H16"
+4	10	8	0	"1P24"
+4	10	9	0	"1H16"
+4	10	10	0	"1P24"
+4	10	11	0	"1H16"
+4	10	12	0	"1P24"
+4	10	13	0	"1H16"
+4	10	14	empty	empty
+4	11	1	Grid Marker	"2D24"
+4	11	2	empty	empty
+4	11	3	0	"2D16"
+4	11	4	empty	empty
+4	11	5	0	"2D16"
+4	11	6	empty	empty
+4	11	7	0	"2D16"
+4	11	8	0	"1L24"
+4	11	9	0	"1D16"
+4	11	10	0	"1L24"
+4	11	11	0	"1D16"
+4	11	12	0	"1L24"
+4	11	13	0	"1D16"
+4	11	14	empty	empty
+4	12	1	Grid Marker	"2D24"
+4	12	2	empty	empty
+4	12	3	0	"2H16"
+4	12	4	empty	empty
+4	12	5	0	"2H16"
+4	12	6	empty	empty
+4	12	7	0	"2H16"
+4	12	8	0	"1P24"
+4	12	9	0	"1H16"
+4	12	10	0	"1P24"
+4	12	11	0	"1H16"
+4	12	12	0	"1P24"
+4	12	13	0	"1H16"
+4	12	14	empty	empty
+5	1	1	empty	empty
+5	1	2	622 Sp14	"2I15"
+5	1	3	500 Sp8	"2A7"
+5	1	4	622 Sp14	"2I15"
+5	1	5	500 Sp8	"2A7"
+5	1	6	622 Sp14	"2I15"
+5	1	7	500 Sp8	"2A7"
+5	1	8	236 Sp8	"1I15"
+5	1	9	87 Sp0	"1A7"
+5	1	10	236 Sp8	"1I15"
+5	1	11	87 Sp0	"1A7"
+5	1	12	236 Sp8	"1I15"
+5	1	13	87 Sp0	"1A7"
+5	1	14	Grid Marker	"2A23"
+5	2	1	empty	empty
+5	2	2	637 Sp12	"2M15"
+5	2	3	523 Sp14	"2E7"
+5	2	4	637 Sp12	"2M15"
+5	2	5	523 Sp14	"2E7"
+5	2	6	637 Sp12	"2M15"
+5	2	7	523 Sp14	"2E7"
+5	2	8	259 Sp0	"1M15"
+5	2	9	107 Sp8	"1E7"
+5	2	10	259 Sp0	"1M15"
+5	2	11	107 Sp8	"1E7"
+5	2	12	259 Sp0	"1M15"
+5	2	13	107 Sp8	"1E7"
+5	2	14	Grid Marker	"2A23"
+5	3	1	empty	empty
+5	3	2	622 Sp14	"2I15"
+5	3	3	500 Sp8	"2A7"
+5	3	4	622 Sp14	"2I15"
+5	3	5	500 Sp8	"2A7"
+5	3	6	622 Sp14	"2I15"
+5	3	7	500 Sp8	"2A7"
+5	3	8	236 Sp8	"1I15"
+5	3	9	87 Sp0	"1A7"
+5	3	10	236 Sp8	"1I15"
+5	3	11	87 Sp0	"1A7"
+5	3	12	236 Sp8	"1I15"
+5	3	13	87 Sp0	"1A7"
+5	3	14	empty	empty
+5	4	1	empty	empty
+5	4	2	637 Sp12	"2M15"
+5	4	3	523 Sp14	"2E7"
+5	4	4	637 Sp12	"2M15"
+5	4	5	523 Sp14	"2E7"
+5	4	6	637 Sp12	"2M15"
+5	4	7	523 Sp14	"2E7"
+5	4	8	259 Sp0	"1M15"
+5	4	9	107 Sp8	"1E7"
+5	4	10	259 Sp0	"1M15"
+5	4	11	107 Sp8	"1E7"
+5	4	12	259 Sp0	"1M15"
+5	4	13	107 Sp8	"1E7"
+5	4	14	empty	empty
+5	5	1	empty	empty
+5	5	2	empty	empty
+5	5	3	546 Sp8	"2I7"
+5	5	4	empty	empty
+5	5	5	546 Sp8	"2I7"
+5	5	6	empty	empty
+5	5	7	546 Sp8	"2I7"
+5	5	8	295 Sp14	"1A23"
+5	5	9	127 Sp8	"1I7"
+5	5	10	295 Sp14	"1A23"
+5	5	11	127 Sp8	"1I7"
+5	5	12	295 Sp14	"1A23"
+5	5	13	127 Sp8	"1I7"
+5	5	14	empty	empty
+5	6	1	empty	empty
+5	6	2	empty	empty
+5	6	3	569 Sp21	"2M7"
+5	6	4	empty	empty
+5	6	5	569 Sp21	"2M7"
+5	6	6	empty	empty
+5	6	7	569 Sp21	"2M7"
+5	6	8	325 Sp12	"1E23"
+5	6	9	148 Sp8	"1M7"
+5	6	10	325 Sp12	"1E23"
+5	6	11	148 Sp8	"1M7"
+5	6	12	325 Sp12	"1E23"
+5	6	13	148 Sp8	"1M7"
+5	6	14	empty	empty
+5	7	1	empty	empty
+5	7	2	empty	empty
+5	7	3	546 Sp8	"2I7"
+5	7	4	empty	empty
+5	7	5	546 Sp8	"2I7"
+5	7	6	empty	empty
+5	7	7	546 Sp8	"2I7"
+5	7	8	295 Sp14	"1A23"
+5	7	9	127 Sp8	"1I7"
+5	7	10	295 Sp14	"1A23"
+5	7	11	127 Sp8	"1I7"
+5	7	12	295 Sp14	"1A23"
+5	7	13	127 Sp8	"1I7"
+5	7	14	empty	empty
+5	8	1	empty	empty
+5	8	2	empty	empty
+5	8	3	569 Sp21	"2M7"
+5	8	4	empty	empty
+5	8	5	569 Sp21	"2M7"
+5	8	6	empty	empty
+5	8	7	569 Sp21	"2M7"
+5	8	8	325 Sp12	"1E23"
+5	8	9	148 Sp8	"1M7"
+5	8	10	325 Sp12	"1E23"
+5	8	11	148 Sp8	"1M7"
+5	8	12	325 Sp12	"1E23"
+5	8	13	148 Sp8	"1M7"
+5	8	14	empty	empty
+5	9	1	empty	empty
+5	9	2	empty	empty
+5	9	3	592 Sp0	"2A15"
+5	9	4	empty	empty
+5	9	5	592 Sp0	"2A15"
+5	9	6	empty	empty
+5	9	7	592 Sp0	"2A15"
+5	9	8	356 Sp0	"1I23"
+5	9	9	176 Sp8	"1A15"
+5	9	10	356 Sp0	"1I23"
+5	9	11	176 Sp8	"1A15"
+5	9	12	356 Sp0	"1I23"
+5	9	13	176 Sp8	"1A15"
+5	9	14	empty	empty
+5	10	1	Grid Marker	"2A23"
+5	10	2	empty	empty
+5	10	3	0	"2E15"
+5	10	4	empty	empty
+5	10	5	0	"2E15"
+5	10	6	empty	empty
+5	10	7	0	"2E15"
+5	10	8	381 Sp0	"1M23"
+5	10	9	203 Sp12	"1E15"
+5	10	10	381 Sp0	"1M23"
+5	10	11	203 Sp12	"1E15"
+5	10	12	381 Sp0	"1M23"
+5	10	13	203 Sp12	"1E15"
+5	10	14	empty	empty
+5	11	1	Grid Marker	"2A23"
+5	11	2	empty	empty
+5	11	3	592 Sp0	"2A15"
+5	11	4	empty	empty
+5	11	5	592 Sp0	"2A15"
+5	11	6	empty	empty
+5	11	7	592 Sp0	"2A15"
+5	11	8	356 Sp0	"1I23"
+5	11	9	176 Sp8	"1A15"
+5	11	10	356 Sp0	"1I23"
+5	11	11	176 Sp8	"1A15"
+5	11	12	356 Sp0	"1I23"
+5	11	13	176 Sp8	"1A15"
+5	11	14	empty	empty
+5	12	1	Grid Marker	"2A23"
+5	12	2	empty	empty
+5	12	3	0	"2E15"
+5	12	4	empty	empty
+5	12	5	0	"2E15"
+5	12	6	empty	empty
+5	12	7	0	"2E15"
+5	12	8	381 Sp0	"1M23"
+5	12	9	203 Sp12	"1E15"
+5	12	10	381 Sp0	"1M23"
+5	12	11	203 Sp12	"1E15"
+5	12	12	381 Sp0	"1M23"
+5	12	13	203 Sp12	"1E15"
+5	12	14	empty	empty
+6	1	1	empty	empty
+6	1	2	623 Sp14	"2J15"
+6	1	3	501 Sp10	"2B7"
+6	1	4	623 Sp14	"2J15"
+6	1	5	501 Sp10	"2B7"
+6	1	6	623 Sp14	"2J15"
+6	1	7	501 Sp10	"2B7"
+6	1	8	237 Sp8	"1J15"
+6	1	9	90 Sp0	"1B7"
+6	1	10	237 Sp8	"1J15"
+6	1	11	90 Sp0	"1B7"
+6	1	12	237 Sp8	"1J15"
+6	1	13	90 Sp0	"1B7"
+6	1	14	Grid Marker	"2B23"
+6	2	1	empty	empty
+6	2	2	638 Sp12	"2N15"
+6	2	3	524 Sp0	"2F7"
+6	2	4	638 Sp12	"2N15"
+6	2	5	524 Sp0	"2F7"
+6	2	6	638 Sp12	"2N15"
+6	2	7	524 Sp0	"2F7"
+6	2	8	260 Sp0	"1N15"
+6	2	9	108 Sp0	"1F7"
+6	2	10	260 Sp0	"1N15"
+6	2	11	108 Sp0	"1F7"
+6	2	12	260 Sp0	"1N15"
+6	2	13	108 Sp0	"1F7"
+6	2	14	Grid Marker	"2B23"
+6	3	1	empty	empty
+6	3	2	623 Sp14	"2J15"
+6	3	3	501 Sp10	"2B7"
+6	3	4	623 Sp14	"2J15"
+6	3	5	501 Sp10	"2B7"
+6	3	6	623 Sp14	"2J15"
+6	3	7	501 Sp10	"2B7"
+6	3	8	237 Sp8	"1J15"
+6	3	9	90 Sp0	"1B7"
+6	3	10	237 Sp8	"1J15"
+6	3	11	90 Sp0	"1B7"
+6	3	12	237 Sp8	"1J15"
+6	3	13	90 Sp0	"1B7"
+6	3	14	empty	empty
+6	4	1	empty	empty
+6	4	2	638 Sp12	"2N15"
+6	4	3	524 Sp0	"2F7"
+6	4	4	638 Sp12	"2N15"
+6	4	5	524 Sp0	"2F7"
+6	4	6	638 Sp12	"2N15"
+6	4	7	524 Sp0	"2F7"
+6	4	8	260 Sp0	"1N15"
+6	4	9	108 Sp0	"1F7"
+6	4	10	260 Sp0	"1N15"
+6	4	11	108 Sp0	"1F7"
+6	4	12	260 Sp0	"1N15"
+6	4	13	108 Sp0	"1F7"
+6	4	14	empty	empty
+6	5	1	empty	empty
+6	5	2	empty	empty
+6	5	3	547 Sp8	"2J7"
+6	5	4	empty	empty
+6	5	5	547 Sp8	"2J7"
+6	5	6	empty	empty
+6	5	7	547 Sp8	"2J7"
+6	5	8	297 Sp0	"1B23"
+6	5	9	128 Sp0	"1J7"
+6	5	10	297 Sp0	"1B23"
+6	5	11	128 Sp0	"1J7"
+6	5	12	297 Sp0	"1B23"
+6	5	13	128 Sp0	"1J7"
+6	5	14	empty	empty
+6	6	1	empty	empty
+6	6	2	empty	empty
+6	6	3	570 Sp21	"2N7"
+6	6	4	empty	empty
+6	6	5	570 Sp21	"2N7"
+6	6	6	empty	empty
+6	6	7	570 Sp21	"2N7"
+6	6	8	327 Sp10	"1F23"
+6	6	9	152 Sp8	"1N7"
+6	6	10	327 Sp10	"1F23"
+6	6	11	152 Sp8	"1N7"
+6	6	12	327 Sp10	"1F23"
+6	6	13	152 Sp8	"1N7"
+6	6	14	empty	empty
+6	7	1	empty	empty
+6	7	2	empty	empty
+6	7	3	547 Sp8	"2J7"
+6	7	4	empty	empty
+6	7	5	547 Sp8	"2J7"
+6	7	6	empty	empty
+6	7	7	547 Sp8	"2J7"
+6	7	8	297 Sp0	"1B23"
+6	7	9	128 Sp0	"1J7"
+6	7	10	297 Sp0	"1B23"
+6	7	11	128 Sp0	"1J7"
+6	7	12	297 Sp0	"1B23"
+6	7	13	128 Sp0	"1J7"
+6	7	14	empty	empty
+6	8	1	empty	empty
+6	8	2	empty	empty
+6	8	3	570 Sp21	"2N7"
+6	8	4	empty	empty
+6	8	5	570 Sp21	"2N7"
+6	8	6	empty	empty
+6	8	7	570 Sp21	"2N7"
+6	8	8	327 Sp10	"1F23"
+6	8	9	152 Sp8	"1N7"
+6	8	10	327 Sp10	"1F23"
+6	8	11	152 Sp8	"1N7"
+6	8	12	327 Sp10	"1F23"
+6	8	13	152 Sp8	"1N7"
+6	8	14	empty	empty
+6	9	1	empty	empty
+6	9	2	empty	empty
+6	9	3	593 Sp25	"2B15"
+6	9	4	empty	empty
+6	9	5	593 Sp25	"2B15"
+6	9	6	empty	empty
+6	9	7	593 Sp25	"2B15"
+6	9	8	357 Sp0	"1J23"
+6	9	9	176 Sp14	"1B15"
+6	9	10	357 Sp0	"1J23"
+6	9	11	176 Sp14	"1B15"
+6	9	12	357 Sp0	"1J23"
+6	9	13	176 Sp14	"1B15"
+6	9	14	empty	empty
+6	10	1	Grid Marker	"2B23"
+6	10	2	empty	empty
+6	10	3	0	"2F15"
+6	10	4	empty	empty
+6	10	5	0	"2F15"
+6	10	6	empty	empty
+6	10	7	0	"2F15"
+6	10	8	382 Sp0	"1N23"
+6	10	9	205 Sp12	"1F15"
+6	10	10	382 Sp0	"1N23"
+6	10	11	205 Sp12	"1F15"
+6	10	12	382 Sp0	"1N23"
+6	10	13	205 Sp12	"1F15"
+6	10	14	empty	empty
+6	11	1	Grid Marker	"2B23"
+6	11	2	empty	empty
+6	11	3	593 Sp25	"2B15"
+6	11	4	empty	empty
+6	11	5	593 Sp25	"2B15"
+6	11	6	empty	empty
+6	11	7	593 Sp25	"2B15"
+6	11	8	357 Sp0	"1J23"
+6	11	9	176 Sp14	"1B15"
+6	11	10	357 Sp0	"1J23"
+6	11	11	176 Sp14	"1B15"
+6	11	12	357 Sp0	"1J23"
+6	11	13	176 Sp14	"1B15"
+6	11	14	empty	empty
+6	12	1	Grid Marker	"2B23"
+6	12	2	empty	empty
+6	12	3	0	"2F15"
+6	12	4	empty	empty
+6	12	5	0	"2F15"
+6	12	6	empty	empty
+6	12	7	0	"2F15"
+6	12	8	382 Sp0	"1N23"
+6	12	9	205 Sp12	"1F15"
+6	12	10	382 Sp0	"1N23"
+6	12	11	205 Sp12	"1F15"
+6	12	12	382 Sp0	"1N23"
+6	12	13	205 Sp12	"1F15"
+6	12	14	empty	empty
+7	1	1	empty	empty
+7	1	2	630 Sp14	"2K15"
+7	1	3	512 Sp14	"2C7"
+7	1	4	630 Sp14	"2K15"
+7	1	5	512 Sp14	"2C7"
+7	1	6	630 Sp14	"2K15"
+7	1	7	512 Sp14	"2C7"
+7	1	8	0	"1K15"
+7	1	9	98 Sp18	"1C7"
+7	1	10	0	"1K15"
+7	1	11	98 Sp18	"1C7"
+7	1	12	0	"1K15"
+7	1	13	98 Sp18	"1C7"
+7	1	14	Grid Marker	"2C23"
+7	2	1	empty	empty
+7	2	2	0	"2O15"
+7	2	3	535 Sp8	"2G7"
+7	2	4	0	"2O15"
+7	2	5	535 Sp8	"2G7"
+7	2	6	0	"2O15"
+7	2	7	535 Sp8	"2G7"
+7	2	8	271 Sp8	"1O15"
+7	2	9	119 Sp8	"1G7"
+7	2	10	271 Sp8	"1O15"
+7	2	11	119 Sp8	"1G7"
+7	2	12	271 Sp8	"1O15"
+7	2	13	119 Sp8	"1G7"
+7	2	14	Grid Marker	"2C23"
+7	3	1	empty	empty
+7	3	2	630 Sp14	"2K15"
+7	3	3	512 Sp14	"2C7"
+7	3	4	630 Sp14	"2K15"
+7	3	5	512 Sp14	"2C7"
+7	3	6	630 Sp14	"2K15"
+7	3	7	512 Sp14	"2C7"
+7	3	8	0	"1K15"
+7	3	9	98 Sp18	"1C7"
+7	3	10	0	"1K15"
+7	3	11	98 Sp18	"1C7"
+7	3	12	0	"1K15"
+7	3	13	98 Sp18	"1C7"
+7	3	14	empty	empty
+7	4	1	empty	empty
+7	4	2	0	"2O15"
+7	4	3	535 Sp8	"2G7"
+7	4	4	0	"2O15"
+7	4	5	535 Sp8	"2G7"
+7	4	6	0	"2O15"
+7	4	7	535 Sp8	"2G7"
+7	4	8	271 Sp8	"1O15"
+7	4	9	119 Sp8	"1G7"
+7	4	10	271 Sp8	"1O15"
+7	4	11	119 Sp8	"1G7"
+7	4	12	271 Sp8	"1O15"
+7	4	13	119 Sp8	"1G7"
+7	4	14	empty	empty
+7	5	1	empty	empty
+7	5	2	empty	empty
+7	5	3	558 Sp0	"2K7"
+7	5	4	empty	empty
+7	5	5	558 Sp0	"2K7"
+7	5	6	empty	empty
+7	5	7	558 Sp0	"2K7"
+7	5	8	312 Sp8	"1C23"
+7	5	9	138v2 Sp0	"1K7"
+7	5	10	312 Sp8	"1C23"
+7	5	11	138v2 Sp0	"1K7"
+7	5	12	312 Sp8	"1C23"
+7	5	13	138v2 Sp0	"1K7"
+7	5	14	empty	empty
+7	6	1	empty	empty
+7	6	2	empty	empty
+7	6	3	577 Sp12	"2O7"
+7	6	4	empty	empty
+7	6	5	577 Sp12	"2O7"
+7	6	6	empty	empty
+7	6	7	577 Sp12	"2O7"
+7	6	8	342 Sp8	"1G23"
+7	6	9	159 Sp14	"1O7"
+7	6	10	342 Sp8	"1G23"
+7	6	11	159 Sp14	"1O7"
+7	6	12	342 Sp8	"1G23"
+7	6	13	159 Sp14	"1O7"
+7	6	14	empty	empty
+7	7	1	empty	empty
+7	7	2	empty	empty
+7	7	3	558 Sp0	"2K7"
+7	7	4	empty	empty
+7	7	5	558 Sp0	"2K7"
+7	7	6	empty	empty
+7	7	7	558 Sp0	"2K7"
+7	7	8	312 Sp8	"1C23"
+7	7	9	138v2 Sp0	"1K7"
+7	7	10	312 Sp8	"1C23"
+7	7	11	138v2 Sp0	"1K7"
+7	7	12	312 Sp8	"1C23"
+7	7	13	138v2 Sp0	"1K7"
+7	7	14	empty	empty
+7	8	1	empty	empty
+7	8	2	empty	empty
+7	8	3	577 Sp12	"2O7"
+7	8	4	empty	empty
+7	8	5	577 Sp12	"2O7"
+7	8	6	empty	empty
+7	8	7	577 Sp12	"2O7"
+7	8	8	342 Sp8	"1G23"
+7	8	9	159 Sp14	"1O7"
+7	8	10	342 Sp8	"1G23"
+7	8	11	159 Sp14	"1O7"
+7	8	12	342 Sp8	"1G23"
+7	8	13	159 Sp14	"1O7"
+7	8	14	empty	empty
+7	9	1	empty	empty
+7	9	2	empty	empty
+7	9	3	600 Sp24	"2C15"
+7	9	4	empty	empty
+7	9	5	600 Sp24	"2C15"
+7	9	6	empty	empty
+7	9	7	600 Sp24	"2C15"
+7	9	8	368 Sp12	"1K23"
+7	9	9	187 Sp8	"1C15"
+7	9	10	368 Sp12	"1K23"
+7	9	11	187 Sp8	"1C15"
+7	9	12	368 Sp12	"1K23"
+7	9	13	187 Sp8	"1C15"
+7	9	14	empty	empty
+7	10	1	Grid Marker	"2C23"
+7	10	2	empty	empty
+7	10	3	0	"2G15"
+7	10	4	empty	empty
+7	10	5	0	"2G15"
+7	10	6	empty	empty
+7	10	7	0	"2G15"
+7	10	8	393 Sp21	"1O23"
+7	10	9	224 Sp0	"1G15"
+7	10	10	393 Sp21	"1O23"
+7	10	11	224 Sp0	"1G15"
+7	10	12	393 Sp21	"1O23"
+7	10	13	224 Sp0	"1G15"
+7	10	14	empty	empty
+7	11	1	Grid Marker	"2C23"
+7	11	2	empty	empty
+7	11	3	600 Sp24	"2C15"
+7	11	4	empty	empty
+7	11	5	600 Sp24	"2C15"
+7	11	6	empty	empty
+7	11	7	600 Sp24	"2C15"
+7	11	8	368 Sp12	"1K23"
+7	11	9	187 Sp8	"1C15"
+7	11	10	368 Sp12	"1K23"
+7	11	11	187 Sp8	"1C15"
+7	11	12	368 Sp12	"1K23"
+7	11	13	187 Sp8	"1C15"
+7	11	14	empty	empty
+7	12	1	Grid Marker	"2C23"
+7	12	2	empty	empty
+7	12	3	0	"2G15"
+7	12	4	empty	empty
+7	12	5	0	"2G15"
+7	12	6	empty	empty
+7	12	7	0	"2G15"
+7	12	8	393 Sp21	"1O23"
+7	12	9	224 Sp0	"1G15"
+7	12	10	393 Sp21	"1O23"
+7	12	11	224 Sp0	"1G15"
+7	12	12	393 Sp21	"1O23"
+7	12	13	224 Sp0	"1G15"
+7	12	14	empty	empty
+8	1	1	empty	empty
+8	1	2	631 Sp14	"2L15"
+8	1	3	513 Sp14	"2D7"
+8	1	4	631 Sp14	"2L15"
+8	1	5	513 Sp14	"2D7"
+8	1	6	631 Sp14	"2L15"
+8	1	7	513 Sp14	"2D7"
+8	1	8	250 Sp8	"1L15"
+8	1	9	99 Sp8	"1D7"
+8	1	10	250 Sp8	"1L15"
+8	1	11	99 Sp8	"1D7"
+8	1	12	250 Sp8	"1L15"
+8	1	13	99 Sp8	"1D7"
+8	1	14	Grid Marker	"2D23"
+8	2	1	empty	empty
+8	2	2	0	"2P15"
+8	2	3	536 Sp8	"2H7"
+8	2	4	0	"2P15"
+8	2	5	536 Sp8	"2H7"
+8	2	6	0	"2P15"
+8	2	7	536 Sp8	"2H7"
+8	2	8	272 Sp8	"1P15"
+8	2	9	119 Sp14	"1H7"
+8	2	10	272 Sp8	"1P15"
+8	2	11	119 Sp14	"1H7"
+8	2	12	272 Sp8	"1P15"
+8	2	13	119 Sp14	"1H7"
+8	2	14	Grid Marker	"2D23"
+8	3	1	empty	empty
+8	3	2	631 Sp14	"2L15"
+8	3	3	513 Sp14	"2D7"
+8	3	4	631 Sp14	"2L15"
+8	3	5	513 Sp14	"2D7"
+8	3	6	631 Sp14	"2L15"
+8	3	7	513 Sp14	"2D7"
+8	3	8	250 Sp8	"1L15"
+8	3	9	99 Sp8	"1D7"
+8	3	10	250 Sp8	"1L15"
+8	3	11	99 Sp8	"1D7"
+8	3	12	250 Sp8	"1L15"
+8	3	13	99 Sp8	"1D7"
+8	3	14	empty	empty
+8	4	1	empty	empty
+8	4	2	0	"2P15"
+8	4	3	536 Sp8	"2H7"
+8	4	4	0	"2P15"
+8	4	5	536 Sp8	"2H7"
+8	4	6	0	"2P15"
+8	4	7	536 Sp8	"2H7"
+8	4	8	272 Sp8	"1P15"
+8	4	9	119 Sp14	"1H7"
+8	4	10	272 Sp8	"1P15"
+8	4	11	119 Sp14	"1H7"
+8	4	12	272 Sp8	"1P15"
+8	4	13	119 Sp14	"1H7"
+8	4	14	empty	empty
+8	5	1	empty	empty
+8	5	2	empty	empty
+8	5	3	559 Sp0	"2L7"
+8	5	4	empty	empty
+8	5	5	559 Sp0	"2L7"
+8	5	6	empty	empty
+8	5	7	559 Sp0	"2L7"
+8	5	8	313 Sp12	"1D23"
+8	5	9	140 Sp0	"1L7"
+8	5	10	313 Sp12	"1D23"
+8	5	11	140 Sp0	"1L7"
+8	5	12	313 Sp12	"1D23"
+8	5	13	140 Sp0	"1L7"
+8	5	14	empty	empty
+8	6	1	empty	empty
+8	6	2	empty	empty
+8	6	3	0	"2P7"
+8	6	4	empty	empty
+8	6	5	0	"2P7"
+8	6	6	empty	empty
+8	6	7	0	"2P7"
+8	6	8	343 Sp19	"1H23"
+8	6	9	161 Sp8	"1P7"
+8	6	10	343 Sp19	"1H23"
+8	6	11	161 Sp8	"1P7"
+8	6	12	343 Sp19	"1H23"
+8	6	13	161 Sp8	"1P7"
+8	6	14	empty	empty
+8	7	1	empty	empty
+8	7	2	empty	empty
+8	7	3	559 Sp0	"2L7"
+8	7	4	empty	empty
+8	7	5	559 Sp0	"2L7"
+8	7	6	empty	empty
+8	7	7	559 Sp0	"2L7"
+8	7	8	313 Sp12	"1D23"
+8	7	9	140 Sp0	"1L7"
+8	7	10	313 Sp12	"1D23"
+8	7	11	140 Sp0	"1L7"
+8	7	12	313 Sp12	"1D23"
+8	7	13	140 Sp0	"1L7"
+8	7	14	empty	empty
+8	8	1	empty	empty
+8	8	2	empty	empty
+8	8	3	0	"2P7"
+8	8	4	empty	empty
+8	8	5	0	"2P7"
+8	8	6	empty	empty
+8	8	7	0	"2P7"
+8	8	8	343 Sp19	"1H23"
+8	8	9	161 Sp8	"1P7"
+8	8	10	343 Sp19	"1H23"
+8	8	11	161 Sp8	"1P7"
+8	8	12	343 Sp19	"1H23"
+8	8	13	161 Sp8	"1P7"
+8	8	14	empty	empty
+8	9	1	empty	empty
+8	9	2	empty	empty
+8	9	3	601 Sp24	"2D15"
+8	9	4	empty	empty
+8	9	5	601 Sp24	"2D15"
+8	9	6	empty	empty
+8	9	7	601 Sp24	"2D15"
+8	9	8	369 Sp12	"1L23"
+8	9	9	188 Sp0	"1D15"
+8	9	10	369 Sp12	"1L23"
+8	9	11	188 Sp0	"1D15"
+8	9	12	369 Sp12	"1L23"
+8	9	13	188 Sp0	"1D15"
+8	9	14	empty	empty
+8	10	1	Grid Marker	"2D23"
+8	10	2	empty	empty
+8	10	3	0	"2H15"
+8	10	4	empty	empty
+8	10	5	0	"2H15"
+8	10	6	empty	empty
+8	10	7	0	"2H15"
+8	10	8	394 Sp20	"1P23"
+8	10	9	225 Sp0	"1H15"
+8	10	10	394 Sp20	"1P23"
+8	10	11	225 Sp0	"1H15"
+8	10	12	394 Sp20	"1P23"
+8	10	13	225 Sp0	"1H15"
+8	10	14	empty	empty
+8	11	1	Grid Marker	"2D23"
+8	11	2	empty	empty
+8	11	3	601 Sp24	"2D15"
+8	11	4	empty	empty
+8	11	5	601 Sp24	"2D15"
+8	11	6	empty	empty
+8	11	7	601 Sp24	"2D15"
+8	11	8	369 Sp12	"1L23"
+8	11	9	188 Sp0	"1D15"
+8	11	10	369 Sp12	"1L23"
+8	11	11	188 Sp0	"1D15"
+8	11	12	369 Sp12	"1L23"
+8	11	13	188 Sp0	"1D15"
+8	11	14	empty	empty
+8	12	1	Grid Marker	"2D23"
+8	12	2	empty	empty
+8	12	3	0	"2H15"
+8	12	4	empty	empty
+8	12	5	0	"2H15"
+8	12	6	empty	empty
+8	12	7	0	"2H15"
+8	12	8	394 Sp20	"1P23"
+8	12	9	225 Sp0	"1H15"
+8	12	10	394 Sp20	"1P23"
+8	12	11	225 Sp0	"1H15"
+8	12	12	394 Sp20	"1P23"
+8	12	13	225 Sp0	"1H15"
+8	12	14	empty	empty
+9	1	1	empty	empty
+9	1	2	620 Sp14	"2I14"
+9	1	3	406 Sp0	"2A6"
+9	1	4	620 Sp14	"2I14"
+9	1	5	406 Sp0	"2A6"
+9	1	6	620 Sp14	"2I14"
+9	1	7	406 Sp0	"2A6"
+9	1	8	234 Sp8	"1I14"
+9	1	9	14 Sp8	"1A6"
+9	1	10	234 Sp8	"1I14"
+9	1	11	14 Sp8	"1A6"
+9	1	12	234 Sp8	"1I14"
+9	1	13	14 Sp8	"1A6"
+9	1	14	Grid Marker	"2A22"
+9	2	1	empty	empty
+9	2	2	635 Sp14	"2M14"
+9	2	3	430 Sp0	"2E6"
+9	2	4	635 Sp14	"2M14"
+9	2	5	430 Sp0	"2E6"
+9	2	6	635 Sp14	"2M14"
+9	2	7	430 Sp0	"2E6"
+9	2	8	258 Sp0	"1M14"
+9	2	9	33 Sp8	"1E6"
+9	2	10	258 Sp0	"1M14"
+9	2	11	33 Sp8	"1E6"
+9	2	12	258 Sp0	"1M14"
+9	2	13	33 Sp8	"1E6"
+9	2	14	Grid Marker	"2A22"
+9	3	1	empty	empty
+9	3	2	620 Sp14	"2I14"
+9	3	3	406 Sp0	"2A6"
+9	3	4	620 Sp14	"2I14"
+9	3	5	406 Sp0	"2A6"
+9	3	6	620 Sp14	"2I14"
+9	3	7	406 Sp0	"2A6"
+9	3	8	234 Sp8	"1I14"
+9	3	9	14 Sp8	"1A6"
+9	3	10	234 Sp8	"1I14"
+9	3	11	14 Sp8	"1A6"
+9	3	12	234 Sp8	"1I14"
+9	3	13	14 Sp8	"1A6"
+9	3	14	empty	empty
+9	4	1	empty	empty
+9	4	2	635 Sp14	"2M14"
+9	4	3	430 Sp0	"2E6"
+9	4	4	635 Sp14	"2M14"
+9	4	5	430 Sp0	"2E6"
+9	4	6	635 Sp14	"2M14"
+9	4	7	430 Sp0	"2E6"
+9	4	8	258 Sp0	"1M14"
+9	4	9	33 Sp8	"1E6"
+9	4	10	258 Sp0	"1M14"
+9	4	11	33 Sp8	"1E6"
+9	4	12	258 Sp0	"1M14"
+9	4	13	33 Sp8	"1E6"
+9	4	14	empty	empty
+9	5	1	empty	empty
+9	5	2	empty	empty
+9	5	3	455 Sp21	"2I6"
+9	5	4	empty	empty
+9	5	5	455 Sp21	"2I6"
+9	5	6	empty	empty
+9	5	7	455 Sp21	"2I6"
+9	5	8	286 Sp0	"1A22"
+9	5	9	52 Sp9	"1I6"
+9	5	10	286 Sp0	"1A22"
+9	5	11	52 Sp9	"1I6"
+9	5	12	286 Sp0	"1A22"
+9	5	13	52 Sp9	"1I6"
+9	5	14	empty	empty
+9	6	1	empty	empty
+9	6	2	empty	empty
+9	6	3	483 Sp22	"2M6"
+9	6	4	empty	empty
+9	6	5	483 Sp22	"2M6"
+9	6	6	empty	empty
+9	6	7	483 Sp22	"2M6"
+9	6	8	324 Sp10	"1E22"
+9	6	9	74 Sp0	"1M6"
+9	6	10	324 Sp10	"1E22"
+9	6	11	74 Sp0	"1M6"
+9	6	12	324 Sp10	"1E22"
+9	6	13	74 Sp0	"1M6"
+9	6	14	empty	empty
+9	7	1	empty	empty
+9	7	2	empty	empty
+9	7	3	455 Sp21	"2I6"
+9	7	4	empty	empty
+9	7	5	455 Sp21	"2I6"
+9	7	6	empty	empty
+9	7	7	455 Sp21	"2I6"
+9	7	8	286 Sp0	"1A22"
+9	7	9	52 Sp9	"1I6"
+9	7	10	286 Sp0	"1A22"
+9	7	11	52 Sp9	"1I6"
+9	7	12	286 Sp0	"1A22"
+9	7	13	52 Sp9	"1I6"
+9	7	14	empty	empty
+9	8	1	empty	empty
+9	8	2	empty	empty
+9	8	3	483 Sp22	"2M6"
+9	8	4	empty	empty
+9	8	5	483 Sp22	"2M6"
+9	8	6	empty	empty
+9	8	7	483 Sp22	"2M6"
+9	8	8	324 Sp10	"1E22"
+9	8	9	74 Sp0	"1M6"
+9	8	10	324 Sp10	"1E22"
+9	8	11	74 Sp0	"1M6"
+9	8	12	324 Sp10	"1E22"
+9	8	13	74 Sp0	"1M6"
+9	8	14	empty	empty
+9	9	1	empty	empty
+9	9	2	empty	empty
+9	9	3	590 Sp14	"2A14"
+9	9	4	empty	empty
+9	9	5	590 Sp14	"2A14"
+9	9	6	empty	empty
+9	9	7	590 Sp14	"2A14"
+9	9	8	354 Sp0	"1I22"
+9	9	9	171 Sp8	"1A14"
+9	9	10	354 Sp0	"1I22"
+9	9	11	171 Sp8	"1A14"
+9	9	12	354 Sp0	"1I22"
+9	9	13	171 Sp8	"1A14"
+9	9	14	empty	empty
+9	10	1	Grid Marker	"2A22"
+9	10	2	empty	empty
+9	10	3	605 Sp24	"2E14"
+9	10	4	empty	empty
+9	10	5	605 Sp24	"2E14"
+9	10	6	empty	empty
+9	10	7	605 Sp24	"2E14"
+9	10	8	379 Sp0	"1M22"
+9	10	9	199 Sp9	"1E14"
+9	10	10	379 Sp0	"1M22"
+9	10	11	199 Sp9	"1E14"
+9	10	12	379 Sp0	"1M22"
+9	10	13	199 Sp9	"1E14"
+9	10	14	empty	empty
+9	11	1	Grid Marker	"2A22"
+9	11	2	empty	empty
+9	11	3	590 Sp14	"2A14"
+9	11	4	empty	empty
+9	11	5	590 Sp14	"2A14"
+9	11	6	empty	empty
+9	11	7	590 Sp14	"2A14"
+9	11	8	354 Sp0	"1I22"
+9	11	9	171 Sp8	"1A14"
+9	11	10	354 Sp0	"1I22"
+9	11	11	171 Sp8	"1A14"
+9	11	12	354 Sp0	"1I22"
+9	11	13	171 Sp8	"1A14"
+9	11	14	empty	empty
+9	12	1	Grid Marker	"2A22"
+9	12	2	empty	empty
+9	12	3	605 Sp24	"2E14"
+9	12	4	empty	empty
+9	12	5	605 Sp24	"2E14"
+9	12	6	empty	empty
+9	12	7	605 Sp24	"2E14"
+9	12	8	379 Sp0	"1M22"
+9	12	9	199 Sp9	"1E14"
+9	12	10	379 Sp0	"1M22"
+9	12	11	199 Sp9	"1E14"
+9	12	12	379 Sp0	"1M22"
+9	12	13	199 Sp9	"1E14"
+9	12	14	empty	empty
+10	1	1	empty	empty
+10	1	2	621 Sp14	"2J14"
+10	1	3	407 Sp21	"2B6"
+10	1	4	621 Sp14	"2J14"
+10	1	5	407 Sp21	"2B6"
+10	1	6	621 Sp14	"2J14"
+10	1	7	407 Sp21	"2B6"
+10	1	8	235 Sp0	"1J14"
+10	1	9	15 Sp8	"1B6"
+10	1	10	235 Sp0	"1J14"
+10	1	11	15 Sp8	"1B6"
+10	1	12	235 Sp0	"1J14"
+10	1	13	15 Sp8	"1B6"
+10	1	14	Grid Marker	"2B22"
+10	2	1	empty	empty
+10	2	2	636 Sp12	"2N14"
+10	2	3	431 Sp0	"2F6"
+10	2	4	636 Sp12	"2N14"
+10	2	5	431 Sp0	"2F6"
+10	2	6	636 Sp12	"2N14"
+10	2	7	431 Sp0	"2F6"
+10	2	8	258 Sp8	"1N14"
+10	2	9	34 Sp0	"1F6"
+10	2	10	258 Sp8	"1N14"
+10	2	11	34 Sp0	"1F6"
+10	2	12	258 Sp8	"1N14"
+10	2	13	34 Sp0	"1F6"
+10	2	14	Grid Marker	"2B22"
+10	3	1	empty	empty
+10	3	2	621 Sp14	"2J14"
+10	3	3	407 Sp21	"2B6"
+10	3	4	621 Sp14	"2J14"
+10	3	5	407 Sp21	"2B6"
+10	3	6	621 Sp14	"2J14"
+10	3	7	407 Sp21	"2B6"
+10	3	8	235 Sp0	"1J14"
+10	3	9	15 Sp8	"1B6"
+10	3	10	235 Sp0	"1J14"
+10	3	11	15 Sp8	"1B6"
+10	3	12	235 Sp0	"1J14"
+10	3	13	15 Sp8	"1B6"
+10	3	14	empty	empty
+10	4	1	empty	empty
+10	4	2	636 Sp12	"2N14"
+10	4	3	431 Sp0	"2F6"
+10	4	4	636 Sp12	"2N14"
+10	4	5	431 Sp0	"2F6"
+10	4	6	636 Sp12	"2N14"
+10	4	7	431 Sp0	"2F6"
+10	4	8	258 Sp8	"1N14"
+10	4	9	34 Sp0	"1F6"
+10	4	10	258 Sp8	"1N14"
+10	4	11	34 Sp0	"1F6"
+10	4	12	258 Sp8	"1N14"
+10	4	13	34 Sp0	"1F6"
+10	4	14	empty	empty
+10	5	1	empty	empty
+10	5	2	empty	empty
+10	5	3	456 Sp21	"2J6"
+10	5	4	empty	empty
+10	5	5	456 Sp21	"2J6"
+10	5	6	empty	empty
+10	5	7	456 Sp21	"2J6"
+10	5	8	287 Sp8	"1B22"
+10	5	9	53 Sp9	"1J6"
+10	5	10	287 Sp8	"1B22"
+10	5	11	53 Sp9	"1J6"
+10	5	12	287 Sp8	"1B22"
+10	5	13	53 Sp9	"1J6"
+10	5	14	empty	empty
+10	6	1	empty	empty
+10	6	2	empty	empty
+10	6	3	484 Sp22	"2N6"
+10	6	4	empty	empty
+10	6	5	484 Sp22	"2N6"
+10	6	6	empty	empty
+10	6	7	484 Sp22	"2N6"
+10	6	8	325 Sp10	"1F22"
+10	6	9	75 Sp0	"1N6"
+10	6	10	325 Sp10	"1F22"
+10	6	11	75 Sp0	"1N6"
+10	6	12	325 Sp10	"1F22"
+10	6	13	75 Sp0	"1N6"
+10	6	14	empty	empty
+10	7	1	empty	empty
+10	7	2	empty	empty
+10	7	3	456 Sp21	"2J6"
+10	7	4	empty	empty
+10	7	5	456 Sp21	"2J6"
+10	7	6	empty	empty
+10	7	7	456 Sp21	"2J6"
+10	7	8	287 Sp8	"1B22"
+10	7	9	53 Sp9	"1J6"
+10	7	10	287 Sp8	"1B22"
+10	7	11	53 Sp9	"1J6"
+10	7	12	287 Sp8	"1B22"
+10	7	13	53 Sp9	"1J6"
+10	7	14	empty	empty
+10	8	1	empty	empty
+10	8	2	empty	empty
+10	8	3	484 Sp22	"2N6"
+10	8	4	empty	empty
+10	8	5	484 Sp22	"2N6"
+10	8	6	empty	empty
+10	8	7	484 Sp22	"2N6"
+10	8	8	325 Sp10	"1F22"
+10	8	9	75 Sp0	"1N6"
+10	8	10	325 Sp10	"1F22"
+10	8	11	75 Sp0	"1N6"
+10	8	12	325 Sp10	"1F22"
+10	8	13	75 Sp0	"1N6"
+10	8	14	empty	empty
+10	9	1	empty	empty
+10	9	2	empty	empty
+10	9	3	591 Sp0	"2B14"
+10	9	4	empty	empty
+10	9	5	591 Sp0	"2B14"
+10	9	6	empty	empty
+10	9	7	591 Sp0	"2B14"
+10	9	8	355 Sp0	"1J22"
+10	9	9	173 Sp8	"1B14"
+10	9	10	355 Sp0	"1J22"
+10	9	11	173 Sp8	"1B14"
+10	9	12	355 Sp0	"1J22"
+10	9	13	173 Sp8	"1B14"
+10	9	14	empty	empty
+10	10	1	Grid Marker	"2B22"
+10	10	2	empty	empty
+10	10	3	0	"2F14"
+10	10	4	empty	empty
+10	10	5	0	"2F14"
+10	10	6	empty	empty
+10	10	7	0	"2F14"
+10	10	8	380 Sp0	"1N22"
+10	10	9	200 Sp9	"1F14"
+10	10	10	380 Sp0	"1N22"
+10	10	11	200 Sp9	"1F14"
+10	10	12	380 Sp0	"1N22"
+10	10	13	200 Sp9	"1F14"
+10	10	14	empty	empty
+10	11	1	Grid Marker	"2B22"
+10	11	2	empty	empty
+10	11	3	591 Sp0	"2B14"
+10	11	4	empty	empty
+10	11	5	591 Sp0	"2B14"
+10	11	6	empty	empty
+10	11	7	591 Sp0	"2B14"
+10	11	8	355 Sp0	"1J22"
+10	11	9	173 Sp8	"1B14"
+10	11	10	355 Sp0	"1J22"
+10	11	11	173 Sp8	"1B14"
+10	11	12	355 Sp0	"1J22"
+10	11	13	173 Sp8	"1B14"
+10	11	14	empty	empty
+10	12	1	Grid Marker	"2B22"
+10	12	2	empty	empty
+10	12	3	0	"2F14"
+10	12	4	empty	empty
+10	12	5	0	"2F14"
+10	12	6	empty	empty
+10	12	7	0	"2F14"
+10	12	8	380 Sp0	"1N22"
+10	12	9	200 Sp9	"1F14"
+10	12	10	380 Sp0	"1N22"
+10	12	11	200 Sp9	"1F14"
+10	12	12	380 Sp0	"1N22"
+10	12	13	200 Sp9	"1F14"
+10	12	14	empty	empty
+11	1	1	empty	empty
+11	1	2	628 Sp14	"2K14"
+11	1	3	418 Sp19	"2C6"
+11	1	4	628 Sp14	"2K14"
+11	1	5	418 Sp19	"2C6"
+11	1	6	628 Sp14	"2K14"
+11	1	7	418 Sp19	"2C6"
+11	1	8	248 Sp0	"1K14"
+11	1	9	24 Sp0	"1C6"
+11	1	10	248 Sp0	"1K14"
+11	1	11	24 Sp0	"1C6"
+11	1	12	248 Sp0	"1K14"
+11	1	13	24 Sp0	"1C6"
+11	1	14	Grid Marker	"2C22"
+11	2	1	empty	empty
+11	2	2	0	"2O14"
+11	2	3	443 Sp14	"2G6"
+11	2	4	0	"2O14"
+11	2	5	443 Sp14	"2G6"
+11	2	6	0	"2O14"
+11	2	7	443 Sp14	"2G6"
+11	2	8	270 Sp0	"1O14"
+11	2	9	44 Sp8	"1G6"
+11	2	10	270 Sp0	"1O14"
+11	2	11	44 Sp8	"1G6"
+11	2	12	270 Sp0	"1O14"
+11	2	13	44 Sp8	"1G6"
+11	2	14	Grid Marker	"2C22"
+11	3	1	empty	empty
+11	3	2	628 Sp14	"2K14"
+11	3	3	418 Sp19	"2C6"
+11	3	4	628 Sp14	"2K14"
+11	3	5	418 Sp19	"2C6"
+11	3	6	628 Sp14	"2K14"
+11	3	7	418 Sp19	"2C6"
+11	3	8	248 Sp0	"1K14"
+11	3	9	24 Sp0	"1C6"
+11	3	10	248 Sp0	"1K14"
+11	3	11	24 Sp0	"1C6"
+11	3	12	248 Sp0	"1K14"
+11	3	13	24 Sp0	"1C6"
+11	3	14	empty	empty
+11	4	1	empty	empty
+11	4	2	0	"2O14"
+11	4	3	443 Sp14	"2G6"
+11	4	4	0	"2O14"
+11	4	5	443 Sp14	"2G6"
+11	4	6	0	"2O14"
+11	4	7	443 Sp14	"2G6"
+11	4	8	270 Sp0	"1O14"
+11	4	9	44 Sp8	"1G6"
+11	4	10	270 Sp0	"1O14"
+11	4	11	44 Sp8	"1G6"
+11	4	12	270 Sp0	"1O14"
+11	4	13	44 Sp8	"1G6"
+11	4	14	empty	empty
+11	5	1	empty	empty
+11	5	2	empty	empty
+11	5	3	468 Sp8	"2K6"
+11	5	4	empty	empty
+11	5	5	468 Sp8	"2K6"
+11	5	6	empty	empty
+11	5	7	468 Sp8	"2K6"
+11	5	8	307 Sp10	"1C22"
+11	5	9	62 Sp0	"1K6"
+11	5	10	307 Sp10	"1C22"
+11	5	11	62 Sp0	"1K6"
+11	5	12	307 Sp10	"1C22"
+11	5	13	62 Sp0	"1K6"
+11	5	14	empty	empty
+11	6	1	empty	empty
+11	6	2	empty	empty
+11	6	3	496Sp21	"2O6"
+11	6	4	empty	empty
+11	6	5	496Sp21	"2O6"
+11	6	6	empty	empty
+11	6	7	496Sp21	"2O6"
+11	6	8	340 Sp17	"1G22"
+11	6	9	85 Sp8	"1O6"
+11	6	10	340 Sp17	"1G22"
+11	6	11	85 Sp8	"1O6"
+11	6	12	340 Sp17	"1G22"
+11	6	13	85 Sp8	"1O6"
+11	6	14	empty	empty
+11	7	1	empty	empty
+11	7	2	empty	empty
+11	7	3	468 Sp8	"2K6"
+11	7	4	empty	empty
+11	7	5	468 Sp8	"2K6"
+11	7	6	empty	empty
+11	7	7	468 Sp8	"2K6"
+11	7	8	307 Sp10	"1C22"
+11	7	9	62 Sp0	"1K6"
+11	7	10	307 Sp10	"1C22"
+11	7	11	62 Sp0	"1K6"
+11	7	12	307 Sp10	"1C22"
+11	7	13	62 Sp0	"1K6"
+11	7	14	empty	empty
+11	8	1	empty	empty
+11	8	2	empty	empty
+11	8	3	496Sp21	"2O6"
+11	8	4	empty	empty
+11	8	5	496Sp21	"2O6"
+11	8	6	empty	empty
+11	8	7	496Sp21	"2O6"
+11	8	8	340 Sp17	"1G22"
+11	8	9	85 Sp8	"1O6"
+11	8	10	340 Sp17	"1G22"
+11	8	11	85 Sp8	"1O6"
+11	8	12	340 Sp17	"1G22"
+11	8	13	85 Sp8	"1O6"
+11	8	14	empty	empty
+11	9	1	empty	empty
+11	9	2	empty	empty
+11	9	3	598 Sp0	"2C14"
+11	9	4	empty	empty
+11	9	5	598 Sp0	"2C14"
+11	9	6	empty	empty
+11	9	7	598 Sp0	"2C14"
+11	9	8	366 Sp14	"1K22"
+11	9	9	185 Sp8	"1C14"
+11	9	10	366 Sp14	"1K22"
+11	9	11	185 Sp8	"1C14"
+11	9	12	366 Sp14	"1K22"
+11	9	13	185 Sp8	"1C14"
+11	9	14	empty	empty
+11	10	1	Grid Marker	"2C22"
+11	10	2	empty	empty
+11	10	3	613 Sp24	"2G14"
+11	10	4	empty	empty
+11	10	5	613 Sp24	"2G14"
+11	10	6	empty	empty
+11	10	7	613 Sp24	"2G14"
+11	10	8	391 Sp21	"1O22"
+11	10	9	221 Sp0	"1G14"
+11	10	10	391 Sp21	"1O22"
+11	10	11	221 Sp0	"1G14"
+11	10	12	391 Sp21	"1O22"
+11	10	13	221 Sp0	"1G14"
+11	10	14	empty	empty
+11	11	1	Grid Marker	"2C22"
+11	11	2	empty	empty
+11	11	3	598 Sp0	"2C14"
+11	11	4	empty	empty
+11	11	5	598 Sp0	"2C14"
+11	11	6	empty	empty
+11	11	7	598 Sp0	"2C14"
+11	11	8	366 Sp14	"1K22"
+11	11	9	185 Sp8	"1C14"
+11	11	10	366 Sp14	"1K22"
+11	11	11	185 Sp8	"1C14"
+11	11	12	366 Sp14	"1K22"
+11	11	13	185 Sp8	"1C14"
+11	11	14	empty	empty
+11	12	1	Grid Marker	"2C22"
+11	12	2	empty	empty
+11	12	3	613 Sp24	"2G14"
+11	12	4	empty	empty
+11	12	5	613 Sp24	"2G14"
+11	12	6	empty	empty
+11	12	7	613 Sp24	"2G14"
+11	12	8	391 Sp21	"1O22"
+11	12	9	221 Sp0	"1G14"
+11	12	10	391 Sp21	"1O22"
+11	12	11	221 Sp0	"1G14"
+11	12	12	391 Sp21	"1O22"
+11	12	13	221 Sp0	"1G14"
+11	12	14	empty	empty
+12	1	1	empty	empty
+12	1	2	0	"2L14"
+12	1	3	419 Sp19	"2D6"
+12	1	4	0	"2L14"
+12	1	5	419 Sp19	"2D6"
+12	1	6	0	"2L14"
+12	1	7	419 Sp19	"2D6"
+12	1	8	249 Sp0	"1L14"
+12	1	9	25 Sp0	"1D6"
+12	1	10	249 Sp0	"1L14"
+12	1	11	25 Sp0	"1D6"
+12	1	12	249 Sp0	"1L14"
+12	1	13	25 Sp0	"1D6"
+12	1	14	Grid Marker	"2D22"
+12	2	1	empty	empty
+12	2	2	0	"2P14"
+12	2	3	444 Sp22	"2H6"
+12	2	4	0	"2P14"
+12	2	5	444 Sp22	"2H6"
+12	2	6	0	"2P14"
+12	2	7	444 Sp22	"2H6"
+12	2	8	271 Sp0	"1P14"
+12	2	9	46 Sp8	"1H6"
+12	2	10	271 Sp0	"1P14"
+12	2	11	46 Sp8	"1H6"
+12	2	12	271 Sp0	"1P14"
+12	2	13	46 Sp8	"1H6"
+12	2	14	Grid Marker	"2D22"
+12	3	1	empty	empty
+12	3	2	0	"2L14"
+12	3	3	419 Sp19	"2D6"
+12	3	4	0	"2L14"
+12	3	5	419 Sp19	"2D6"
+12	3	6	0	"2L14"
+12	3	7	419 Sp19	"2D6"
+12	3	8	249 Sp0	"1L14"
+12	3	9	25 Sp0	"1D6"
+12	3	10	249 Sp0	"1L14"
+12	3	11	25 Sp0	"1D6"
+12	3	12	249 Sp0	"1L14"
+12	3	13	25 Sp0	"1D6"
+12	3	14	empty	empty
+12	4	1	empty	empty
+12	4	2	0	"2P14"
+12	4	3	444 Sp22	"2H6"
+12	4	4	0	"2P14"
+12	4	5	444 Sp22	"2H6"
+12	4	6	0	"2P14"
+12	4	7	444 Sp22	"2H6"
+12	4	8	271 Sp0	"1P14"
+12	4	9	46 Sp8	"1H6"
+12	4	10	271 Sp0	"1P14"
+12	4	11	46 Sp8	"1H6"
+12	4	12	271 Sp0	"1P14"
+12	4	13	46 Sp8	"1H6"
+12	4	14	empty	empty
+12	5	1	empty	empty
+12	5	2	empty	empty
+12	5	3	469 Sp0	"2L6"
+12	5	4	empty	empty
+12	5	5	469 Sp0	"2L6"
+12	5	6	empty	empty
+12	5	7	469 Sp0	"2L6"
+12	5	8	311 Sp14	"1D22"
+12	5	9	64 Sp0	"1L6"
+12	5	10	311 Sp14	"1D22"
+12	5	11	64 Sp0	"1L6"
+12	5	12	311 Sp14	"1D22"
+12	5	13	64 Sp0	"1L6"
+12	5	14	empty	empty
+12	6	1	empty	empty
+12	6	2	empty	empty
+12	6	3	499 Sp8	"2P6"
+12	6	4	empty	empty
+12	6	5	499 Sp8	"2P6"
+12	6	6	empty	empty
+12	6	7	499 Sp8	"2P6"
+12	6	8	341 Sp8	"1H22"
+12	6	9	86 Sp8	"1P6"
+12	6	10	341 Sp8	"1H22"
+12	6	11	86 Sp8	"1P6"
+12	6	12	341 Sp8	"1H22"
+12	6	13	86 Sp8	"1P6"
+12	6	14	empty	empty
+12	7	1	empty	empty
+12	7	2	empty	empty
+12	7	3	469 Sp0	"2L6"
+12	7	4	empty	empty
+12	7	5	469 Sp0	"2L6"
+12	7	6	empty	empty
+12	7	7	469 Sp0	"2L6"
+12	7	8	311 Sp14	"1D22"
+12	7	9	64 Sp0	"1L6"
+12	7	10	311 Sp14	"1D22"
+12	7	11	64 Sp0	"1L6"
+12	7	12	311 Sp14	"1D22"
+12	7	13	64 Sp0	"1L6"
+12	7	14	empty	empty
+12	8	1	empty	empty
+12	8	2	empty	empty
+12	8	3	499 Sp8	"2P6"
+12	8	4	empty	empty
+12	8	5	499 Sp8	"2P6"
+12	8	6	empty	empty
+12	8	7	499 Sp8	"2P6"
+12	8	8	341 Sp8	"1H22"
+12	8	9	86 Sp8	"1P6"
+12	8	10	341 Sp8	"1H22"
+12	8	11	86 Sp8	"1P6"
+12	8	12	341 Sp8	"1H22"
+12	8	13	86 Sp8	"1P6"
+12	8	14	empty	empty
+12	9	1	empty	empty
+12	9	2	empty	empty
+12	9	3	599 Sp0	"2D14"
+12	9	4	empty	empty
+12	9	5	599 Sp0	"2D14"
+12	9	6	empty	empty
+12	9	7	599 Sp0	"2D14"
+12	9	8	367 Sp12	"1L22"
+12	9	9	186 Sp8	"1D14"
+12	9	10	367 Sp12	"1L22"
+12	9	11	186 Sp8	"1D14"
+12	9	12	367 Sp12	"1L22"
+12	9	13	186 Sp8	"1D14"
+12	9	14	empty	empty
+12	10	1	Grid Marker	"2D22"
+12	10	2	empty	empty
+12	10	3	0	"2H14"
+12	10	4	empty	empty
+12	10	5	0	"2H14"
+12	10	6	empty	empty
+12	10	7	0	"2H14"
+12	10	8	392 Sp21	"1P22"
+12	10	9	223 Sp0	"1H14"
+12	10	10	392 Sp21	"1P22"
+12	10	11	223 Sp0	"1H14"
+12	10	12	392 Sp21	"1P22"
+12	10	13	223 Sp0	"1H14"
+12	10	14	empty	empty
+12	11	1	Grid Marker	"2D22"
+12	11	2	empty	empty
+12	11	3	599 Sp0	"2D14"
+12	11	4	empty	empty
+12	11	5	599 Sp0	"2D14"
+12	11	6	empty	empty
+12	11	7	599 Sp0	"2D14"
+12	11	8	367 Sp12	"1L22"
+12	11	9	186 Sp8	"1D14"
+12	11	10	367 Sp12	"1L22"
+12	11	11	186 Sp8	"1D14"
+12	11	12	367 Sp12	"1L22"
+12	11	13	186 Sp8	"1D14"
+12	11	14	empty	empty
+12	12	1	Grid Marker	"2D22"
+12	12	2	empty	empty
+12	12	3	0	"2H14"
+12	12	4	empty	empty
+12	12	5	0	"2H14"
+12	12	6	empty	empty
+12	12	7	0	"2H14"
+12	12	8	392 Sp21	"1P22"
+12	12	9	223 Sp0	"1H14"
+12	12	10	392 Sp21	"1P22"
+12	12	11	223 Sp0	"1H14"
+12	12	12	392 Sp21	"1P22"
+12	12	13	223 Sp0	"1H14"
+12	12	14	empty	empty
+13	1	1	empty	empty
+13	1	2	618 Sp14	"2I13"
+13	1	3	404 Sp0	"2A5"
+13	1	4	618 Sp14	"2I13"
+13	1	5	404 Sp0	"2A5"
+13	1	6	618 Sp14	"2I13"
+13	1	7	404 Sp0	"2A5"
+13	1	8	232 Sp0	"1I13"
+13	1	9	13 Sp8	"1A5"
+13	1	10	232 Sp0	"1I13"
+13	1	11	13 Sp8	"1A5"
+13	1	12	232 Sp0	"1I13"
+13	1	13	13 Sp8	"1A5"
+13	1	14	Grid Marker	"2A21"
+13	2	1	empty	empty
+13	2	2	633 Sp12	"2M13"
+13	2	3	428 Sp24	"2E5"
+13	2	4	633 Sp12	"2M13"
+13	2	5	428 Sp24	"2E5"
+13	2	6	633 Sp12	"2M13"
+13	2	7	428 Sp24	"2E5"
+13	2	8	255 Sp8	"1M13"
+13	2	9	32 Sp8	"1E5"
+13	2	10	255 Sp8	"1M13"
+13	2	11	32 Sp8	"1E5"
+13	2	12	255 Sp8	"1M13"
+13	2	13	32 Sp8	"1E5"
+13	2	14	Grid Marker	"2A21"
+13	3	1	empty	empty
+13	3	2	618 Sp14	"2I13"
+13	3	3	404 Sp0	"2A5"
+13	3	4	618 Sp14	"2I13"
+13	3	5	404 Sp0	"2A5"
+13	3	6	618 Sp14	"2I13"
+13	3	7	404 Sp0	"2A5"
+13	3	8	232 Sp0	"1I13"
+13	3	9	13 Sp8	"1A5"
+13	3	10	232 Sp0	"1I13"
+13	3	11	13 Sp8	"1A5"
+13	3	12	232 Sp0	"1I13"
+13	3	13	13 Sp8	"1A5"
+13	3	14	empty	empty
+13	4	1	empty	empty
+13	4	2	633 Sp12	"2M13"
+13	4	3	428 Sp24	"2E5"
+13	4	4	633 Sp12	"2M13"
+13	4	5	428 Sp24	"2E5"
+13	4	6	633 Sp12	"2M13"
+13	4	7	428 Sp24	"2E5"
+13	4	8	255 Sp8	"1M13"
+13	4	9	32 Sp8	"1E5"
+13	4	10	255 Sp8	"1M13"
+13	4	11	32 Sp8	"1E5"
+13	4	12	255 Sp8	"1M13"
+13	4	13	32 Sp8	"1E5"
+13	4	14	empty	empty
+13	5	1	empty	empty
+13	5	2	empty	empty
+13	5	3	453 Sp19	"2I5"
+13	5	4	empty	empty
+13	5	5	453 Sp19	"2I5"
+13	5	6	empty	empty
+13	5	7	453 Sp19	"2I5"
+13	5	8	284 Sp0	"1A21"
+13	5	9	0	"1I5"
+13	5	10	284 Sp0	"1A21"
+13	5	11	0	"1I5"
+13	5	12	284 Sp0	"1A21"
+13	5	13	0	"1I5"
+13	5	14	empty	empty
+13	6	1	empty	empty
+13	6	2	empty	empty
+13	6	3	481 Sp0	"2M5"
+13	6	4	empty	empty
+13	6	5	481 Sp0	"2M5"
+13	6	6	empty	empty
+13	6	7	481 Sp0	"2M5"
+13	6	8	321 Sp8	"1E21"
+13	6	9	72 Sp8	"1M5"
+13	6	10	321 Sp8	"1E21"
+13	6	11	72 Sp8	"1M5"
+13	6	12	321 Sp8	"1E21"
+13	6	13	72 Sp8	"1M5"
+13	6	14	empty	empty
+13	7	1	empty	empty
+13	7	2	empty	empty
+13	7	3	453 Sp19	"2I5"
+13	7	4	empty	empty
+13	7	5	453 Sp19	"2I5"
+13	7	6	empty	empty
+13	7	7	453 Sp19	"2I5"
+13	7	8	284 Sp0	"1A21"
+13	7	9	0	"1I5"
+13	7	10	284 Sp0	"1A21"
+13	7	11	0	"1I5"
+13	7	12	284 Sp0	"1A21"
+13	7	13	0	"1I5"
+13	7	14	empty	empty
+13	8	1	empty	empty
+13	8	2	empty	empty
+13	8	3	481 Sp0	"2M5"
+13	8	4	empty	empty
+13	8	5	481 Sp0	"2M5"
+13	8	6	empty	empty
+13	8	7	481 Sp0	"2M5"
+13	8	8	321 Sp8	"1E21"
+13	8	9	72 Sp8	"1M5"
+13	8	10	321 Sp8	"1E21"
+13	8	11	72 Sp8	"1M5"
+13	8	12	321 Sp8	"1E21"
+13	8	13	72 Sp8	"1M5"
+13	8	14	empty	empty
+13	9	1	empty	empty
+13	9	2	empty	empty
+13	9	3	588 Sp24	"2A13"
+13	9	4	empty	empty
+13	9	5	588 Sp24	"2A13"
+13	9	6	empty	empty
+13	9	7	588 Sp24	"2A13"
+13	9	8	352 Sp0	"1I21"
+13	9	9	169 Sp8	"1A13"
+13	9	10	352 Sp0	"1I21"
+13	9	11	169 Sp8	"1A13"
+13	9	12	352 Sp0	"1I21"
+13	9	13	169 Sp8	"1A13"
+13	9	14	empty	empty
+13	10	1	Grid Marker	"2A21"
+13	10	2	empty	empty
+13	10	3	0	"2E13"
+13	10	4	empty	empty
+13	10	5	0	"2E13"
+13	10	6	empty	empty
+13	10	7	0	"2E13"
+13	10	8	375 Sp22	"1M21"
+13	10	9	0	"1E13"
+13	10	10	375 Sp22	"1M21"
+13	10	11	0	"1E13"
+13	10	12	375 Sp22	"1M21"
+13	10	13	0	"1E13"
+13	10	14	empty	empty
+13	11	1	Grid Marker	"2A21"
+13	11	2	empty	empty
+13	11	3	588 Sp24	"2A13"
+13	11	4	empty	empty
+13	11	5	588 Sp24	"2A13"
+13	11	6	empty	empty
+13	11	7	588 Sp24	"2A13"
+13	11	8	352 Sp0	"1I21"
+13	11	9	169 Sp8	"1A13"
+13	11	10	352 Sp0	"1I21"
+13	11	11	169 Sp8	"1A13"
+13	11	12	352 Sp0	"1I21"
+13	11	13	169 Sp8	"1A13"
+13	11	14	empty	empty
+13	12	1	Grid Marker	"2A21"
+13	12	2	empty	empty
+13	12	3	0	"2E13"
+13	12	4	empty	empty
+13	12	5	0	"2E13"
+13	12	6	empty	empty
+13	12	7	0	"2E13"
+13	12	8	375 Sp22	"1M21"
+13	12	9	0	"1E13"
+13	12	10	375 Sp22	"1M21"
+13	12	11	0	"1E13"
+13	12	12	375 Sp22	"1M21"
+13	12	13	0	"1E13"
+13	12	14	empty	empty
+14	1	1	empty	empty
+14	1	2	619 Sp14	"2J13"
+14	1	3	405 Sp0	"2B5"
+14	1	4	619 Sp14	"2J13"
+14	1	5	405 Sp0	"2B5"
+14	1	6	619 Sp14	"2J13"
+14	1	7	405 Sp0	"2B5"
+14	1	8	233 Sp8	"1J13"
+14	1	9	13 Sp11	"1B5"
+14	1	10	233 Sp8	"1J13"
+14	1	11	13 Sp11	"1B5"
+14	1	12	233 Sp8	"1J13"
+14	1	13	13 Sp11	"1B5"
+14	1	14	Grid Marker	"2B21"
+14	2	1	empty	empty
+14	2	2	634 Sp14	"2N13"
+14	2	3	429 Sp14	"2F5"
+14	2	4	634 Sp14	"2N13"
+14	2	5	429 Sp14	"2F5"
+14	2	6	634 Sp14	"2N13"
+14	2	7	429 Sp14	"2F5"
+14	2	8	257 Sp0	"1N13"
+14	2	9	33 Sp0	"1F5"
+14	2	10	257 Sp0	"1N13"
+14	2	11	33 Sp0	"1F5"
+14	2	12	257 Sp0	"1N13"
+14	2	13	33 Sp0	"1F5"
+14	2	14	Grid Marker	"2B21"
+14	3	1	empty	empty
+14	3	2	619 Sp14	"2J13"
+14	3	3	405 Sp0	"2B5"
+14	3	4	619 Sp14	"2J13"
+14	3	5	405 Sp0	"2B5"
+14	3	6	619 Sp14	"2J13"
+14	3	7	405 Sp0	"2B5"
+14	3	8	233 Sp8	"1J13"
+14	3	9	13 Sp11	"1B5"
+14	3	10	233 Sp8	"1J13"
+14	3	11	13 Sp11	"1B5"
+14	3	12	233 Sp8	"1J13"
+14	3	13	13 Sp11	"1B5"
+14	3	14	empty	empty
+14	4	1	empty	empty
+14	4	2	634 Sp14	"2N13"
+14	4	3	429 Sp14	"2F5"
+14	4	4	634 Sp14	"2N13"
+14	4	5	429 Sp14	"2F5"
+14	4	6	634 Sp14	"2N13"
+14	4	7	429 Sp14	"2F5"
+14	4	8	257 Sp0	"1N13"
+14	4	9	33 Sp0	"1F5"
+14	4	10	257 Sp0	"1N13"
+14	4	11	33 Sp0	"1F5"
+14	4	12	257 Sp0	"1N13"
+14	4	13	33 Sp0	"1F5"
+14	4	14	empty	empty
+14	5	1	empty	empty
+14	5	2	empty	empty
+14	5	3	454 Sp21	"2J5"
+14	5	4	empty	empty
+14	5	5	454 Sp21	"2J5"
+14	5	6	empty	empty
+14	5	7	454 Sp21	"2J5"
+14	5	8	285 Sp0	"1B21"
+14	5	9	51 Sp21	"1J5"
+14	5	10	285 Sp0	"1B21"
+14	5	11	51 Sp21	"1J5"
+14	5	12	285 Sp0	"1B21"
+14	5	13	51 Sp21	"1J5"
+14	5	14	empty	empty
+14	6	1	empty	empty
+14	6	2	empty	empty
+14	6	3	482 Sp0	"2N5"
+14	6	4	empty	empty
+14	6	5	482 Sp0	"2N5"
+14	6	6	empty	empty
+14	6	7	482 Sp0	"2N5"
+14	6	8	322 Sp12	"1F21"
+14	6	9	73 Sp8	"1N5"
+14	6	10	322 Sp12	"1F21"
+14	6	11	73 Sp8	"1N5"
+14	6	12	322 Sp12	"1F21"
+14	6	13	73 Sp8	"1N5"
+14	6	14	empty	empty
+14	7	1	empty	empty
+14	7	2	empty	empty
+14	7	3	454 Sp21	"2J5"
+14	7	4	empty	empty
+14	7	5	454 Sp21	"2J5"
+14	7	6	empty	empty
+14	7	7	454 Sp21	"2J5"
+14	7	8	285 Sp0	"1B21"
+14	7	9	51 Sp21	"1J5"
+14	7	10	285 Sp0	"1B21"
+14	7	11	51 Sp21	"1J5"
+14	7	12	285 Sp0	"1B21"
+14	7	13	51 Sp21	"1J5"
+14	7	14	empty	empty
+14	8	1	empty	empty
+14	8	2	empty	empty
+14	8	3	482 Sp0	"2N5"
+14	8	4	empty	empty
+14	8	5	482 Sp0	"2N5"
+14	8	6	empty	empty
+14	8	7	482 Sp0	"2N5"
+14	8	8	322 Sp12	"1F21"
+14	8	9	73 Sp8	"1N5"
+14	8	10	322 Sp12	"1F21"
+14	8	11	73 Sp8	"1N5"
+14	8	12	322 Sp12	"1F21"
+14	8	13	73 Sp8	"1N5"
+14	8	14	empty	empty
+14	9	1	empty	empty
+14	9	2	empty	empty
+14	9	3	589 Sp24	"2B13"
+14	9	4	empty	empty
+14	9	5	589 Sp24	"2B13"
+14	9	6	empty	empty
+14	9	7	589 Sp24	"2B13"
+14	9	8	353 Sp0	"1J21"
+14	9	9	170 Sp8	"1B13"
+14	9	10	353 Sp0	"1J21"
+14	9	11	170 Sp8	"1B13"
+14	9	12	353 Sp0	"1J21"
+14	9	13	170 Sp8	"1B13"
+14	9	14	empty	empty
+14	10	1	Grid Marker	"2B21"
+14	10	2	empty	empty
+14	10	3	604 Sp24	"2F13"
+14	10	4	empty	empty
+14	10	5	604 Sp24	"2F13"
+14	10	6	empty	empty
+14	10	7	604 Sp24	"2F13"
+14	10	8	376 Sp22	"1N21"
+14	10	9	198 Sp12	"1F13"
+14	10	10	376 Sp22	"1N21"
+14	10	11	198 Sp12	"1F13"
+14	10	12	376 Sp22	"1N21"
+14	10	13	198 Sp12	"1F13"
+14	10	14	empty	empty
+14	11	1	Grid Marker	"2B21"
+14	11	2	empty	empty
+14	11	3	589 Sp24	"2B13"
+14	11	4	empty	empty
+14	11	5	589 Sp24	"2B13"
+14	11	6	empty	empty
+14	11	7	589 Sp24	"2B13"
+14	11	8	353 Sp0	"1J21"
+14	11	9	170 Sp8	"1B13"
+14	11	10	353 Sp0	"1J21"
+14	11	11	170 Sp8	"1B13"
+14	11	12	353 Sp0	"1J21"
+14	11	13	170 Sp8	"1B13"
+14	11	14	empty	empty
+14	12	1	Grid Marker	"2B21"
+14	12	2	empty	empty
+14	12	3	604 Sp24	"2F13"
+14	12	4	empty	empty
+14	12	5	604 Sp24	"2F13"
+14	12	6	empty	empty
+14	12	7	604 Sp24	"2F13"
+14	12	8	376 Sp22	"1N21"
+14	12	9	198 Sp12	"1F13"
+14	12	10	376 Sp22	"1N21"
+14	12	11	198 Sp12	"1F13"
+14	12	12	376 Sp22	"1N21"
+14	12	13	198 Sp12	"1F13"
+14	12	14	empty	empty
+15	1	1	empty	empty
+15	1	2	626 Sp14	"2K13"
+15	1	3	416 Sp14	"2C5"
+15	1	4	626 Sp14	"2K13"
+15	1	5	416 Sp14	"2C5"
+15	1	6	626 Sp14	"2K13"
+15	1	7	416 Sp14	"2C5"
+15	1	8	246 Sp0	"1K13"
+15	1	9	22 Sp8	"1C5"
+15	1	10	246 Sp0	"1K13"
+15	1	11	22 Sp8	"1C5"
+15	1	12	246 Sp0	"1K13"
+15	1	13	22 Sp8	"1C5"
+15	1	14	Grid Marker	"2C21"
+15	2	1	empty	empty
+15	2	2	0	"2O13"
+15	2	3	441 Sp14	"2G5"
+15	2	4	0	"2O13"
+15	2	5	441 Sp14	"2G5"
+15	2	6	0	"2O13"
+15	2	7	441 Sp14	"2G5"
+15	2	8	268 Sp8	"1O13"
+15	2	9	42 Sp8	"1G5"
+15	2	10	268 Sp8	"1O13"
+15	2	11	42 Sp8	"1G5"
+15	2	12	268 Sp8	"1O13"
+15	2	13	42 Sp8	"1G5"
+15	2	14	Grid Marker	"2C21"
+15	3	1	empty	empty
+15	3	2	626 Sp14	"2K13"
+15	3	3	416 Sp14	"2C5"
+15	3	4	626 Sp14	"2K13"
+15	3	5	416 Sp14	"2C5"
+15	3	6	626 Sp14	"2K13"
+15	3	7	416 Sp14	"2C5"
+15	3	8	246 Sp0	"1K13"
+15	3	9	22 Sp8	"1C5"
+15	3	10	246 Sp0	"1K13"
+15	3	11	22 Sp8	"1C5"
+15	3	12	246 Sp0	"1K13"
+15	3	13	22 Sp8	"1C5"
+15	3	14	empty	empty
+15	4	1	empty	empty
+15	4	2	0	"2O13"
+15	4	3	441 Sp14	"2G5"
+15	4	4	0	"2O13"
+15	4	5	441 Sp14	"2G5"
+15	4	6	0	"2O13"
+15	4	7	441 Sp14	"2G5"
+15	4	8	268 Sp8	"1O13"
+15	4	9	42 Sp8	"1G5"
+15	4	10	268 Sp8	"1O13"
+15	4	11	42 Sp8	"1G5"
+15	4	12	268 Sp8	"1O13"
+15	4	13	42 Sp8	"1G5"
+15	4	14	empty	empty
+15	5	1	empty	empty
+15	5	2	empty	empty
+15	5	3	466 Sp10	"2K5"
+15	5	4	empty	empty
+15	5	5	466 Sp10	"2K5"
+15	5	6	empty	empty
+15	5	7	466 Sp10	"2K5"
+15	5	8	305 Sp0	"1C21"
+15	5	9	60 Sp8	"1K5"
+15	5	10	305 Sp0	"1C21"
+15	5	11	60 Sp8	"1K5"
+15	5	12	305 Sp0	"1C21"
+15	5	13	60 Sp8	"1K5"
+15	5	14	empty	empty
+15	6	1	empty	empty
+15	6	2	empty	empty
+15	6	3	494Sp21	"2O5"
+15	6	4	empty	empty
+15	6	5	494Sp21	"2O5"
+15	6	6	empty	empty
+15	6	7	494Sp21	"2O5"
+15	6	8	337 Sp12	"1G21"
+15	6	9	82 Sp8	"1O5"
+15	6	10	337 Sp12	"1G21"
+15	6	11	82 Sp8	"1O5"
+15	6	12	337 Sp12	"1G21"
+15	6	13	82 Sp8	"1O5"
+15	6	14	empty	empty
+15	7	1	empty	empty
+15	7	2	empty	empty
+15	7	3	466 Sp10	"2K5"
+15	7	4	empty	empty
+15	7	5	466 Sp10	"2K5"
+15	7	6	empty	empty
+15	7	7	466 Sp10	"2K5"
+15	7	8	305 Sp0	"1C21"
+15	7	9	60 Sp8	"1K5"
+15	7	10	305 Sp0	"1C21"
+15	7	11	60 Sp8	"1K5"
+15	7	12	305 Sp0	"1C21"
+15	7	13	60 Sp8	"1K5"
+15	7	14	empty	empty
+15	8	1	empty	empty
+15	8	2	empty	empty
+15	8	3	494Sp21	"2O5"
+15	8	4	empty	empty
+15	8	5	494Sp21	"2O5"
+15	8	6	empty	empty
+15	8	7	494Sp21	"2O5"
+15	8	8	337 Sp12	"1G21"
+15	8	9	82 Sp8	"1O5"
+15	8	10	337 Sp12	"1G21"
+15	8	11	82 Sp8	"1O5"
+15	8	12	337 Sp12	"1G21"
+15	8	13	82 Sp8	"1O5"
+15	8	14	empty	empty
+15	9	1	empty	empty
+15	9	2	empty	empty
+15	9	3	596 Sp14	"2C13"
+15	9	4	empty	empty
+15	9	5	596 Sp14	"2C13"
+15	9	6	empty	empty
+15	9	7	596 Sp14	"2C13"
+15	9	8	364 Sp0	"1K21"
+15	9	9	183 Sp8	"1C13"
+15	9	10	364 Sp0	"1K21"
+15	9	11	183 Sp8	"1C13"
+15	9	12	364 Sp0	"1K21"
+15	9	13	183 Sp8	"1C13"
+15	9	14	empty	empty
+15	10	1	Grid Marker	"2C21"
+15	10	2	empty	empty
+15	10	3	611 Sp24	"2G13"
+15	10	4	empty	empty
+15	10	5	611 Sp24	"2G13"
+15	10	6	empty	empty
+15	10	7	611 Sp24	"2G13"
+15	10	8	389 Sp22	"1O21"
+15	10	9	220 Sp8	"1G13"
+15	10	10	389 Sp22	"1O21"
+15	10	11	220 Sp8	"1G13"
+15	10	12	389 Sp22	"1O21"
+15	10	13	220 Sp8	"1G13"
+15	10	14	empty	empty
+15	11	1	Grid Marker	"2C21"
+15	11	2	empty	empty
+15	11	3	596 Sp14	"2C13"
+15	11	4	empty	empty
+15	11	5	596 Sp14	"2C13"
+15	11	6	empty	empty
+15	11	7	596 Sp14	"2C13"
+15	11	8	364 Sp0	"1K21"
+15	11	9	183 Sp8	"1C13"
+15	11	10	364 Sp0	"1K21"
+15	11	11	183 Sp8	"1C13"
+15	11	12	364 Sp0	"1K21"
+15	11	13	183 Sp8	"1C13"
+15	11	14	empty	empty
+15	12	1	Grid Marker	"2C21"
+15	12	2	empty	empty
+15	12	3	611 Sp24	"2G13"
+15	12	4	empty	empty
+15	12	5	611 Sp24	"2G13"
+15	12	6	empty	empty
+15	12	7	611 Sp24	"2G13"
+15	12	8	389 Sp22	"1O21"
+15	12	9	220 Sp8	"1G13"
+15	12	10	389 Sp22	"1O21"
+15	12	11	220 Sp8	"1G13"
+15	12	12	389 Sp22	"1O21"
+15	12	13	220 Sp8	"1G13"
+15	12	14	empty	empty
+16	1	1	empty	empty
+16	1	2	627 Sp14	"2L13"
+16	1	3	417 Sp0	"2D5"
+16	1	4	627 Sp14	"2L13"
+16	1	5	417 Sp0	"2D5"
+16	1	6	627 Sp14	"2L13"
+16	1	7	417 Sp0	"2D5"
+16	1	8	247 Sp0	"1L13"
+16	1	9	23 Sp0	"1D5"
+16	1	10	247 Sp0	"1L13"
+16	1	11	23 Sp0	"1D5"
+16	1	12	247 Sp0	"1L13"
+16	1	13	23 Sp0	"1D5"
+16	1	14	Grid Marker	"2D21"
+16	2	1	empty	empty
+16	2	2	0	"2P13"
+16	2	3	442 Sp14	"2H5"
+16	2	4	0	"2P13"
+16	2	5	442 Sp14	"2H5"
+16	2	6	0	"2P13"
+16	2	7	442 Sp14	"2H5"
+16	2	8	269 Sp0	"1P13"
+16	2	9	43 Sp8	"1H5"
+16	2	10	269 Sp0	"1P13"
+16	2	11	43 Sp8	"1H5"
+16	2	12	269 Sp0	"1P13"
+16	2	13	43 Sp8	"1H5"
+16	2	14	Grid Marker	"2D21"
+16	3	1	empty	empty
+16	3	2	627 Sp14	"2L13"
+16	3	3	417 Sp0	"2D5"
+16	3	4	627 Sp14	"2L13"
+16	3	5	417 Sp0	"2D5"
+16	3	6	627 Sp14	"2L13"
+16	3	7	417 Sp0	"2D5"
+16	3	8	247 Sp0	"1L13"
+16	3	9	23 Sp0	"1D5"
+16	3	10	247 Sp0	"1L13"
+16	3	11	23 Sp0	"1D5"
+16	3	12	247 Sp0	"1L13"
+16	3	13	23 Sp0	"1D5"
+16	3	14	empty	empty
+16	4	1	empty	empty
+16	4	2	0	"2P13"
+16	4	3	442 Sp14	"2H5"
+16	4	4	0	"2P13"
+16	4	5	442 Sp14	"2H5"
+16	4	6	0	"2P13"
+16	4	7	442 Sp14	"2H5"
+16	4	8	269 Sp0	"1P13"
+16	4	9	43 Sp8	"1H5"
+16	4	10	269 Sp0	"1P13"
+16	4	11	43 Sp8	"1H5"
+16	4	12	269 Sp0	"1P13"
+16	4	13	43 Sp8	"1H5"
+16	4	14	empty	empty
+16	5	1	empty	empty
+16	5	2	empty	empty
+16	5	3	467 Sp8	"2L5"
+16	5	4	empty	empty
+16	5	5	467 Sp8	"2L5"
+16	5	6	empty	empty
+16	5	7	467 Sp8	"2L5"
+16	5	8	306 Sp0	"1D21"
+16	5	9	61 Sp0	"1L5"
+16	5	10	306 Sp0	"1D21"
+16	5	11	61 Sp0	"1L5"
+16	5	12	306 Sp0	"1D21"
+16	5	13	61 Sp0	"1L5"
+16	5	14	empty	empty
+16	6	1	empty	empty
+16	6	2	empty	empty
+16	6	3	495Sp21	"2P5"
+16	6	4	empty	empty
+16	6	5	495Sp21	"2P5"
+16	6	6	empty	empty
+16	6	7	495Sp21	"2P5"
+16	6	8	0	"1H21"
+16	6	9	84 Sp8	"1P5"
+16	6	10	0	"1H21"
+16	6	11	84 Sp8	"1P5"
+16	6	12	0	"1H21"
+16	6	13	84 Sp8	"1P5"
+16	6	14	empty	empty
+16	7	1	empty	empty
+16	7	2	empty	empty
+16	7	3	467 Sp8	"2L5"
+16	7	4	empty	empty
+16	7	5	467 Sp8	"2L5"
+16	7	6	empty	empty
+16	7	7	467 Sp8	"2L5"
+16	7	8	306 Sp0	"1D21"
+16	7	9	61 Sp0	"1L5"
+16	7	10	306 Sp0	"1D21"
+16	7	11	61 Sp0	"1L5"
+16	7	12	306 Sp0	"1D21"
+16	7	13	61 Sp0	"1L5"
+16	7	14	empty	empty
+16	8	1	empty	empty
+16	8	2	empty	empty
+16	8	3	495Sp21	"2P5"
+16	8	4	empty	empty
+16	8	5	495Sp21	"2P5"
+16	8	6	empty	empty
+16	8	7	495Sp21	"2P5"
+16	8	8	0	"1H21"
+16	8	9	84 Sp8	"1P5"
+16	8	10	0	"1H21"
+16	8	11	84 Sp8	"1P5"
+16	8	12	0	"1H21"
+16	8	13	84 Sp8	"1P5"
+16	8	14	empty	empty
+16	9	1	empty	empty
+16	9	2	empty	empty
+16	9	3	0	"2D13"
+16	9	4	empty	empty
+16	9	5	0	"2D13"
+16	9	6	empty	empty
+16	9	7	0	"2D13"
+16	9	8	365 Sp0	"1L21"
+16	9	9	184 Sp8	"1D13"
+16	9	10	365 Sp0	"1L21"
+16	9	11	184 Sp8	"1D13"
+16	9	12	365 Sp0	"1L21"
+16	9	13	184 Sp8	"1D13"
+16	9	14	empty	empty
+16	10	1	Grid Marker	"2D21"
+16	10	2	empty	empty
+16	10	3	0	"2H13"
+16	10	4	empty	empty
+16	10	5	0	"2H13"
+16	10	6	empty	empty
+16	10	7	0	"2H13"
+16	10	8	390 Sp21	"1P21"
+16	10	9	220 Sp14	"1H13"
+16	10	10	390 Sp21	"1P21"
+16	10	11	220 Sp14	"1H13"
+16	10	12	390 Sp21	"1P21"
+16	10	13	220 Sp14	"1H13"
+16	10	14	empty	empty
+16	11	1	Grid Marker	"2D21"
+16	11	2	empty	empty
+16	11	3	0	"2D13"
+16	11	4	empty	empty
+16	11	5	0	"2D13"
+16	11	6	empty	empty
+16	11	7	0	"2D13"
+16	11	8	365 Sp0	"1L21"
+16	11	9	184 Sp8	"1D13"
+16	11	10	365 Sp0	"1L21"
+16	11	11	184 Sp8	"1D13"
+16	11	12	365 Sp0	"1L21"
+16	11	13	184 Sp8	"1D13"
+16	11	14	empty	empty
+16	12	1	Grid Marker	"2D21"
+16	12	2	empty	empty
+16	12	3	0	"2H13"
+16	12	4	empty	empty
+16	12	5	0	"2H13"
+16	12	6	empty	empty
+16	12	7	0	"2H13"
+16	12	8	390 Sp21	"1P21"
+16	12	9	220 Sp14	"1H13"
+16	12	10	390 Sp21	"1P21"
+16	12	11	220 Sp14	"1H13"
+16	12	12	390 Sp21	"1P21"
+16	12	13	220 Sp14	"1H13"
+16	12	14	empty	empty
+17	1	1	empty	empty
+17	1	2	556 Sp0	"2I12"
+17	1	3	402 Sp14	"2A4"
+17	1	4	556 Sp0	"2I12"
+17	1	5	402 Sp14	"2A4"
+17	1	6	556 Sp0	"2I12"
+17	1	7	402 Sp14	"2A4"
+17	1	8	136 Sp8	"1I12"
+17	1	9	11 Sp9	"1A4"
+17	1	10	136 Sp8	"1I12"
+17	1	11	11 Sp9	"1A4"
+17	1	12	136 Sp8	"1I12"
+17	1	13	11 Sp9	"1A4"
+17	1	14	Grid Marker	"2A20"
+17	2	1	empty	empty
+17	2	2	576 Sp12	"2M12"
+17	2	3	426 Sp0	"2E4"
+17	2	4	576 Sp12	"2M12"
+17	2	5	426 Sp0	"2E4"
+17	2	6	576 Sp12	"2M12"
+17	2	7	426 Sp0	"2E4"
+17	2	8	158 Sp8	"1M12"
+17	2	9	31 Sp8	"1E4"
+17	2	10	158 Sp8	"1M12"
+17	2	11	31 Sp8	"1E4"
+17	2	12	158 Sp8	"1M12"
+17	2	13	31 Sp8	"1E4"
+17	2	14	Grid Marker	"2A20"
+17	3	1	empty	empty
+17	3	2	556 Sp0	"2I12"
+17	3	3	402 Sp14	"2A4"
+17	3	4	556 Sp0	"2I12"
+17	3	5	402 Sp14	"2A4"
+17	3	6	556 Sp0	"2I12"
+17	3	7	402 Sp14	"2A4"
+17	3	8	136 Sp8	"1I12"
+17	3	9	11 Sp9	"1A4"
+17	3	10	136 Sp8	"1I12"
+17	3	11	11 Sp9	"1A4"
+17	3	12	136 Sp8	"1I12"
+17	3	13	11 Sp9	"1A4"
+17	3	14	empty	empty
+17	4	1	empty	empty
+17	4	2	576 Sp12	"2M12"
+17	4	3	426 Sp0	"2E4"
+17	4	4	576 Sp12	"2M12"
+17	4	5	426 Sp0	"2E4"
+17	4	6	576 Sp12	"2M12"
+17	4	7	426 Sp0	"2E4"
+17	4	8	158 Sp8	"1M12"
+17	4	9	31 Sp8	"1E4"
+17	4	10	158 Sp8	"1M12"
+17	4	11	31 Sp8	"1E4"
+17	4	12	158 Sp8	"1M12"
+17	4	13	31 Sp8	"1E4"
+17	4	14	empty	empty
+17	5	1	empty	empty
+17	5	2	empty	empty
+17	5	3	451 Sp22	"2I4"
+17	5	4	empty	empty
+17	5	5	451 Sp22	"2I4"
+17	5	6	empty	empty
+17	5	7	451 Sp22	"2I4"
+17	5	8	282 Sp0	"1A20"
+17	5	9	51 Sp24	"1I4"
+17	5	10	282 Sp0	"1A20"
+17	5	11	51 Sp24	"1I4"
+17	5	12	282 Sp0	"1A20"
+17	5	13	51 Sp24	"1I4"
+17	5	14	empty	empty
+17	6	1	empty	empty
+17	6	2	empty	empty
+17	6	3	479 Sp14	"2M4"
+17	6	4	empty	empty
+17	6	5	479 Sp14	"2M4"
+17	6	6	empty	empty
+17	6	7	479 Sp14	"2M4"
+17	6	8	317 Sp0	"1E20"
+17	6	9	69 Sp8	"1M4"
+17	6	10	317 Sp0	"1E20"
+17	6	11	69 Sp8	"1M4"
+17	6	12	317 Sp0	"1E20"
+17	6	13	69 Sp8	"1M4"
+17	6	14	empty	empty
+17	7	1	empty	empty
+17	7	2	empty	empty
+17	7	3	451 Sp22	"2I4"
+17	7	4	empty	empty
+17	7	5	451 Sp22	"2I4"
+17	7	6	empty	empty
+17	7	7	451 Sp22	"2I4"
+17	7	8	282 Sp0	"1A20"
+17	7	9	51 Sp24	"1I4"
+17	7	10	282 Sp0	"1A20"
+17	7	11	51 Sp24	"1I4"
+17	7	12	282 Sp0	"1A20"
+17	7	13	51 Sp24	"1I4"
+17	7	14	empty	empty
+17	8	1	empty	empty
+17	8	2	empty	empty
+17	8	3	479 Sp14	"2M4"
+17	8	4	empty	empty
+17	8	5	479 Sp14	"2M4"
+17	8	6	empty	empty
+17	8	7	479 Sp14	"2M4"
+17	8	8	317 Sp0	"1E20"
+17	8	9	69 Sp8	"1M4"
+17	8	10	317 Sp0	"1E20"
+17	8	11	69 Sp8	"1M4"
+17	8	12	317 Sp0	"1E20"
+17	8	13	69 Sp8	"1M4"
+17	8	14	empty	empty
+17	9	1	empty	empty
+17	9	2	empty	empty
+17	9	3	510 Sp0	"2A12"
+17	9	4	empty	empty
+17	9	5	510 Sp0	"2A12"
+17	9	6	empty	empty
+17	9	7	510 Sp0	"2A12"
+17	9	8	0	"1I20"
+17	9	9	97 Sp0	"1A12"
+17	9	10	0	"1I20"
+17	9	11	97 Sp0	"1A12"
+17	9	12	0	"1I20"
+17	9	13	97 Sp0	"1A12"
+17	9	14	empty	empty
+17	10	1	Grid Marker	"2A20"
+17	10	2	empty	empty
+17	10	3	533 Sp0	"2E12"
+17	10	4	empty	empty
+17	10	5	533 Sp0	"2E12"
+17	10	6	empty	empty
+17	10	7	533 Sp0	"2E12"
+17	10	8	373 Sp12	"1M20"
+17	10	9	115 Sp8	"1E12"
+17	10	10	373 Sp12	"1M20"
+17	10	11	115 Sp8	"1E12"
+17	10	12	373 Sp12	"1M20"
+17	10	13	115 Sp8	"1E12"
+17	10	14	empty	empty
+17	11	1	Grid Marker	"2A20"
+17	11	2	empty	empty
+17	11	3	510 Sp0	"2A12"
+17	11	4	empty	empty
+17	11	5	510 Sp0	"2A12"
+17	11	6	empty	empty
+17	11	7	510 Sp0	"2A12"
+17	11	8	0	"1I20"
+17	11	9	97 Sp0	"1A12"
+17	11	10	0	"1I20"
+17	11	11	97 Sp0	"1A12"
+17	11	12	0	"1I20"
+17	11	13	97 Sp0	"1A12"
+17	11	14	empty	empty
+17	12	1	Grid Marker	"2A20"
+17	12	2	empty	empty
+17	12	3	533 Sp0	"2E12"
+17	12	4	empty	empty
+17	12	5	533 Sp0	"2E12"
+17	12	6	empty	empty
+17	12	7	533 Sp0	"2E12"
+17	12	8	373 Sp12	"1M20"
+17	12	9	115 Sp8	"1E12"
+17	12	10	373 Sp12	"1M20"
+17	12	11	115 Sp8	"1E12"
+17	12	12	373 Sp12	"1M20"
+17	12	13	115 Sp8	"1E12"
+17	12	14	empty	empty
+18	1	1	empty	empty
+18	1	2	557 Sp14	"2J12"
+18	1	3	403 Sp12	"2B4"
+18	1	4	557 Sp14	"2J12"
+18	1	5	403 Sp12	"2B4"
+18	1	6	557 Sp14	"2J12"
+18	1	7	403 Sp12	"2B4"
+18	1	8	137v2 Sp0	"1J12"
+18	1	9	12 Sp8	"1B4"
+18	1	10	137v2 Sp0	"1J12"
+18	1	11	12 Sp8	"1B4"
+18	1	12	137v2 Sp0	"1J12"
+18	1	13	12 Sp8	"1B4"
+18	1	14	Grid Marker	"2B20"
+18	2	1	empty	empty
+18	2	2	0	"2N12"
+18	2	3	427 Sp19	"2F4"
+18	2	4	0	"2N12"
+18	2	5	427 Sp19	"2F4"
+18	2	6	0	"2N12"
+18	2	7	427 Sp19	"2F4"
+18	2	8	159 Sp8	"1N12"
+18	2	9	32 Sp0	"1F4"
+18	2	10	159 Sp8	"1N12"
+18	2	11	32 Sp0	"1F4"
+18	2	12	159 Sp8	"1N12"
+18	2	13	32 Sp0	"1F4"
+18	2	14	Grid Marker	"2B20"
+18	3	1	empty	empty
+18	3	2	557 Sp14	"2J12"
+18	3	3	403 Sp12	"2B4"
+18	3	4	557 Sp14	"2J12"
+18	3	5	403 Sp12	"2B4"
+18	3	6	557 Sp14	"2J12"
+18	3	7	403 Sp12	"2B4"
+18	3	8	137v2 Sp0	"1J12"
+18	3	9	12 Sp8	"1B4"
+18	3	10	137v2 Sp0	"1J12"
+18	3	11	12 Sp8	"1B4"
+18	3	12	137v2 Sp0	"1J12"
+18	3	13	12 Sp8	"1B4"
+18	3	14	empty	empty
+18	4	1	empty	empty
+18	4	2	0	"2N12"
+18	4	3	427 Sp19	"2F4"
+18	4	4	0	"2N12"
+18	4	5	427 Sp19	"2F4"
+18	4	6	0	"2N12"
+18	4	7	427 Sp19	"2F4"
+18	4	8	159 Sp8	"1N12"
+18	4	9	32 Sp0	"1F4"
+18	4	10	159 Sp8	"1N12"
+18	4	11	32 Sp0	"1F4"
+18	4	12	159 Sp8	"1N12"
+18	4	13	32 Sp0	"1F4"
+18	4	14	empty	empty
+18	5	1	empty	empty
+18	5	2	empty	empty
+18	5	3	452 Sp22	"2J4"
+18	5	4	empty	empty
+18	5	5	452 Sp22	"2J4"
+18	5	6	empty	empty
+18	5	7	452 Sp22	"2J4"
+18	5	8	283 Sp0	"1B20"
+18	5	9	51 Sp12	"1J4"
+18	5	10	283 Sp0	"1B20"
+18	5	11	51 Sp12	"1J4"
+18	5	12	283 Sp0	"1B20"
+18	5	13	51 Sp12	"1J4"
+18	5	14	empty	empty
+18	6	1	empty	empty
+18	6	2	empty	empty
+18	6	3	480 Sp14	"2N4"
+18	6	4	empty	empty
+18	6	5	480 Sp14	"2N4"
+18	6	6	empty	empty
+18	6	7	480 Sp14	"2N4"
+18	6	8	320 Sp8	"1F20"
+18	6	9	70 Sp8	"1N4"
+18	6	10	320 Sp8	"1F20"
+18	6	11	70 Sp8	"1N4"
+18	6	12	320 Sp8	"1F20"
+18	6	13	70 Sp8	"1N4"
+18	6	14	empty	empty
+18	7	1	empty	empty
+18	7	2	empty	empty
+18	7	3	452 Sp22	"2J4"
+18	7	4	empty	empty
+18	7	5	452 Sp22	"2J4"
+18	7	6	empty	empty
+18	7	7	452 Sp22	"2J4"
+18	7	8	283 Sp0	"1B20"
+18	7	9	51 Sp12	"1J4"
+18	7	10	283 Sp0	"1B20"
+18	7	11	51 Sp12	"1J4"
+18	7	12	283 Sp0	"1B20"
+18	7	13	51 Sp12	"1J4"
+18	7	14	empty	empty
+18	8	1	empty	empty
+18	8	2	empty	empty
+18	8	3	480 Sp14	"2N4"
+18	8	4	empty	empty
+18	8	5	480 Sp14	"2N4"
+18	8	6	empty	empty
+18	8	7	480 Sp14	"2N4"
+18	8	8	320 Sp8	"1F20"
+18	8	9	70 Sp8	"1N4"
+18	8	10	320 Sp8	"1F20"
+18	8	11	70 Sp8	"1N4"
+18	8	12	320 Sp8	"1F20"
+18	8	13	70 Sp8	"1N4"
+18	8	14	empty	empty
+18	9	1	empty	empty
+18	9	2	empty	empty
+18	9	3	511 Sp14	"2B12"
+18	9	4	empty	empty
+18	9	5	511 Sp14	"2B12"
+18	9	6	empty	empty
+18	9	7	511 Sp14	"2B12"
+18	9	8	351 Sp0	"1J20"
+18	9	9	98 Sp8	"1B12"
+18	9	10	351 Sp0	"1J20"
+18	9	11	98 Sp8	"1B12"
+18	9	12	351 Sp0	"1J20"
+18	9	13	98 Sp8	"1B12"
+18	9	14	empty	empty
+18	10	1	Grid Marker	"2B20"
+18	10	2	empty	empty
+18	10	3	534 Sp8	"2F12"
+18	10	4	empty	empty
+18	10	5	534 Sp8	"2F12"
+18	10	6	empty	empty
+18	10	7	534 Sp8	"2F12"
+18	10	8	374 Sp22	"1N20"
+18	10	9	116 Sp8	"1F12"
+18	10	10	374 Sp22	"1N20"
+18	10	11	116 Sp8	"1F12"
+18	10	12	374 Sp22	"1N20"
+18	10	13	116 Sp8	"1F12"
+18	10	14	empty	empty
+18	11	1	Grid Marker	"2B20"
+18	11	2	empty	empty
+18	11	3	511 Sp14	"2B12"
+18	11	4	empty	empty
+18	11	5	511 Sp14	"2B12"
+18	11	6	empty	empty
+18	11	7	511 Sp14	"2B12"
+18	11	8	351 Sp0	"1J20"
+18	11	9	98 Sp8	"1B12"
+18	11	10	351 Sp0	"1J20"
+18	11	11	98 Sp8	"1B12"
+18	11	12	351 Sp0	"1J20"
+18	11	13	98 Sp8	"1B12"
+18	11	14	empty	empty
+18	12	1	Grid Marker	"2B20"
+18	12	2	empty	empty
+18	12	3	534 Sp8	"2F12"
+18	12	4	empty	empty
+18	12	5	534 Sp8	"2F12"
+18	12	6	empty	empty
+18	12	7	534 Sp8	"2F12"
+18	12	8	374 Sp22	"1N20"
+18	12	9	116 Sp8	"1F12"
+18	12	10	374 Sp22	"1N20"
+18	12	11	116 Sp8	"1F12"
+18	12	12	374 Sp22	"1N20"
+18	12	13	116 Sp8	"1F12"
+18	12	14	empty	empty
+19	1	1	empty	empty
+19	1	2	567 Sp0	"2K12"
+19	1	3	414 Sp0	"2C4"
+19	1	4	567 Sp0	"2K12"
+19	1	5	414 Sp0	"2C4"
+19	1	6	567 Sp0	"2K12"
+19	1	7	414 Sp0	"2C4"
+19	1	8	147 Sp0	"1K12"
+19	1	9	21 Sp8	"1C4"
+19	1	10	147 Sp0	"1K12"
+19	1	11	21 Sp8	"1C4"
+19	1	12	147 Sp0	"1K12"
+19	1	13	21 Sp8	"1C4"
+19	1	14	Grid Marker	"2C20"
+19	2	1	empty	empty
+19	2	2	586 Sp0	"2O12"
+19	2	3	439 Sp14	"2G4"
+19	2	4	586 Sp0	"2O12"
+19	2	5	439 Sp14	"2G4"
+19	2	6	586 Sp0	"2O12"
+19	2	7	439 Sp14	"2G4"
+19	2	8	167 MDPLys	"1O12"
+19	2	9	40 Sp8	"1G4"
+19	2	10	167 MDPLys	"1O12"
+19	2	11	40 Sp8	"1G4"
+19	2	12	167 MDPLys	"1O12"
+19	2	13	40 Sp8	"1G4"
+19	2	14	Grid Marker	"2C20"
+19	3	1	empty	empty
+19	3	2	567 Sp0	"2K12"
+19	3	3	414 Sp0	"2C4"
+19	3	4	567 Sp0	"2K12"
+19	3	5	414 Sp0	"2C4"
+19	3	6	567 Sp0	"2K12"
+19	3	7	414 Sp0	"2C4"
+19	3	8	147 Sp0	"1K12"
+19	3	9	21 Sp8	"1C4"
+19	3	10	147 Sp0	"1K12"
+19	3	11	21 Sp8	"1C4"
+19	3	12	147 Sp0	"1K12"
+19	3	13	21 Sp8	"1C4"
+19	3	14	empty	empty
+19	4	1	empty	empty
+19	4	2	586 Sp0	"2O12"
+19	4	3	439 Sp14	"2G4"
+19	4	4	586 Sp0	"2O12"
+19	4	5	439 Sp14	"2G4"
+19	4	6	586 Sp0	"2O12"
+19	4	7	439 Sp14	"2G4"
+19	4	8	167 MDPLys	"1O12"
+19	4	9	40 Sp8	"1G4"
+19	4	10	167 MDPLys	"1O12"
+19	4	11	40 Sp8	"1G4"
+19	4	12	167 MDPLys	"1O12"
+19	4	13	40 Sp8	"1G4"
+19	4	14	empty	empty
+19	5	1	empty	empty
+19	5	2	empty	empty
+19	5	3	463 Sp21	"2K4"
+19	5	4	empty	empty
+19	5	5	463 Sp21	"2K4"
+19	5	6	empty	empty
+19	5	7	463 Sp21	"2K4"
+19	5	8	302 Sp0	"1C20"
+19	5	9	58 Sp10	"1K4"
+19	5	10	302 Sp0	"1C20"
+19	5	11	58 Sp10	"1K4"
+19	5	12	302 Sp0	"1C20"
+19	5	13	58 Sp10	"1K4"
+19	5	14	empty	empty
+19	6	1	empty	empty
+19	6	2	empty	empty
+19	6	3	492Sp21	"2O4"
+19	6	4	empty	empty
+19	6	5	492Sp21	"2O4"
+19	6	6	empty	empty
+19	6	7	492Sp21	"2O4"
+19	6	8	333 Sp14	"1G20"
+19	6	9	80 Sp18	"1O4"
+19	6	10	333 Sp14	"1G20"
+19	6	11	80 Sp18	"1O4"
+19	6	12	333 Sp14	"1G20"
+19	6	13	80 Sp18	"1O4"
+19	6	14	empty	empty
+19	7	1	empty	empty
+19	7	2	empty	empty
+19	7	3	463 Sp21	"2K4"
+19	7	4	empty	empty
+19	7	5	463 Sp21	"2K4"
+19	7	6	empty	empty
+19	7	7	463 Sp21	"2K4"
+19	7	8	302 Sp0	"1C20"
+19	7	9	58 Sp10	"1K4"
+19	7	10	302 Sp0	"1C20"
+19	7	11	58 Sp10	"1K4"
+19	7	12	302 Sp0	"1C20"
+19	7	13	58 Sp10	"1K4"
+19	7	14	empty	empty
+19	8	1	empty	empty
+19	8	2	empty	empty
+19	8	3	492Sp21	"2O4"
+19	8	4	empty	empty
+19	8	5	492Sp21	"2O4"
+19	8	6	empty	empty
+19	8	7	492Sp21	"2O4"
+19	8	8	333 Sp14	"1G20"
+19	8	9	80 Sp18	"1O4"
+19	8	10	333 Sp14	"1G20"
+19	8	11	80 Sp18	"1O4"
+19	8	12	333 Sp14	"1G20"
+19	8	13	80 Sp18	"1O4"
+19	8	14	empty	empty
+19	9	1	empty	empty
+19	9	2	empty	empty
+19	9	3	521 Sp14	"2C12"
+19	9	4	empty	empty
+19	9	5	521 Sp14	"2C12"
+19	9	6	empty	empty
+19	9	7	521 Sp14	"2C12"
+19	9	8	362 Sp0	"1K20"
+19	9	9	105 Sp10	"1C12"
+19	9	10	362 Sp0	"1K20"
+19	9	11	105 Sp10	"1C12"
+19	9	12	362 Sp0	"1K20"
+19	9	13	105 Sp10	"1C12"
+19	9	14	empty	empty
+19	10	1	Grid Marker	"2C20"
+19	10	2	empty	empty
+19	10	3	544 Sp8	"2G12"
+19	10	4	empty	empty
+19	10	5	544 Sp8	"2G12"
+19	10	6	empty	empty
+19	10	7	544 Sp8	"2G12"
+19	10	8	387 Sp20	"1O20"
+19	10	9	126 Sp14	"1G12"
+19	10	10	387 Sp20	"1O20"
+19	10	11	126 Sp14	"1G12"
+19	10	12	387 Sp20	"1O20"
+19	10	13	126 Sp14	"1G12"
+19	10	14	empty	empty
+19	11	1	Grid Marker	"2C20"
+19	11	2	empty	empty
+19	11	3	521 Sp14	"2C12"
+19	11	4	empty	empty
+19	11	5	521 Sp14	"2C12"
+19	11	6	empty	empty
+19	11	7	521 Sp14	"2C12"
+19	11	8	362 Sp0	"1K20"
+19	11	9	105 Sp10	"1C12"
+19	11	10	362 Sp0	"1K20"
+19	11	11	105 Sp10	"1C12"
+19	11	12	362 Sp0	"1K20"
+19	11	13	105 Sp10	"1C12"
+19	11	14	empty	empty
+19	12	1	Grid Marker	"2C20"
+19	12	2	empty	empty
+19	12	3	544 Sp8	"2G12"
+19	12	4	empty	empty
+19	12	5	544 Sp8	"2G12"
+19	12	6	empty	empty
+19	12	7	544 Sp8	"2G12"
+19	12	8	387 Sp20	"1O20"
+19	12	9	126 Sp14	"1G12"
+19	12	10	387 Sp20	"1O20"
+19	12	11	126 Sp14	"1G12"
+19	12	12	387 Sp20	"1O20"
+19	12	13	126 Sp14	"1G12"
+19	12	14	empty	empty
+20	1	1	empty	empty
+20	1	2	568 Sp0	"2L12"
+20	1	3	415 Sp14	"2D4"
+20	1	4	568 Sp0	"2L12"
+20	1	5	415 Sp14	"2D4"
+20	1	6	568 Sp0	"2L12"
+20	1	7	415 Sp14	"2D4"
+20	1	8	148 Sp0	"1L12"
+20	1	9	21 Sp14	"1D4"
+20	1	10	148 Sp0	"1L12"
+20	1	11	21 Sp14	"1D4"
+20	1	12	148 Sp0	"1L12"
+20	1	13	21 Sp14	"1D4"
+20	1	14	Grid Marker	"2D20"
+20	2	1	empty	empty
+20	2	2	587 Sp24	"2P12"
+20	2	3	440 Sp0	"2H4"
+20	2	4	587 Sp24	"2P12"
+20	2	5	440 Sp0	"2H4"
+20	2	6	587 Sp24	"2P12"
+20	2	7	440 Sp0	"2H4"
+20	2	8	168 Sp8	"1P12"
+20	2	9	41 Sp8	"1H4"
+20	2	10	168 Sp8	"1P12"
+20	2	11	41 Sp8	"1H4"
+20	2	12	168 Sp8	"1P12"
+20	2	13	41 Sp8	"1H4"
+20	2	14	Grid Marker	"2D20"
+20	3	1	empty	empty
+20	3	2	568 Sp0	"2L12"
+20	3	3	415 Sp14	"2D4"
+20	3	4	568 Sp0	"2L12"
+20	3	5	415 Sp14	"2D4"
+20	3	6	568 Sp0	"2L12"
+20	3	7	415 Sp14	"2D4"
+20	3	8	148 Sp0	"1L12"
+20	3	9	21 Sp14	"1D4"
+20	3	10	148 Sp0	"1L12"
+20	3	11	21 Sp14	"1D4"
+20	3	12	148 Sp0	"1L12"
+20	3	13	21 Sp14	"1D4"
+20	3	14	empty	empty
+20	4	1	empty	empty
+20	4	2	587 Sp24	"2P12"
+20	4	3	440 Sp0	"2H4"
+20	4	4	587 Sp24	"2P12"
+20	4	5	440 Sp0	"2H4"
+20	4	6	587 Sp24	"2P12"
+20	4	7	440 Sp0	"2H4"
+20	4	8	168 Sp8	"1P12"
+20	4	9	41 Sp8	"1H4"
+20	4	10	168 Sp8	"1P12"
+20	4	11	41 Sp8	"1H4"
+20	4	12	168 Sp8	"1P12"
+20	4	13	41 Sp8	"1H4"
+20	4	14	empty	empty
+20	5	1	empty	empty
+20	5	2	empty	empty
+20	5	3	465 Sp10	"2L4"
+20	5	4	empty	empty
+20	5	5	465 Sp10	"2L4"
+20	5	6	empty	empty
+20	5	7	465 Sp10	"2L4"
+20	5	8	303 Sp0	"1D20"
+20	5	9	60 Sp0	"1L4"
+20	5	10	303 Sp0	"1D20"
+20	5	11	60 Sp0	"1L4"
+20	5	12	303 Sp0	"1D20"
+20	5	13	60 Sp0	"1L4"
+20	5	14	empty	empty
+20	6	1	empty	empty
+20	6	2	empty	empty
+20	6	3	493Sp21	"2P4"
+20	6	4	empty	empty
+20	6	5	493Sp21	"2P4"
+20	6	6	empty	empty
+20	6	7	493Sp21	"2P4"
+20	6	8	336 Sp12	"1H20"
+20	6	9	81 Sp8	"1P4"
+20	6	10	336 Sp12	"1H20"
+20	6	11	81 Sp8	"1P4"
+20	6	12	336 Sp12	"1H20"
+20	6	13	81 Sp8	"1P4"
+20	6	14	empty	empty
+20	7	1	empty	empty
+20	7	2	empty	empty
+20	7	3	465 Sp10	"2L4"
+20	7	4	empty	empty
+20	7	5	465 Sp10	"2L4"
+20	7	6	empty	empty
+20	7	7	465 Sp10	"2L4"
+20	7	8	303 Sp0	"1D20"
+20	7	9	60 Sp0	"1L4"
+20	7	10	303 Sp0	"1D20"
+20	7	11	60 Sp0	"1L4"
+20	7	12	303 Sp0	"1D20"
+20	7	13	60 Sp0	"1L4"
+20	7	14	empty	empty
+20	8	1	empty	empty
+20	8	2	empty	empty
+20	8	3	493Sp21	"2P4"
+20	8	4	empty	empty
+20	8	5	493Sp21	"2P4"
+20	8	6	empty	empty
+20	8	7	493Sp21	"2P4"
+20	8	8	336 Sp12	"1H20"
+20	8	9	81 Sp8	"1P4"
+20	8	10	336 Sp12	"1H20"
+20	8	11	81 Sp8	"1P4"
+20	8	12	336 Sp12	"1H20"
+20	8	13	81 Sp8	"1P4"
+20	8	14	empty	empty
+20	9	1	empty	empty
+20	9	2	empty	empty
+20	9	3	522 Sp14	"2D12"
+20	9	4	empty	empty
+20	9	5	522 Sp14	"2D12"
+20	9	6	empty	empty
+20	9	7	522 Sp14	"2D12"
+20	9	8	363 Sp0	"1L20"
+20	9	9	106 Sp8	"1D12"
+20	9	10	363 Sp0	"1L20"
+20	9	11	106 Sp8	"1D12"
+20	9	12	363 Sp0	"1L20"
+20	9	13	106 Sp8	"1D12"
+20	9	14	empty	empty
+20	10	1	Grid Marker	"2D20"
+20	10	2	empty	empty
+20	10	3	545 Sp8	"2H12"
+20	10	4	empty	empty
+20	10	5	545 Sp8	"2H12"
+20	10	6	empty	empty
+20	10	7	545 Sp8	"2H12"
+20	10	8	388 Sp12	"1P20"
+20	10	9	126 Sp16	"1H12"
+20	10	10	388 Sp12	"1P20"
+20	10	11	126 Sp16	"1H12"
+20	10	12	388 Sp12	"1P20"
+20	10	13	126 Sp16	"1H12"
+20	10	14	empty	empty
+20	11	1	Grid Marker	"2D20"
+20	11	2	empty	empty
+20	11	3	522 Sp14	"2D12"
+20	11	4	empty	empty
+20	11	5	522 Sp14	"2D12"
+20	11	6	empty	empty
+20	11	7	522 Sp14	"2D12"
+20	11	8	363 Sp0	"1L20"
+20	11	9	106 Sp8	"1D12"
+20	11	10	363 Sp0	"1L20"
+20	11	11	106 Sp8	"1D12"
+20	11	12	363 Sp0	"1L20"
+20	11	13	106 Sp8	"1D12"
+20	11	14	empty	empty
+20	12	1	Grid Marker	"2D20"
+20	12	2	empty	empty
+20	12	3	545 Sp8	"2H12"
+20	12	4	empty	empty
+20	12	5	545 Sp8	"2H12"
+20	12	6	empty	empty
+20	12	7	545 Sp8	"2H12"
+20	12	8	388 Sp12	"1P20"
+20	12	9	126 Sp16	"1H12"
+20	12	10	388 Sp12	"1P20"
+20	12	11	126 Sp16	"1H12"
+20	12	12	388 Sp12	"1P20"
+20	12	13	126 Sp16	"1H12"
+20	12	14	empty	empty
+21	1	1	empty	empty
+21	1	2	554 Sp0	"2I11"
+21	1	3	400 Sp14	"2A3"
+21	1	4	554 Sp0	"2I11"
+21	1	5	400 Sp14	"2A3"
+21	1	6	554 Sp0	"2I11"
+21	1	7	400 Sp14	"2A3"
+21	1	8	134 Sp8	"1I11"
+21	1	9	10Sp15	"1A3"
+21	1	10	134 Sp8	"1I11"
+21	1	11	10Sp15	"1A3"
+21	1	12	134 Sp8	"1I11"
+21	1	13	10Sp15	"1A3"
+21	1	14	Grid Marker	"2A19"
+21	2	1	empty	empty
+21	2	2	575 Sp24	"2M11"
+21	2	3	424 Sp14	"2E3"
+21	2	4	575 Sp24	"2M11"
+21	2	5	424 Sp14	"2E3"
+21	2	6	575 Sp24	"2M11"
+21	2	7	424 Sp14	"2E3"
+21	2	8	155 Sp8	"1M11"
+21	2	9	30 Sp8	"1E3"
+21	2	10	155 Sp8	"1M11"
+21	2	11	30 Sp8	"1E3"
+21	2	12	155 Sp8	"1M11"
+21	2	13	30 Sp8	"1E3"
+21	2	14	Grid Marker	"2A19"
+21	3	1	empty	empty
+21	3	2	554 Sp0	"2I11"
+21	3	3	400 Sp14	"2A3"
+21	3	4	554 Sp0	"2I11"
+21	3	5	400 Sp14	"2A3"
+21	3	6	554 Sp0	"2I11"
+21	3	7	400 Sp14	"2A3"
+21	3	8	134 Sp8	"1I11"
+21	3	9	10Sp15	"1A3"
+21	3	10	134 Sp8	"1I11"
+21	3	11	10Sp15	"1A3"
+21	3	12	134 Sp8	"1I11"
+21	3	13	10Sp15	"1A3"
+21	3	14	empty	empty
+21	4	1	empty	empty
+21	4	2	575 Sp24	"2M11"
+21	4	3	424 Sp14	"2E3"
+21	4	4	575 Sp24	"2M11"
+21	4	5	424 Sp14	"2E3"
+21	4	6	575 Sp24	"2M11"
+21	4	7	424 Sp14	"2E3"
+21	4	8	155 Sp8	"1M11"
+21	4	9	30 Sp8	"1E3"
+21	4	10	155 Sp8	"1M11"
+21	4	11	30 Sp8	"1E3"
+21	4	12	155 Sp8	"1M11"
+21	4	13	30 Sp8	"1E3"
+21	4	14	empty	empty
+21	5	1	empty	empty
+21	5	2	empty	empty
+21	5	3	449 Sp14	"2I3"
+21	5	4	empty	empty
+21	5	5	449 Sp14	"2I3"
+21	5	6	empty	empty
+21	5	7	449 Sp14	"2I3"
+21	5	8	280 Sp0	"1A19"
+21	5	9	49 Sp13	"1I3"
+21	5	10	280 Sp0	"1A19"
+21	5	11	49 Sp13	"1I3"
+21	5	12	280 Sp0	"1A19"
+21	5	13	49 Sp13	"1I3"
+21	5	14	empty	empty
+21	6	1	empty	empty
+21	6	2	empty	empty
+21	6	3	476 Sp0	"2M3"
+21	6	4	empty	empty
+21	6	5	476 Sp0	"2M3"
+21	6	6	empty	empty
+21	6	7	476 Sp0	"2M3"
+21	6	8	315 Sp0	"1E19"
+21	6	9	67 Sp8	"1M3"
+21	6	10	315 Sp0	"1E19"
+21	6	11	67 Sp8	"1M3"
+21	6	12	315 Sp0	"1E19"
+21	6	13	67 Sp8	"1M3"
+21	6	14	empty	empty
+21	7	1	empty	empty
+21	7	2	empty	empty
+21	7	3	449 Sp14	"2I3"
+21	7	4	empty	empty
+21	7	5	449 Sp14	"2I3"
+21	7	6	empty	empty
+21	7	7	449 Sp14	"2I3"
+21	7	8	280 Sp0	"1A19"
+21	7	9	49 Sp13	"1I3"
+21	7	10	280 Sp0	"1A19"
+21	7	11	49 Sp13	"1I3"
+21	7	12	280 Sp0	"1A19"
+21	7	13	49 Sp13	"1I3"
+21	7	14	empty	empty
+21	8	1	empty	empty
+21	8	2	empty	empty
+21	8	3	476 Sp0	"2M3"
+21	8	4	empty	empty
+21	8	5	476 Sp0	"2M3"
+21	8	6	empty	empty
+21	8	7	476 Sp0	"2M3"
+21	8	8	315 Sp0	"1E19"
+21	8	9	67 Sp8	"1M3"
+21	8	10	315 Sp0	"1E19"
+21	8	11	67 Sp8	"1M3"
+21	8	12	315 Sp0	"1E19"
+21	8	13	67 Sp8	"1M3"
+21	8	14	empty	empty
+21	9	1	empty	empty
+21	9	2	empty	empty
+21	9	3	508 Sp21	"2A11"
+21	9	4	empty	empty
+21	9	5	508 Sp21	"2A11"
+21	9	6	empty	empty
+21	9	7	508 Sp21	"2A11"
+21	9	8	346 Sp12	"1I19"
+21	9	9	95 Sp8	"1A11"
+21	9	10	346 Sp12	"1I19"
+21	9	11	95 Sp8	"1A11"
+21	9	12	346 Sp12	"1I19"
+21	9	13	95 Sp8	"1A11"
+21	9	14	empty	empty
+21	10	1	Grid Marker	"2A19"
+21	10	2	empty	empty
+21	10	3	531 Sp0	"2E11"
+21	10	4	empty	empty
+21	10	5	531 Sp0	"2E11"
+21	10	6	empty	empty
+21	10	7	531 Sp0	"2E11"
+21	10	8	371 Sp12	"1M19"
+21	10	9	114 Sp0	"1E11"
+21	10	10	371 Sp12	"1M19"
+21	10	11	114 Sp0	"1E11"
+21	10	12	371 Sp12	"1M19"
+21	10	13	114 Sp0	"1E11"
+21	10	14	empty	empty
+21	11	1	Grid Marker	"2A19"
+21	11	2	empty	empty
+21	11	3	508 Sp21	"2A11"
+21	11	4	empty	empty
+21	11	5	508 Sp21	"2A11"
+21	11	6	empty	empty
+21	11	7	508 Sp21	"2A11"
+21	11	8	346 Sp12	"1I19"
+21	11	9	95 Sp8	"1A11"
+21	11	10	346 Sp12	"1I19"
+21	11	11	95 Sp8	"1A11"
+21	11	12	346 Sp12	"1I19"
+21	11	13	95 Sp8	"1A11"
+21	11	14	empty	empty
+21	12	1	Grid Marker	"2A19"
+21	12	2	empty	empty
+21	12	3	531 Sp0	"2E11"
+21	12	4	empty	empty
+21	12	5	531 Sp0	"2E11"
+21	12	6	empty	empty
+21	12	7	531 Sp0	"2E11"
+21	12	8	371 Sp12	"1M19"
+21	12	9	114 Sp0	"1E11"
+21	12	10	371 Sp12	"1M19"
+21	12	11	114 Sp0	"1E11"
+21	12	12	371 Sp12	"1M19"
+21	12	13	114 Sp0	"1E11"
+21	12	14	empty	empty
+22	1	1	empty	empty
+22	1	2	555 Sp0	"2J11"
+22	1	3	401 Sp14	"2B3"
+22	1	4	555 Sp0	"2J11"
+22	1	5	401 Sp14	"2B3"
+22	1	6	555 Sp0	"2J11"
+22	1	7	401 Sp14	"2B3"
+22	1	8	136 Sp0	"1J11"
+22	1	9	11 Sp8	"1B3"
+22	1	10	136 Sp0	"1J11"
+22	1	11	11 Sp8	"1B3"
+22	1	12	136 Sp0	"1J11"
+22	1	13	11 Sp8	"1B3"
+22	1	14	Grid Marker	"2B19"
+22	2	1	empty	empty
+22	2	2	576 Sp25	"2N11"
+22	2	3	425 Sp14	"2F3"
+22	2	4	576 Sp25	"2N11"
+22	2	5	425 Sp14	"2F3"
+22	2	6	576 Sp25	"2N11"
+22	2	7	425 Sp14	"2F3"
+22	2	8	156 Sp8	"1N11"
+22	2	9	31 Sp0	"1F3"
+22	2	10	156 Sp8	"1N11"
+22	2	11	31 Sp0	"1F3"
+22	2	12	156 Sp8	"1N11"
+22	2	13	31 Sp0	"1F3"
+22	2	14	Grid Marker	"2B19"
+22	3	1	empty	empty
+22	3	2	555 Sp0	"2J11"
+22	3	3	401 Sp14	"2B3"
+22	3	4	555 Sp0	"2J11"
+22	3	5	401 Sp14	"2B3"
+22	3	6	555 Sp0	"2J11"
+22	3	7	401 Sp14	"2B3"
+22	3	8	136 Sp0	"1J11"
+22	3	9	11 Sp8	"1B3"
+22	3	10	136 Sp0	"1J11"
+22	3	11	11 Sp8	"1B3"
+22	3	12	136 Sp0	"1J11"
+22	3	13	11 Sp8	"1B3"
+22	3	14	empty	empty
+22	4	1	empty	empty
+22	4	2	576 Sp25	"2N11"
+22	4	3	425 Sp14	"2F3"
+22	4	4	576 Sp25	"2N11"
+22	4	5	425 Sp14	"2F3"
+22	4	6	576 Sp25	"2N11"
+22	4	7	425 Sp14	"2F3"
+22	4	8	156 Sp8	"1N11"
+22	4	9	31 Sp0	"1F3"
+22	4	10	156 Sp8	"1N11"
+22	4	11	31 Sp0	"1F3"
+22	4	12	156 Sp8	"1N11"
+22	4	13	31 Sp0	"1F3"
+22	4	14	empty	empty
+22	5	1	empty	empty
+22	5	2	empty	empty
+22	5	3	450 Sp14	"2J3"
+22	5	4	empty	empty
+22	5	5	450 Sp14	"2J3"
+22	5	6	empty	empty
+22	5	7	450 Sp14	"2J3"
+22	5	8	281 Sp0	"1B19"
+22	5	9	50 Sp12	"1J3"
+22	5	10	281 Sp0	"1B19"
+22	5	11	50 Sp12	"1J3"
+22	5	12	281 Sp0	"1B19"
+22	5	13	50 Sp12	"1J3"
+22	5	14	empty	empty
+22	6	1	empty	empty
+22	6	2	empty	empty
+22	6	3	478 Sp14	"2N3"
+22	6	4	empty	empty
+22	6	5	478 Sp14	"2N3"
+22	6	6	empty	empty
+22	6	7	478 Sp14	"2N3"
+22	6	8	316 Sp0	"1F19"
+22	6	9	68 Sp0	"1N3"
+22	6	10	316 Sp0	"1F19"
+22	6	11	68 Sp0	"1N3"
+22	6	12	316 Sp0	"1F19"
+22	6	13	68 Sp0	"1N3"
+22	6	14	empty	empty
+22	7	1	empty	empty
+22	7	2	empty	empty
+22	7	3	450 Sp14	"2J3"
+22	7	4	empty	empty
+22	7	5	450 Sp14	"2J3"
+22	7	6	empty	empty
+22	7	7	450 Sp14	"2J3"
+22	7	8	281 Sp0	"1B19"
+22	7	9	50 Sp12	"1J3"
+22	7	10	281 Sp0	"1B19"
+22	7	11	50 Sp12	"1J3"
+22	7	12	281 Sp0	"1B19"
+22	7	13	50 Sp12	"1J3"
+22	7	14	empty	empty
+22	8	1	empty	empty
+22	8	2	empty	empty
+22	8	3	478 Sp14	"2N3"
+22	8	4	empty	empty
+22	8	5	478 Sp14	"2N3"
+22	8	6	empty	empty
+22	8	7	478 Sp14	"2N3"
+22	8	8	316 Sp0	"1F19"
+22	8	9	68 Sp0	"1N3"
+22	8	10	316 Sp0	"1F19"
+22	8	11	68 Sp0	"1N3"
+22	8	12	316 Sp0	"1F19"
+22	8	13	68 Sp0	"1N3"
+22	8	14	empty	empty
+22	9	1	empty	empty
+22	9	2	empty	empty
+22	9	3	509 Sp21	"2B11"
+22	9	4	empty	empty
+22	9	5	509 Sp21	"2B11"
+22	9	6	empty	empty
+22	9	7	509 Sp21	"2B11"
+22	9	8	347 Sp20	"1J19"
+22	9	9	96 Sp0	"1B11"
+22	9	10	347 Sp20	"1J19"
+22	9	11	96 Sp0	"1B11"
+22	9	12	347 Sp20	"1J19"
+22	9	13	96 Sp0	"1B11"
+22	9	14	empty	empty
+22	10	1	Grid Marker	"2B19"
+22	10	2	empty	empty
+22	10	3	532 Sp0	"2F11"
+22	10	4	empty	empty
+22	10	5	532 Sp0	"2F11"
+22	10	6	empty	empty
+22	10	7	532 Sp0	"2F11"
+22	10	8	372 Sp12	"1N19"
+22	10	9	115 Sp0	"1F11"
+22	10	10	372 Sp12	"1N19"
+22	10	11	115 Sp0	"1F11"
+22	10	12	372 Sp12	"1N19"
+22	10	13	115 Sp0	"1F11"
+22	10	14	empty	empty
+22	11	1	Grid Marker	"2B19"
+22	11	2	empty	empty
+22	11	3	509 Sp21	"2B11"
+22	11	4	empty	empty
+22	11	5	509 Sp21	"2B11"
+22	11	6	empty	empty
+22	11	7	509 Sp21	"2B11"
+22	11	8	347 Sp20	"1J19"
+22	11	9	96 Sp0	"1B11"
+22	11	10	347 Sp20	"1J19"
+22	11	11	96 Sp0	"1B11"
+22	11	12	347 Sp20	"1J19"
+22	11	13	96 Sp0	"1B11"
+22	11	14	empty	empty
+22	12	1	Grid Marker	"2B19"
+22	12	2	empty	empty
+22	12	3	532 Sp0	"2F11"
+22	12	4	empty	empty
+22	12	5	532 Sp0	"2F11"
+22	12	6	empty	empty
+22	12	7	532 Sp0	"2F11"
+22	12	8	372 Sp12	"1N19"
+22	12	9	115 Sp0	"1F11"
+22	12	10	372 Sp12	"1N19"
+22	12	11	115 Sp0	"1F11"
+22	12	12	372 Sp12	"1N19"
+22	12	13	115 Sp0	"1F11"
+22	12	14	empty	empty
+23	1	1	empty	empty
+23	1	2	565 Sp21	"2K11"
+23	1	3	412 Sp21	"2C3"
+23	1	4	565 Sp21	"2K11"
+23	1	5	412 Sp21	"2C3"
+23	1	6	565 Sp21	"2K11"
+23	1	7	412 Sp21	"2C3"
+23	1	8	145 Sp0	"1K11"
+23	1	9	19 Sp8	"1C3"
+23	1	10	145 Sp0	"1K11"
+23	1	11	19 Sp8	"1C3"
+23	1	12	145 Sp0	"1K11"
+23	1	13	19 Sp8	"1C3"
+23	1	14	Grid Marker	"2C19"
+23	2	1	empty	empty
+23	2	2	584 Sp0	"2O11"
+23	2	3	437 Sp0	"2G3"
+23	2	4	584 Sp0	"2O11"
+23	2	5	437 Sp0	"2G3"
+23	2	6	584 Sp0	"2O11"
+23	2	7	437 Sp0	"2G3"
+23	2	8	165 Sp0	"1O11"
+23	2	9	39 Sp8	"1G3"
+23	2	10	165 Sp0	"1O11"
+23	2	11	39 Sp8	"1G3"
+23	2	12	165 Sp0	"1O11"
+23	2	13	39 Sp8	"1G3"
+23	2	14	Grid Marker	"2C19"
+23	3	1	empty	empty
+23	3	2	565 Sp21	"2K11"
+23	3	3	412 Sp21	"2C3"
+23	3	4	565 Sp21	"2K11"
+23	3	5	412 Sp21	"2C3"
+23	3	6	565 Sp21	"2K11"
+23	3	7	412 Sp21	"2C3"
+23	3	8	145 Sp0	"1K11"
+23	3	9	19 Sp8	"1C3"
+23	3	10	145 Sp0	"1K11"
+23	3	11	19 Sp8	"1C3"
+23	3	12	145 Sp0	"1K11"
+23	3	13	19 Sp8	"1C3"
+23	3	14	empty	empty
+23	4	1	empty	empty
+23	4	2	584 Sp0	"2O11"
+23	4	3	437 Sp0	"2G3"
+23	4	4	584 Sp0	"2O11"
+23	4	5	437 Sp0	"2G3"
+23	4	6	584 Sp0	"2O11"
+23	4	7	437 Sp0	"2G3"
+23	4	8	165 Sp0	"1O11"
+23	4	9	39 Sp8	"1G3"
+23	4	10	165 Sp0	"1O11"
+23	4	11	39 Sp8	"1G3"
+23	4	12	165 Sp0	"1O11"
+23	4	13	39 Sp8	"1G3"
+23	4	14	empty	empty
+23	5	1	empty	empty
+23	5	2	empty	empty
+23	5	3	461 Sp21	"2K3"
+23	5	4	empty	empty
+23	5	5	461 Sp21	"2K3"
+23	5	6	empty	empty
+23	5	7	461 Sp21	"2K3"
+23	5	8	300 Sp0	"1C19"
+23	5	9	57 Sp9	"1K3"
+23	5	10	300 Sp0	"1C19"
+23	5	11	57 Sp9	"1K3"
+23	5	12	300 Sp0	"1C19"
+23	5	13	57 Sp9	"1K3"
+23	5	14	empty	empty
+23	6	1	empty	empty
+23	6	2	empty	empty
+23	6	3	490Sp21	"2O3"
+23	6	4	empty	empty
+23	6	5	490Sp21	"2O3"
+23	6	6	empty	empty
+23	6	7	490Sp21	"2O3"
+23	6	8	331 Sp9	"1G19"
+23	6	9	79 Sp8	"1O3"
+23	6	10	331 Sp9	"1G19"
+23	6	11	79 Sp8	"1O3"
+23	6	12	331 Sp9	"1G19"
+23	6	13	79 Sp8	"1O3"
+23	6	14	empty	empty
+23	7	1	empty	empty
+23	7	2	empty	empty
+23	7	3	461 Sp21	"2K3"
+23	7	4	empty	empty
+23	7	5	461 Sp21	"2K3"
+23	7	6	empty	empty
+23	7	7	461 Sp21	"2K3"
+23	7	8	300 Sp0	"1C19"
+23	7	9	57 Sp9	"1K3"
+23	7	10	300 Sp0	"1C19"
+23	7	11	57 Sp9	"1K3"
+23	7	12	300 Sp0	"1C19"
+23	7	13	57 Sp9	"1K3"
+23	7	14	empty	empty
+23	8	1	empty	empty
+23	8	2	empty	empty
+23	8	3	490Sp21	"2O3"
+23	8	4	empty	empty
+23	8	5	490Sp21	"2O3"
+23	8	6	empty	empty
+23	8	7	490Sp21	"2O3"
+23	8	8	331 Sp9	"1G19"
+23	8	9	79 Sp8	"1O3"
+23	8	10	331 Sp9	"1G19"
+23	8	11	79 Sp8	"1O3"
+23	8	12	331 Sp9	"1G19"
+23	8	13	79 Sp8	"1O3"
+23	8	14	empty	empty
+23	9	1	empty	empty
+23	9	2	empty	empty
+23	9	3	519 Sp21	"2C11"
+23	9	4	empty	empty
+23	9	5	519 Sp21	"2C11"
+23	9	6	empty	empty
+23	9	7	519 Sp21	"2C11"
+23	9	8	360 Sp0	"1K19"
+23	9	9	104 Sp8	"1C11"
+23	9	10	360 Sp0	"1K19"
+23	9	11	104 Sp8	"1C11"
+23	9	12	360 Sp0	"1K19"
+23	9	13	104 Sp8	"1C11"
+23	9	14	empty	empty
+23	10	1	Grid Marker	"2C19"
+23	10	2	empty	empty
+23	10	3	542 Sp8	"2G11"
+23	10	4	empty	empty
+23	10	5	542 Sp8	"2G11"
+23	10	6	empty	empty
+23	10	7	542 Sp8	"2G11"
+23	10	8	385 Sp20	"1O19"
+23	10	9	123 Sp10	"1G11"
+23	10	10	385 Sp20	"1O19"
+23	10	11	123 Sp10	"1G11"
+23	10	12	385 Sp20	"1O19"
+23	10	13	123 Sp10	"1G11"
+23	10	14	empty	empty
+23	11	1	Grid Marker	"2C19"
+23	11	2	empty	empty
+23	11	3	519 Sp21	"2C11"
+23	11	4	empty	empty
+23	11	5	519 Sp21	"2C11"
+23	11	6	empty	empty
+23	11	7	519 Sp21	"2C11"
+23	11	8	360 Sp0	"1K19"
+23	11	9	104 Sp8	"1C11"
+23	11	10	360 Sp0	"1K19"
+23	11	11	104 Sp8	"1C11"
+23	11	12	360 Sp0	"1K19"
+23	11	13	104 Sp8	"1C11"
+23	11	14	empty	empty
+23	12	1	Grid Marker	"2C19"
+23	12	2	empty	empty
+23	12	3	542 Sp8	"2G11"
+23	12	4	empty	empty
+23	12	5	542 Sp8	"2G11"
+23	12	6	empty	empty
+23	12	7	542 Sp8	"2G11"
+23	12	8	385 Sp20	"1O19"
+23	12	9	123 Sp10	"1G11"
+23	12	10	385 Sp20	"1O19"
+23	12	11	123 Sp10	"1G11"
+23	12	12	385 Sp20	"1O19"
+23	12	13	123 Sp10	"1G11"
+23	12	14	empty	empty
+24	1	1	empty	empty
+24	1	2	566 Sp0	"2L11"
+24	1	3	413 Sp0	"2D3"
+24	1	4	566 Sp0	"2L11"
+24	1	5	413 Sp0	"2D3"
+24	1	6	566 Sp0	"2L11"
+24	1	7	413 Sp0	"2D3"
+24	1	8	146 Sp0	"1L11"
+24	1	9	20 Sp8	"1D3"
+24	1	10	146 Sp0	"1L11"
+24	1	11	20 Sp8	"1D3"
+24	1	12	146 Sp0	"1L11"
+24	1	13	20 Sp8	"1D3"
+24	1	14	Grid Marker	"2D19"
+24	2	1	empty	empty
+24	2	2	585 Sp0	"2P11"
+24	2	3	438 Sp14	"2H3"
+24	2	4	585 Sp0	"2P11"
+24	2	5	438 Sp14	"2H3"
+24	2	6	585 Sp0	"2P11"
+24	2	7	438 Sp14	"2H3"
+24	2	8	166 Sp0	"1P11"
+24	2	9	40 Sp0	"1H3"
+24	2	10	166 Sp0	"1P11"
+24	2	11	40 Sp0	"1H3"
+24	2	12	166 Sp0	"1P11"
+24	2	13	40 Sp0	"1H3"
+24	2	14	Grid Marker	"2D19"
+24	3	1	empty	empty
+24	3	2	566 Sp0	"2L11"
+24	3	3	413 Sp0	"2D3"
+24	3	4	566 Sp0	"2L11"
+24	3	5	413 Sp0	"2D3"
+24	3	6	566 Sp0	"2L11"
+24	3	7	413 Sp0	"2D3"
+24	3	8	146 Sp0	"1L11"
+24	3	9	20 Sp8	"1D3"
+24	3	10	146 Sp0	"1L11"
+24	3	11	20 Sp8	"1D3"
+24	3	12	146 Sp0	"1L11"
+24	3	13	20 Sp8	"1D3"
+24	3	14	empty	empty
+24	4	1	empty	empty
+24	4	2	585 Sp0	"2P11"
+24	4	3	438 Sp14	"2H3"
+24	4	4	585 Sp0	"2P11"
+24	4	5	438 Sp14	"2H3"
+24	4	6	585 Sp0	"2P11"
+24	4	7	438 Sp14	"2H3"
+24	4	8	166 Sp0	"1P11"
+24	4	9	40 Sp0	"1H3"
+24	4	10	166 Sp0	"1P11"
+24	4	11	40 Sp0	"1H3"
+24	4	12	166 Sp0	"1P11"
+24	4	13	40 Sp0	"1H3"
+24	4	14	empty	empty
+24	5	1	empty	empty
+24	5	2	empty	empty
+24	5	3	462 Sp21	"2L3"
+24	5	4	empty	empty
+24	5	5	462 Sp21	"2L3"
+24	5	6	empty	empty
+24	5	7	462 Sp21	"2L3"
+24	5	8	301 Sp0	"1D19"
+24	5	9	58 Sp8	"1L3"
+24	5	10	301 Sp0	"1D19"
+24	5	11	58 Sp8	"1L3"
+24	5	12	301 Sp0	"1D19"
+24	5	13	58 Sp8	"1L3"
+24	5	14	empty	empty
+24	6	1	empty	empty
+24	6	2	empty	empty
+24	6	3	491Sp21	"2P3"
+24	6	4	empty	empty
+24	6	5	491Sp21	"2P3"
+24	6	6	empty	empty
+24	6	7	491Sp21	"2P3"
+24	6	8	332 Sp9	"1H19"
+24	6	9	80 Sp8	"1P3"
+24	6	10	332 Sp9	"1H19"
+24	6	11	80 Sp8	"1P3"
+24	6	12	332 Sp9	"1H19"
+24	6	13	80 Sp8	"1P3"
+24	6	14	empty	empty
+24	7	1	empty	empty
+24	7	2	empty	empty
+24	7	3	462 Sp21	"2L3"
+24	7	4	empty	empty
+24	7	5	462 Sp21	"2L3"
+24	7	6	empty	empty
+24	7	7	462 Sp21	"2L3"
+24	7	8	301 Sp0	"1D19"
+24	7	9	58 Sp8	"1L3"
+24	7	10	301 Sp0	"1D19"
+24	7	11	58 Sp8	"1L3"
+24	7	12	301 Sp0	"1D19"
+24	7	13	58 Sp8	"1L3"
+24	7	14	empty	empty
+24	8	1	empty	empty
+24	8	2	empty	empty
+24	8	3	491Sp21	"2P3"
+24	8	4	empty	empty
+24	8	5	491Sp21	"2P3"
+24	8	6	empty	empty
+24	8	7	491Sp21	"2P3"
+24	8	8	332 Sp9	"1H19"
+24	8	9	80 Sp8	"1P3"
+24	8	10	332 Sp9	"1H19"
+24	8	11	80 Sp8	"1P3"
+24	8	12	332 Sp9	"1H19"
+24	8	13	80 Sp8	"1P3"
+24	8	14	empty	empty
+24	9	1	empty	empty
+24	9	2	empty	empty
+24	9	3	520 Sp14	"2D11"
+24	9	4	empty	empty
+24	9	5	520 Sp14	"2D11"
+24	9	6	empty	empty
+24	9	7	520 Sp14	"2D11"
+24	9	8	361 Sp0	"1L19"
+24	9	9	105 Sp0	"1D11"
+24	9	10	361 Sp0	"1L19"
+24	9	11	105 Sp0	"1D11"
+24	9	12	361 Sp0	"1L19"
+24	9	13	105 Sp0	"1D11"
+24	9	14	empty	empty
+24	10	1	Grid Marker	"2D19"
+24	10	2	empty	empty
+24	10	3	543 Sp8	"2H11"
+24	10	4	empty	empty
+24	10	5	543 Sp8	"2H11"
+24	10	6	empty	empty
+24	10	7	543 Sp8	"2H11"
+24	10	8	386 Sp20	"1P19"
+24	10	9	126 Sp8	"1H11"
+24	10	10	386 Sp20	"1P19"
+24	10	11	126 Sp8	"1H11"
+24	10	12	386 Sp20	"1P19"
+24	10	13	126 Sp8	"1H11"
+24	10	14	empty	empty
+24	11	1	Grid Marker	"2D19"
+24	11	2	empty	empty
+24	11	3	520 Sp14	"2D11"
+24	11	4	empty	empty
+24	11	5	520 Sp14	"2D11"
+24	11	6	empty	empty
+24	11	7	520 Sp14	"2D11"
+24	11	8	361 Sp0	"1L19"
+24	11	9	105 Sp0	"1D11"
+24	11	10	361 Sp0	"1L19"
+24	11	11	105 Sp0	"1D11"
+24	11	12	361 Sp0	"1L19"
+24	11	13	105 Sp0	"1D11"
+24	11	14	empty	empty
+24	12	1	Grid Marker	"2D19"
+24	12	2	empty	empty
+24	12	3	543 Sp8	"2H11"
+24	12	4	empty	empty
+24	12	5	543 Sp8	"2H11"
+24	12	6	empty	empty
+24	12	7	543 Sp8	"2H11"
+24	12	8	386 Sp20	"1P19"
+24	12	9	126 Sp8	"1H11"
+24	12	10	386 Sp20	"1P19"
+24	12	11	126 Sp8	"1H11"
+24	12	12	386 Sp20	"1P19"
+24	12	13	126 Sp8	"1H11"
+24	12	14	empty	empty
+25	1	1	empty	empty
+25	1	2	552 Sp0	"2I10"
+25	1	3	398 Sp20	"2A2"
+25	1	4	552 Sp0	"2I10"
+25	1	5	398 Sp20	"2A2"
+25	1	6	552 Sp0	"2I10"
+25	1	7	398 Sp20	"2A2"
+25	1	8	133 Sp10	"1I10"
+25	1	9	9 Sp8	"1A2"
+25	1	10	133 Sp10	"1I10"
+25	1	11	9 Sp8	"1A2"
+25	1	12	133 Sp10	"1I10"
+25	1	13	9 Sp8	"1A2"
+25	1	14	Grid Marker	"2A18"
+25	2	1	empty	empty
+25	2	2	573 Sp12	"2M10"
+25	2	3	422 Sp12	"2E2"
+25	2	4	573 Sp12	"2M10"
+25	2	5	422 Sp12	"2E2"
+25	2	6	573 Sp12	"2M10"
+25	2	7	422 Sp12	"2E2"
+25	2	8	154 Sp0	"1M10"
+25	2	9	27 Sp8	"1E2"
+25	2	10	154 Sp0	"1M10"
+25	2	11	27 Sp8	"1E2"
+25	2	12	154 Sp0	"1M10"
+25	2	13	27 Sp8	"1E2"
+25	2	14	Grid Marker	"2A18"
+25	3	1	empty	empty
+25	3	2	552 Sp0	"2I10"
+25	3	3	398 Sp20	"2A2"
+25	3	4	552 Sp0	"2I10"
+25	3	5	398 Sp20	"2A2"
+25	3	6	552 Sp0	"2I10"
+25	3	7	398 Sp20	"2A2"
+25	3	8	133 Sp10	"1I10"
+25	3	9	9 Sp8	"1A2"
+25	3	10	133 Sp10	"1I10"
+25	3	11	9 Sp8	"1A2"
+25	3	12	133 Sp10	"1I10"
+25	3	13	9 Sp8	"1A2"
+25	3	14	empty	empty
+25	4	1	empty	empty
+25	4	2	573 Sp12	"2M10"
+25	4	3	422 Sp12	"2E2"
+25	4	4	573 Sp12	"2M10"
+25	4	5	422 Sp12	"2E2"
+25	4	6	573 Sp12	"2M10"
+25	4	7	422 Sp12	"2E2"
+25	4	8	154 Sp0	"1M10"
+25	4	9	27 Sp8	"1E2"
+25	4	10	154 Sp0	"1M10"
+25	4	11	27 Sp8	"1E2"
+25	4	12	154 Sp0	"1M10"
+25	4	13	27 Sp8	"1E2"
+25	4	14	empty	empty
+25	5	1	empty	empty
+25	5	2	empty	empty
+25	5	3	447 Sp14	"2I2"
+25	5	4	empty	empty
+25	5	5	447 Sp14	"2I2"
+25	5	6	empty	empty
+25	5	7	447 Sp14	"2I2"
+25	5	8	181 Sp8	"1A18"
+25	5	9	48 Sp13	"1I2"
+25	5	10	181 Sp8	"1A18"
+25	5	11	48 Sp13	"1I2"
+25	5	12	181 Sp8	"1A18"
+25	5	13	48 Sp13	"1I2"
+25	5	14	empty	empty
+25	6	1	empty	empty
+25	6	2	empty	empty
+25	6	3	472 Sp12	"2M2"
+25	6	4	empty	empty
+25	6	5	472 Sp12	"2M2"
+25	6	6	empty	empty
+25	6	7	472 Sp12	"2M2"
+25	6	8	213 Sp8	"1E18"
+25	6	9	66 Sp0	"1M2"
+25	6	10	213 Sp8	"1E18"
+25	6	11	66 Sp0	"1M2"
+25	6	12	213 Sp8	"1E18"
+25	6	13	66 Sp0	"1M2"
+25	6	14	empty	empty
+25	7	1	empty	empty
+25	7	2	empty	empty
+25	7	3	447 Sp14	"2I2"
+25	7	4	empty	empty
+25	7	5	447 Sp14	"2I2"
+25	7	6	empty	empty
+25	7	7	447 Sp14	"2I2"
+25	7	8	181 Sp8	"1A18"
+25	7	9	48 Sp13	"1I2"
+25	7	10	181 Sp8	"1A18"
+25	7	11	48 Sp13	"1I2"
+25	7	12	181 Sp8	"1A18"
+25	7	13	48 Sp13	"1I2"
+25	7	14	empty	empty
+25	8	1	empty	empty
+25	8	2	empty	empty
+25	8	3	472 Sp12	"2M2"
+25	8	4	empty	empty
+25	8	5	472 Sp12	"2M2"
+25	8	6	empty	empty
+25	8	7	472 Sp12	"2M2"
+25	8	8	213 Sp8	"1E18"
+25	8	9	66 Sp0	"1M2"
+25	8	10	213 Sp8	"1E18"
+25	8	11	66 Sp0	"1M2"
+25	8	12	213 Sp8	"1E18"
+25	8	13	66 Sp0	"1M2"
+25	8	14	empty	empty
+25	9	1	empty	empty
+25	9	2	empty	empty
+25	9	3	0	"2A10"
+25	9	4	empty	empty
+25	9	5	0	"2A10"
+25	9	6	empty	empty
+25	9	7	0	"2A10"
+25	9	8	244 Sp14	"1I18"
+25	9	9	94 Sp8	"1A10"
+25	9	10	244 Sp14	"1I18"
+25	9	11	94 Sp8	"1A10"
+25	9	12	244 Sp14	"1I18"
+25	9	13	94 Sp8	"1A10"
+25	9	14	empty	empty
+25	10	1	Grid Marker	"2A18"
+25	10	2	empty	empty
+25	10	3	529 Sp0	"2E10"
+25	10	4	empty	empty
+25	10	5	529 Sp0	"2E10"
+25	10	6	empty	empty
+25	10	7	529 Sp0	"2E10"
+25	10	8	267 Sp8	"1M18"
+25	10	9	112 Sp8	"1E10"
+25	10	10	267 Sp8	"1M18"
+25	10	11	112 Sp8	"1E10"
+25	10	12	267 Sp8	"1M18"
+25	10	13	112 Sp8	"1E10"
+25	10	14	empty	empty
+25	11	1	Grid Marker	"2A18"
+25	11	2	empty	empty
+25	11	3	0	"2A10"
+25	11	4	empty	empty
+25	11	5	0	"2A10"
+25	11	6	empty	empty
+25	11	7	0	"2A10"
+25	11	8	244 Sp14	"1I18"
+25	11	9	94 Sp8	"1A10"
+25	11	10	244 Sp14	"1I18"
+25	11	11	94 Sp8	"1A10"
+25	11	12	244 Sp14	"1I18"
+25	11	13	94 Sp8	"1A10"
+25	11	14	empty	empty
+25	12	1	Grid Marker	"2A18"
+25	12	2	empty	empty
+25	12	3	529 Sp0	"2E10"
+25	12	4	empty	empty
+25	12	5	529 Sp0	"2E10"
+25	12	6	empty	empty
+25	12	7	529 Sp0	"2E10"
+25	12	8	267 Sp8	"1M18"
+25	12	9	112 Sp8	"1E10"
+25	12	10	267 Sp8	"1M18"
+25	12	11	112 Sp8	"1E10"
+25	12	12	267 Sp8	"1M18"
+25	12	13	112 Sp8	"1E10"
+25	12	14	empty	empty
+26	1	1	empty	empty
+26	1	2	553 Sp0	"2J10"
+26	1	3	399 Sp19	"2B2"
+26	1	4	553 Sp0	"2J10"
+26	1	5	399 Sp19	"2B2"
+26	1	6	553 Sp0	"2J10"
+26	1	7	399 Sp19	"2B2"
+26	1	8	134 Sp0	"1J10"
+26	1	9	10 Sp8	"1B2"
+26	1	10	134 Sp0	"1J10"
+26	1	11	10 Sp8	"1B2"
+26	1	12	134 Sp0	"1J10"
+26	1	13	10 Sp8	"1B2"
+26	1	14	Grid Marker	"2B18"
+26	2	1	empty	empty
+26	2	2	0	"2N10"
+26	2	3	423 Sp14	"2F2"
+26	2	4	0	"2N10"
+26	2	5	423 Sp14	"2F2"
+26	2	6	0	"2N10"
+26	2	7	423 Sp14	"2F2"
+26	2	8	154 Sp8	"1N10"
+26	2	9	29 Sp8	"1F2"
+26	2	10	154 Sp8	"1N10"
+26	2	11	29 Sp8	"1F2"
+26	2	12	154 Sp8	"1N10"
+26	2	13	29 Sp8	"1F2"
+26	2	14	Grid Marker	"2B18"
+26	3	1	empty	empty
+26	3	2	553 Sp0	"2J10"
+26	3	3	399 Sp19	"2B2"
+26	3	4	553 Sp0	"2J10"
+26	3	5	399 Sp19	"2B2"
+26	3	6	553 Sp0	"2J10"
+26	3	7	399 Sp19	"2B2"
+26	3	8	134 Sp0	"1J10"
+26	3	9	10 Sp8	"1B2"
+26	3	10	134 Sp0	"1J10"
+26	3	11	10 Sp8	"1B2"
+26	3	12	134 Sp0	"1J10"
+26	3	13	10 Sp8	"1B2"
+26	3	14	empty	empty
+26	4	1	empty	empty
+26	4	2	0	"2N10"
+26	4	3	423 Sp14	"2F2"
+26	4	4	0	"2N10"
+26	4	5	423 Sp14	"2F2"
+26	4	6	0	"2N10"
+26	4	7	423 Sp14	"2F2"
+26	4	8	154 Sp8	"1N10"
+26	4	9	29 Sp8	"1F2"
+26	4	10	154 Sp8	"1N10"
+26	4	11	29 Sp8	"1F2"
+26	4	12	154 Sp8	"1N10"
+26	4	13	29 Sp8	"1F2"
+26	4	14	empty	empty
+26	5	1	empty	empty
+26	5	2	empty	empty
+26	5	3	448 Sp14	"2J2"
+26	5	4	empty	empty
+26	5	5	448 Sp14	"2J2"
+26	5	6	empty	empty
+26	5	7	448 Sp14	"2J2"
+26	5	8	182 Sp8	"1B18"
+26	5	9	49 Sp12	"1J2"
+26	5	10	182 Sp8	"1B18"
+26	5	11	49 Sp12	"1J2"
+26	5	12	182 Sp8	"1B18"
+26	5	13	49 Sp12	"1J2"
+26	5	14	empty	empty
+26	6	1	empty	empty
+26	6	2	empty	empty
+26	6	3	475 Sp14	"2N2"
+26	6	4	empty	empty
+26	6	5	475 Sp14	"2N2"
+26	6	6	empty	empty
+26	6	7	475 Sp14	"2N2"
+26	6	8	216 Sp0	"1F18"
+26	6	9	67 Sp0	"1N2"
+26	6	10	216 Sp0	"1F18"
+26	6	11	67 Sp0	"1N2"
+26	6	12	216 Sp0	"1F18"
+26	6	13	67 Sp0	"1N2"
+26	6	14	empty	empty
+26	7	1	empty	empty
+26	7	2	empty	empty
+26	7	3	448 Sp14	"2J2"
+26	7	4	empty	empty
+26	7	5	448 Sp14	"2J2"
+26	7	6	empty	empty
+26	7	7	448 Sp14	"2J2"
+26	7	8	182 Sp8	"1B18"
+26	7	9	49 Sp12	"1J2"
+26	7	10	182 Sp8	"1B18"
+26	7	11	49 Sp12	"1J2"
+26	7	12	182 Sp8	"1B18"
+26	7	13	49 Sp12	"1J2"
+26	7	14	empty	empty
+26	8	1	empty	empty
+26	8	2	empty	empty
+26	8	3	475 Sp14	"2N2"
+26	8	4	empty	empty
+26	8	5	475 Sp14	"2N2"
+26	8	6	empty	empty
+26	8	7	475 Sp14	"2N2"
+26	8	8	216 Sp0	"1F18"
+26	8	9	67 Sp0	"1N2"
+26	8	10	216 Sp0	"1F18"
+26	8	11	67 Sp0	"1N2"
+26	8	12	216 Sp0	"1F18"
+26	8	13	67 Sp0	"1N2"
+26	8	14	empty	empty
+26	9	1	empty	empty
+26	9	2	empty	empty
+26	9	3	507 Sp24	"2B10"
+26	9	4	empty	empty
+26	9	5	507 Sp24	"2B10"
+26	9	6	empty	empty
+26	9	7	507 Sp24	"2B10"
+26	9	8	245 Sp8	"1J18"
+26	9	9	95 Sp0	"1B10"
+26	9	10	245 Sp8	"1J18"
+26	9	11	95 Sp0	"1B10"
+26	9	12	245 Sp8	"1J18"
+26	9	13	95 Sp0	"1B10"
+26	9	14	empty	empty
+26	10	1	Grid Marker	"2B18"
+26	10	2	empty	empty
+26	10	3	530 Sp14	"2F10"
+26	10	4	empty	empty
+26	10	5	530 Sp14	"2F10"
+26	10	6	empty	empty
+26	10	7	530 Sp14	"2F10"
+26	10	8	268 Sp0	"1N18"
+26	10	9	113 Sp0	"1F10"
+26	10	10	268 Sp0	"1N18"
+26	10	11	113 Sp0	"1F10"
+26	10	12	268 Sp0	"1N18"
+26	10	13	113 Sp0	"1F10"
+26	10	14	empty	empty
+26	11	1	Grid Marker	"2B18"
+26	11	2	empty	empty
+26	11	3	507 Sp24	"2B10"
+26	11	4	empty	empty
+26	11	5	507 Sp24	"2B10"
+26	11	6	empty	empty
+26	11	7	507 Sp24	"2B10"
+26	11	8	245 Sp8	"1J18"
+26	11	9	95 Sp0	"1B10"
+26	11	10	245 Sp8	"1J18"
+26	11	11	95 Sp0	"1B10"
+26	11	12	245 Sp8	"1J18"
+26	11	13	95 Sp0	"1B10"
+26	11	14	empty	empty
+26	12	1	Grid Marker	"2B18"
+26	12	2	empty	empty
+26	12	3	530 Sp14	"2F10"
+26	12	4	empty	empty
+26	12	5	530 Sp14	"2F10"
+26	12	6	empty	empty
+26	12	7	530 Sp14	"2F10"
+26	12	8	268 Sp0	"1N18"
+26	12	9	113 Sp0	"1F10"
+26	12	10	268 Sp0	"1N18"
+26	12	11	113 Sp0	"1F10"
+26	12	12	268 Sp0	"1N18"
+26	12	13	113 Sp0	"1F10"
+26	12	14	empty	empty
+27	1	1	empty	empty
+27	1	2	563 Sp21	"2K10"
+27	1	3	410 Sp21	"2C2"
+27	1	4	563 Sp21	"2K10"
+27	1	5	410 Sp21	"2C2"
+27	1	6	563 Sp21	"2K10"
+27	1	7	410 Sp21	"2C2"
+27	1	8	144 Sp8	"1K10"
+27	1	9	18 Sp8	"1C2"
+27	1	10	144 Sp8	"1K10"
+27	1	11	18 Sp8	"1C2"
+27	1	12	144 Sp8	"1K10"
+27	1	13	18 Sp8	"1C2"
+27	1	14	Grid Marker	"2C18"
+27	2	1	empty	empty
+27	2	2	582 Sp0	"2O10"
+27	2	3	435 Sp21	"2G2"
+27	2	4	582 Sp0	"2O10"
+27	2	5	435 Sp21	"2G2"
+27	2	6	582 Sp0	"2O10"
+27	2	7	435 Sp21	"2G2"
+27	2	8	164 Sp0	"1O10"
+27	2	9	37 Sp0	"1G2"
+27	2	10	164 Sp0	"1O10"
+27	2	11	37 Sp0	"1G2"
+27	2	12	164 Sp0	"1O10"
+27	2	13	37 Sp0	"1G2"
+27	2	14	Grid Marker	"2C18"
+27	3	1	empty	empty
+27	3	2	563 Sp21	"2K10"
+27	3	3	410 Sp21	"2C2"
+27	3	4	563 Sp21	"2K10"
+27	3	5	410 Sp21	"2C2"
+27	3	6	563 Sp21	"2K10"
+27	3	7	410 Sp21	"2C2"
+27	3	8	144 Sp8	"1K10"
+27	3	9	18 Sp8	"1C2"
+27	3	10	144 Sp8	"1K10"
+27	3	11	18 Sp8	"1C2"
+27	3	12	144 Sp8	"1K10"
+27	3	13	18 Sp8	"1C2"
+27	3	14	empty	empty
+27	4	1	empty	empty
+27	4	2	582 Sp0	"2O10"
+27	4	3	435 Sp21	"2G2"
+27	4	4	582 Sp0	"2O10"
+27	4	5	435 Sp21	"2G2"
+27	4	6	582 Sp0	"2O10"
+27	4	7	435 Sp21	"2G2"
+27	4	8	164 Sp0	"1O10"
+27	4	9	37 Sp0	"1G2"
+27	4	10	164 Sp0	"1O10"
+27	4	11	37 Sp0	"1G2"
+27	4	12	164 Sp0	"1O10"
+27	4	13	37 Sp0	"1G2"
+27	4	14	empty	empty
+27	5	1	empty	empty
+27	5	2	empty	empty
+27	5	3	459 Sp21	"2K2"
+27	5	4	empty	empty
+27	5	5	459 Sp21	"2K2"
+27	5	6	empty	empty
+27	5	7	459 Sp21	"2K2"
+27	5	8	192 Sp9	"1C18"
+27	5	9	56 Sp14	"1K2"
+27	5	10	192 Sp9	"1C18"
+27	5	11	56 Sp14	"1K2"
+27	5	12	192 Sp9	"1C18"
+27	5	13	56 Sp14	"1K2"
+27	5	14	empty	empty
+27	6	1	empty	empty
+27	6	2	empty	empty
+27	6	3	487 Sp19	"2O2"
+27	6	4	empty	empty
+27	6	5	487 Sp19	"2O2"
+27	6	6	empty	empty
+27	6	7	487 Sp19	"2O2"
+27	6	8	230 Sp8	"1G18"
+27	6	9	77 Sp8	"1O2"
+27	6	10	230 Sp8	"1G18"
+27	6	11	77 Sp8	"1O2"
+27	6	12	230 Sp8	"1G18"
+27	6	13	77 Sp8	"1O2"
+27	6	14	empty	empty
+27	7	1	empty	empty
+27	7	2	empty	empty
+27	7	3	459 Sp21	"2K2"
+27	7	4	empty	empty
+27	7	5	459 Sp21	"2K2"
+27	7	6	empty	empty
+27	7	7	459 Sp21	"2K2"
+27	7	8	192 Sp9	"1C18"
+27	7	9	56 Sp14	"1K2"
+27	7	10	192 Sp9	"1C18"
+27	7	11	56 Sp14	"1K2"
+27	7	12	192 Sp9	"1C18"
+27	7	13	56 Sp14	"1K2"
+27	7	14	empty	empty
+27	8	1	empty	empty
+27	8	2	empty	empty
+27	8	3	487 Sp19	"2O2"
+27	8	4	empty	empty
+27	8	5	487 Sp19	"2O2"
+27	8	6	empty	empty
+27	8	7	487 Sp19	"2O2"
+27	8	8	230 Sp8	"1G18"
+27	8	9	77 Sp8	"1O2"
+27	8	10	230 Sp8	"1G18"
+27	8	11	77 Sp8	"1O2"
+27	8	12	230 Sp8	"1G18"
+27	8	13	77 Sp8	"1O2"
+27	8	14	empty	empty
+27	9	1	empty	empty
+27	9	2	empty	empty
+27	9	3	517 Sp24	"2C10"
+27	9	4	empty	empty
+27	9	5	517 Sp24	"2C10"
+27	9	6	empty	empty
+27	9	7	517 Sp24	"2C10"
+27	9	8	253 Sp8	"1K18"
+27	9	9	102 Sp8	"1C10"
+27	9	10	253 Sp8	"1K18"
+27	9	11	102 Sp8	"1C10"
+27	9	12	253 Sp8	"1K18"
+27	9	13	102 Sp8	"1C10"
+27	9	14	empty	empty
+27	10	1	Grid Marker	"2C18"
+27	10	2	empty	empty
+27	10	3	540 Sp21	"2G10"
+27	10	4	empty	empty
+27	10	5	540 Sp21	"2G10"
+27	10	6	empty	empty
+27	10	7	540 Sp21	"2G10"
+27	10	8	277 Sp8	"1O18"
+27	10	9	121 Sp14	"1G10"
+27	10	10	277 Sp8	"1O18"
+27	10	11	121 Sp14	"1G10"
+27	10	12	277 Sp8	"1O18"
+27	10	13	121 Sp14	"1G10"
+27	10	14	empty	empty
+27	11	1	Grid Marker	"2C18"
+27	11	2	empty	empty
+27	11	3	517 Sp24	"2C10"
+27	11	4	empty	empty
+27	11	5	517 Sp24	"2C10"
+27	11	6	empty	empty
+27	11	7	517 Sp24	"2C10"
+27	11	8	253 Sp8	"1K18"
+27	11	9	102 Sp8	"1C10"
+27	11	10	253 Sp8	"1K18"
+27	11	11	102 Sp8	"1C10"
+27	11	12	253 Sp8	"1K18"
+27	11	13	102 Sp8	"1C10"
+27	11	14	empty	empty
+27	12	1	Grid Marker	"2C18"
+27	12	2	empty	empty
+27	12	3	540 Sp21	"2G10"
+27	12	4	empty	empty
+27	12	5	540 Sp21	"2G10"
+27	12	6	empty	empty
+27	12	7	540 Sp21	"2G10"
+27	12	8	277 Sp8	"1O18"
+27	12	9	121 Sp14	"1G10"
+27	12	10	277 Sp8	"1O18"
+27	12	11	121 Sp14	"1G10"
+27	12	12	277 Sp8	"1O18"
+27	12	13	121 Sp14	"1G10"
+27	12	14	empty	empty
+28	1	1	empty	empty
+28	1	2	564 Sp21	"2L10"
+28	1	3	411 Sp21	"2D2"
+28	1	4	564 Sp21	"2L10"
+28	1	5	411 Sp21	"2D2"
+28	1	6	564 Sp21	"2L10"
+28	1	7	411 Sp21	"2D2"
+28	1	8	144 Sp14	"1L10"
+28	1	9	19 Sp0	"1D2"
+28	1	10	144 Sp14	"1L10"
+28	1	11	19 Sp0	"1D2"
+28	1	12	144 Sp14	"1L10"
+28	1	13	19 Sp0	"1D2"
+28	1	14	Grid Marker	"2D18"
+28	2	1	empty	empty
+28	2	2	583 Sp0	"2P10"
+28	2	3	436 Sp0	"2H2"
+28	2	4	583 Sp0	"2P10"
+28	2	5	436 Sp0	"2H2"
+28	2	6	583 Sp0	"2P10"
+28	2	7	436 Sp0	"2H2"
+28	2	8	164 Sp8	"1P10"
+28	2	9	38 Sp8	"1H2"
+28	2	10	164 Sp8	"1P10"
+28	2	11	38 Sp8	"1H2"
+28	2	12	164 Sp8	"1P10"
+28	2	13	38 Sp8	"1H2"
+28	2	14	Grid Marker	"2D18"
+28	3	1	empty	empty
+28	3	2	564 Sp21	"2L10"
+28	3	3	411 Sp21	"2D2"
+28	3	4	564 Sp21	"2L10"
+28	3	5	411 Sp21	"2D2"
+28	3	6	564 Sp21	"2L10"
+28	3	7	411 Sp21	"2D2"
+28	3	8	144 Sp14	"1L10"
+28	3	9	19 Sp0	"1D2"
+28	3	10	144 Sp14	"1L10"
+28	3	11	19 Sp0	"1D2"
+28	3	12	144 Sp14	"1L10"
+28	3	13	19 Sp0	"1D2"
+28	3	14	empty	empty
+28	4	1	empty	empty
+28	4	2	583 Sp0	"2P10"
+28	4	3	436 Sp0	"2H2"
+28	4	4	583 Sp0	"2P10"
+28	4	5	436 Sp0	"2H2"
+28	4	6	583 Sp0	"2P10"
+28	4	7	436 Sp0	"2H2"
+28	4	8	164 Sp8	"1P10"
+28	4	9	38 Sp8	"1H2"
+28	4	10	164 Sp8	"1P10"
+28	4	11	38 Sp8	"1H2"
+28	4	12	164 Sp8	"1P10"
+28	4	13	38 Sp8	"1H2"
+28	4	14	empty	empty
+28	5	1	empty	empty
+28	5	2	empty	empty
+28	5	3	460 Sp21	"2L2"
+28	5	4	empty	empty
+28	5	5	460 Sp21	"2L2"
+28	5	6	empty	empty
+28	5	7	460 Sp21	"2L2"
+28	5	8	0	"1D18"
+28	5	9	57 Sp0	"1L2"
+28	5	10	0	"1D18"
+28	5	11	57 Sp0	"1L2"
+28	5	12	0	"1D18"
+28	5	13	57 Sp0	"1L2"
+28	5	14	empty	empty
+28	6	1	empty	empty
+28	6	2	empty	empty
+28	6	3	489Sp21	"2P2"
+28	6	4	empty	empty
+28	6	5	489Sp21	"2P2"
+28	6	6	empty	empty
+28	6	7	489Sp21	"2P2"
+28	6	8	231 Sp0	"1H18"
+28	6	9	78 Sp0	"1P2"
+28	6	10	231 Sp0	"1H18"
+28	6	11	78 Sp0	"1P2"
+28	6	12	231 Sp0	"1H18"
+28	6	13	78 Sp0	"1P2"
+28	6	14	empty	empty
+28	7	1	empty	empty
+28	7	2	empty	empty
+28	7	3	460 Sp21	"2L2"
+28	7	4	empty	empty
+28	7	5	460 Sp21	"2L2"
+28	7	6	empty	empty
+28	7	7	460 Sp21	"2L2"
+28	7	8	0	"1D18"
+28	7	9	57 Sp0	"1L2"
+28	7	10	0	"1D18"
+28	7	11	57 Sp0	"1L2"
+28	7	12	0	"1D18"
+28	7	13	57 Sp0	"1L2"
+28	7	14	empty	empty
+28	8	1	empty	empty
+28	8	2	empty	empty
+28	8	3	489Sp21	"2P2"
+28	8	4	empty	empty
+28	8	5	489Sp21	"2P2"
+28	8	6	empty	empty
+28	8	7	489Sp21	"2P2"
+28	8	8	231 Sp0	"1H18"
+28	8	9	78 Sp0	"1P2"
+28	8	10	231 Sp0	"1H18"
+28	8	11	78 Sp0	"1P2"
+28	8	12	231 Sp0	"1H18"
+28	8	13	78 Sp0	"1P2"
+28	8	14	empty	empty
+28	9	1	empty	empty
+28	9	2	empty	empty
+28	9	3	518 Sp21	"2D10"
+28	9	4	empty	empty
+28	9	5	518 Sp21	"2D10"
+28	9	6	empty	empty
+28	9	7	518 Sp21	"2D10"
+28	9	8	254 Sp8	"1L18"
+28	9	9	103 Sp0	"1D10"
+28	9	10	254 Sp8	"1L18"
+28	9	11	103 Sp0	"1D10"
+28	9	12	254 Sp8	"1L18"
+28	9	13	103 Sp0	"1D10"
+28	9	14	empty	empty
+28	10	1	Grid Marker	"2D18"
+28	10	2	empty	empty
+28	10	3	541 Sp8	"2H10"
+28	10	4	empty	empty
+28	10	5	541 Sp8	"2H10"
+28	10	6	empty	empty
+28	10	7	541 Sp8	"2H10"
+28	10	8	278 Sp8	"1P18"
+28	10	9	122 Sp8	"1H10"
+28	10	10	278 Sp8	"1P18"
+28	10	11	122 Sp8	"1H10"
+28	10	12	278 Sp8	"1P18"
+28	10	13	122 Sp8	"1H10"
+28	10	14	empty	empty
+28	11	1	Grid Marker	"2D18"
+28	11	2	empty	empty
+28	11	3	518 Sp21	"2D10"
+28	11	4	empty	empty
+28	11	5	518 Sp21	"2D10"
+28	11	6	empty	empty
+28	11	7	518 Sp21	"2D10"
+28	11	8	254 Sp8	"1L18"
+28	11	9	103 Sp0	"1D10"
+28	11	10	254 Sp8	"1L18"
+28	11	11	103 Sp0	"1D10"
+28	11	12	254 Sp8	"1L18"
+28	11	13	103 Sp0	"1D10"
+28	11	14	empty	empty
+28	12	1	Grid Marker	"2D18"
+28	12	2	empty	empty
+28	12	3	541 Sp8	"2H10"
+28	12	4	empty	empty
+28	12	5	541 Sp8	"2H10"
+28	12	6	empty	empty
+28	12	7	541 Sp8	"2H10"
+28	12	8	278 Sp8	"1P18"
+28	12	9	122 Sp8	"1H10"
+28	12	10	278 Sp8	"1P18"
+28	12	11	122 Sp8	"1H10"
+28	12	12	278 Sp8	"1P18"
+28	12	13	122 Sp8	"1H10"
+28	12	14	empty	empty
+29	1	1	empty	empty
+29	1	2	550 Sp0	"2I9"
+29	1	3	396 Sp20	"2A1"
+29	1	4	550 Sp0	"2I9"
+29	1	5	396 Sp20	"2A1"
+29	1	6	550 Sp0	"2I9"
+29	1	7	396 Sp20	"2A1"
+29	1	8	131 Sp8	"1I9"
+29	1	9	7 Sp8	"1A1"
+29	1	10	131 Sp8	"1I9"
+29	1	11	7 Sp8	"1A1"
+29	1	12	131 Sp8	"1I9"
+29	1	13	7 Sp8	"1A1"
+29	1	14	Grid Marker	"2A17"
+29	2	1	empty	empty
+29	2	2	572 Sp12	"2M9"
+29	2	3	0	"2E1"
+29	2	4	572 Sp12	"2M9"
+29	2	5	0	"2E1"
+29	2	6	572 Sp12	"2M9"
+29	2	7	0	"2E1"
+29	2	8	153 Sp8	"1M9"
+29	2	9	26 Sp8	"1E1"
+29	2	10	153 Sp8	"1M9"
+29	2	11	26 Sp8	"1E1"
+29	2	12	153 Sp8	"1M9"
+29	2	13	26 Sp8	"1E1"
+29	2	14	Grid Marker	"2A17"
+29	3	1	empty	empty
+29	3	2	550 Sp0	"2I9"
+29	3	3	396 Sp20	"2A1"
+29	3	4	550 Sp0	"2I9"
+29	3	5	396 Sp20	"2A1"
+29	3	6	550 Sp0	"2I9"
+29	3	7	396 Sp20	"2A1"
+29	3	8	131 Sp8	"1I9"
+29	3	9	7 Sp8	"1A1"
+29	3	10	131 Sp8	"1I9"
+29	3	11	7 Sp8	"1A1"
+29	3	12	131 Sp8	"1I9"
+29	3	13	7 Sp8	"1A1"
+29	3	14	empty	empty
+29	4	1	empty	empty
+29	4	2	572 Sp12	"2M9"
+29	4	3	0	"2E1"
+29	4	4	572 Sp12	"2M9"
+29	4	5	0	"2E1"
+29	4	6	572 Sp12	"2M9"
+29	4	7	0	"2E1"
+29	4	8	153 Sp8	"1M9"
+29	4	9	26 Sp8	"1E1"
+29	4	10	153 Sp8	"1M9"
+29	4	11	26 Sp8	"1E1"
+29	4	12	153 Sp8	"1M9"
+29	4	13	26 Sp8	"1E1"
+29	4	14	empty	empty
+29	5	1	empty	empty
+29	5	2	empty	empty
+29	5	3	445 Sp22	"2I1"
+29	5	4	empty	empty
+29	5	5	445 Sp22	"2I1"
+29	5	6	empty	empty
+29	5	7	445 Sp22	"2I1"
+29	5	8	179 Sp8	"1A17"
+29	5	9	47 Sp8	"1I1"
+29	5	10	179 Sp8	"1A17"
+29	5	11	47 Sp8	"1I1"
+29	5	12	179 Sp8	"1A17"
+29	5	13	47 Sp8	"1I1"
+29	5	14	empty	empty
+29	6	1	empty	empty
+29	6	2	empty	empty
+29	6	3	470 Sp0	"2M1"
+29	6	4	empty	empty
+29	6	5	470 Sp0	"2M1"
+29	6	6	empty	empty
+29	6	7	470 Sp0	"2M1"
+29	6	8	211 Sp8	"1E17"
+29	6	9	64 Sp8	"1M1"
+29	6	10	211 Sp8	"1E17"
+29	6	11	64 Sp8	"1M1"
+29	6	12	211 Sp8	"1E17"
+29	6	13	64 Sp8	"1M1"
+29	6	14	empty	empty
+29	7	1	empty	empty
+29	7	2	empty	empty
+29	7	3	445 Sp22	"2I1"
+29	7	4	empty	empty
+29	7	5	445 Sp22	"2I1"
+29	7	6	empty	empty
+29	7	7	445 Sp22	"2I1"
+29	7	8	179 Sp8	"1A17"
+29	7	9	47 Sp8	"1I1"
+29	7	10	179 Sp8	"1A17"
+29	7	11	47 Sp8	"1I1"
+29	7	12	179 Sp8	"1A17"
+29	7	13	47 Sp8	"1I1"
+29	7	14	empty	empty
+29	8	1	empty	empty
+29	8	2	empty	empty
+29	8	3	470 Sp0	"2M1"
+29	8	4	empty	empty
+29	8	5	470 Sp0	"2M1"
+29	8	6	empty	empty
+29	8	7	470 Sp0	"2M1"
+29	8	8	211 Sp8	"1E17"
+29	8	9	64 Sp8	"1M1"
+29	8	10	211 Sp8	"1E17"
+29	8	11	64 Sp8	"1M1"
+29	8	12	211 Sp8	"1E17"
+29	8	13	64 Sp8	"1M1"
+29	8	14	empty	empty
+29	9	1	empty	empty
+29	9	2	empty	empty
+29	9	3	504 Sp24	"2A9"
+29	9	4	empty	empty
+29	9	5	504 Sp24	"2A9"
+29	9	6	empty	empty
+29	9	7	504 Sp24	"2A9"
+29	9	8	243 Sp8	"1I17"
+29	9	9	93 Sp8	"1A9"
+29	9	10	243 Sp8	"1I17"
+29	9	11	93 Sp8	"1A9"
+29	9	12	243 Sp8	"1I17"
+29	9	13	93 Sp8	"1A9"
+29	9	14	empty	empty
+29	10	1	Grid Marker	"2A17"
+29	10	2	empty	empty
+29	10	3	527 Sp14	"2E9"
+29	10	4	empty	empty
+29	10	5	527 Sp14	"2E9"
+29	10	6	empty	empty
+29	10	7	527 Sp14	"2E9"
+29	10	8	263 Sp8	"1M17"
+29	10	9	110 Sp8	"1E9"
+29	10	10	263 Sp8	"1M17"
+29	10	11	110 Sp8	"1E9"
+29	10	12	263 Sp8	"1M17"
+29	10	13	110 Sp8	"1E9"
+29	10	14	empty	empty
+29	11	1	Grid Marker	"2A17"
+29	11	2	empty	empty
+29	11	3	504 Sp24	"2A9"
+29	11	4	empty	empty
+29	11	5	504 Sp24	"2A9"
+29	11	6	empty	empty
+29	11	7	504 Sp24	"2A9"
+29	11	8	243 Sp8	"1I17"
+29	11	9	93 Sp8	"1A9"
+29	11	10	243 Sp8	"1I17"
+29	11	11	93 Sp8	"1A9"
+29	11	12	243 Sp8	"1I17"
+29	11	13	93 Sp8	"1A9"
+29	11	14	empty	empty
+29	12	1	Grid Marker	"2A17"
+29	12	2	empty	empty
+29	12	3	527 Sp14	"2E9"
+29	12	4	empty	empty
+29	12	5	527 Sp14	"2E9"
+29	12	6	empty	empty
+29	12	7	527 Sp14	"2E9"
+29	12	8	263 Sp8	"1M17"
+29	12	9	110 Sp8	"1E9"
+29	12	10	263 Sp8	"1M17"
+29	12	11	110 Sp8	"1E9"
+29	12	12	263 Sp8	"1M17"
+29	12	13	110 Sp8	"1E9"
+29	12	14	empty	empty
+30	1	1	empty	empty
+30	1	2	551 Sp14	"2J9"
+30	1	3	397 Sp20	"2B1"
+30	1	4	551 Sp14	"2J9"
+30	1	5	397 Sp20	"2B1"
+30	1	6	551 Sp14	"2J9"
+30	1	7	397 Sp20	"2B1"
+30	1	8	132 Sp0	"1J9"
+30	1	9	8 Sp8	"1B1"
+30	1	10	132 Sp0	"1J9"
+30	1	11	8 Sp8	"1B1"
+30	1	12	132 Sp0	"1J9"
+30	1	13	8 Sp8	"1B1"
+30	1	14	Grid Marker	"2B17"
+30	2	1	empty	empty
+30	2	2	0	"2N9"
+30	2	3	421 Sp12	"2F1"
+30	2	4	0	"2N9"
+30	2	5	421 Sp12	"2F1"
+30	2	6	0	"2N9"
+30	2	7	421 Sp12	"2F1"
+30	2	8	153Sp23	"1N9"
+30	2	9	27 Sp0	"1F1"
+30	2	10	153Sp23	"1N9"
+30	2	11	27 Sp0	"1F1"
+30	2	12	153Sp23	"1N9"
+30	2	13	27 Sp0	"1F1"
+30	2	14	Grid Marker	"2B17"
+30	3	1	empty	empty
+30	3	2	551 Sp14	"2J9"
+30	3	3	397 Sp20	"2B1"
+30	3	4	551 Sp14	"2J9"
+30	3	5	397 Sp20	"2B1"
+30	3	6	551 Sp14	"2J9"
+30	3	7	397 Sp20	"2B1"
+30	3	8	132 Sp0	"1J9"
+30	3	9	8 Sp8	"1B1"
+30	3	10	132 Sp0	"1J9"
+30	3	11	8 Sp8	"1B1"
+30	3	12	132 Sp0	"1J9"
+30	3	13	8 Sp8	"1B1"
+30	3	14	empty	empty
+30	4	1	empty	empty
+30	4	2	0	"2N9"
+30	4	3	421 Sp12	"2F1"
+30	4	4	0	"2N9"
+30	4	5	421 Sp12	"2F1"
+30	4	6	0	"2N9"
+30	4	7	421 Sp12	"2F1"
+30	4	8	153Sp23	"1N9"
+30	4	9	27 Sp0	"1F1"
+30	4	10	153Sp23	"1N9"
+30	4	11	27 Sp0	"1F1"
+30	4	12	153Sp23	"1N9"
+30	4	13	27 Sp0	"1F1"
+30	4	14	empty	empty
+30	5	1	empty	empty
+30	5	2	empty	empty
+30	5	3	446 Sp19	"2J1"
+30	5	4	empty	empty
+30	5	5	446 Sp19	"2J1"
+30	5	6	empty	empty
+30	5	7	446 Sp19	"2J1"
+30	5	8	180 Sp8	"1B17"
+30	5	9	48 Sp12	"1J1"
+30	5	10	180 Sp8	"1B17"
+30	5	11	48 Sp12	"1J1"
+30	5	12	180 Sp8	"1B17"
+30	5	13	48 Sp12	"1J1"
+30	5	14	empty	empty
+30	6	1	empty	empty
+30	6	2	empty	empty
+30	6	3	471 Sp12	"2N1"
+30	6	4	empty	empty
+30	6	5	471 Sp12	"2N1"
+30	6	6	empty	empty
+30	6	7	471 Sp12	"2N1"
+30	6	8	212 Sp0	"1F17"
+30	6	9	65 Sp0	"1N1"
+30	6	10	212 Sp0	"1F17"
+30	6	11	65 Sp0	"1N1"
+30	6	12	212 Sp0	"1F17"
+30	6	13	65 Sp0	"1N1"
+30	6	14	empty	empty
+30	7	1	empty	empty
+30	7	2	empty	empty
+30	7	3	446 Sp19	"2J1"
+30	7	4	empty	empty
+30	7	5	446 Sp19	"2J1"
+30	7	6	empty	empty
+30	7	7	446 Sp19	"2J1"
+30	7	8	180 Sp8	"1B17"
+30	7	9	48 Sp12	"1J1"
+30	7	10	180 Sp8	"1B17"
+30	7	11	48 Sp12	"1J1"
+30	7	12	180 Sp8	"1B17"
+30	7	13	48 Sp12	"1J1"
+30	7	14	empty	empty
+30	8	1	empty	empty
+30	8	2	empty	empty
+30	8	3	471 Sp12	"2N1"
+30	8	4	empty	empty
+30	8	5	471 Sp12	"2N1"
+30	8	6	empty	empty
+30	8	7	471 Sp12	"2N1"
+30	8	8	212 Sp0	"1F17"
+30	8	9	65 Sp0	"1N1"
+30	8	10	212 Sp0	"1F17"
+30	8	11	65 Sp0	"1N1"
+30	8	12	212 Sp0	"1F17"
+30	8	13	65 Sp0	"1N1"
+30	8	14	empty	empty
+30	9	1	empty	empty
+30	9	2	empty	empty
+30	9	3	505 Sp19	"2B9"
+30	9	4	empty	empty
+30	9	5	505 Sp19	"2B9"
+30	9	6	empty	empty
+30	9	7	505 Sp19	"2B9"
+30	9	8	244 Sp8	"1J17"
+30	9	9	94 Sp0	"1B9"
+30	9	10	244 Sp8	"1J17"
+30	9	11	94 Sp0	"1B9"
+30	9	12	244 Sp8	"1J17"
+30	9	13	94 Sp0	"1B9"
+30	9	14	empty	empty
+30	10	1	Grid Marker	"2B17"
+30	10	2	empty	empty
+30	10	3	528 Sp0	"2F9"
+30	10	4	empty	empty
+30	10	5	528 Sp0	"2F9"
+30	10	6	empty	empty
+30	10	7	528 Sp0	"2F9"
+30	10	8	264 Sp0	"1N17"
+30	10	9	111 Sp8	"1F9"
+30	10	10	264 Sp0	"1N17"
+30	10	11	111 Sp8	"1F9"
+30	10	12	264 Sp0	"1N17"
+30	10	13	111 Sp8	"1F9"
+30	10	14	empty	empty
+30	11	1	Grid Marker	"2B17"
+30	11	2	empty	empty
+30	11	3	505 Sp19	"2B9"
+30	11	4	empty	empty
+30	11	5	505 Sp19	"2B9"
+30	11	6	empty	empty
+30	11	7	505 Sp19	"2B9"
+30	11	8	244 Sp8	"1J17"
+30	11	9	94 Sp0	"1B9"
+30	11	10	244 Sp8	"1J17"
+30	11	11	94 Sp0	"1B9"
+30	11	12	244 Sp8	"1J17"
+30	11	13	94 Sp0	"1B9"
+30	11	14	empty	empty
+30	12	1	Grid Marker	"2B17"
+30	12	2	empty	empty
+30	12	3	528 Sp0	"2F9"
+30	12	4	empty	empty
+30	12	5	528 Sp0	"2F9"
+30	12	6	empty	empty
+30	12	7	528 Sp0	"2F9"
+30	12	8	264 Sp0	"1N17"
+30	12	9	111 Sp8	"1F9"
+30	12	10	264 Sp0	"1N17"
+30	12	11	111 Sp8	"1F9"
+30	12	12	264 Sp0	"1N17"
+30	12	13	111 Sp8	"1F9"
+30	12	14	empty	empty
+31	1	1	empty	empty
+31	1	2	561v2 Sp0	"2K9"
+31	1	3	408 Sp21	"2C1"
+31	1	4	561v2 Sp0	"2K9"
+31	1	5	408 Sp21	"2C1"
+31	1	6	561v2 Sp0	"2K9"
+31	1	7	408 Sp21	"2C1"
+31	1	8	141 Sp8	"1K9"
+31	1	9	16 Sp8	"1C1"
+31	1	10	141 Sp8	"1K9"
+31	1	11	16 Sp8	"1C1"
+31	1	12	141 Sp8	"1K9"
+31	1	13	16 Sp8	"1C1"
+31	1	14	Grid Marker	"2C17"
+31	2	1	empty	empty
+31	2	2	580 Sp25	"2O9"
+31	2	3	432 Sp8	"2G1"
+31	2	4	580 Sp25	"2O9"
+31	2	5	432 Sp8	"2G1"
+31	2	6	580 Sp25	"2O9"
+31	2	7	432 Sp8	"2G1"
+31	2	8	162 Sp14	"1O9"
+31	2	9	34 Sp8	"1G1"
+31	2	10	162 Sp14	"1O9"
+31	2	11	34 Sp8	"1G1"
+31	2	12	162 Sp14	"1O9"
+31	2	13	34 Sp8	"1G1"
+31	2	14	Grid Marker	"2C17"
+31	3	1	empty	empty
+31	3	2	561v2 Sp0	"2K9"
+31	3	3	408 Sp21	"2C1"
+31	3	4	561v2 Sp0	"2K9"
+31	3	5	408 Sp21	"2C1"
+31	3	6	561v2 Sp0	"2K9"
+31	3	7	408 Sp21	"2C1"
+31	3	8	141 Sp8	"1K9"
+31	3	9	16 Sp8	"1C1"
+31	3	10	141 Sp8	"1K9"
+31	3	11	16 Sp8	"1C1"
+31	3	12	141 Sp8	"1K9"
+31	3	13	16 Sp8	"1C1"
+31	3	14	empty	empty
+31	4	1	empty	empty
+31	4	2	580 Sp25	"2O9"
+31	4	3	432 Sp8	"2G1"
+31	4	4	580 Sp25	"2O9"
+31	4	5	432 Sp8	"2G1"
+31	4	6	580 Sp25	"2O9"
+31	4	7	432 Sp8	"2G1"
+31	4	8	162 Sp14	"1O9"
+31	4	9	34 Sp8	"1G1"
+31	4	10	162 Sp14	"1O9"
+31	4	11	34 Sp8	"1G1"
+31	4	12	162 Sp14	"1O9"
+31	4	13	34 Sp8	"1G1"
+31	4	14	empty	empty
+31	5	1	empty	empty
+31	5	2	empty	empty
+31	5	3	457 Sp21	"2K1"
+31	5	4	empty	empty
+31	5	5	457 Sp21	"2K1"
+31	5	6	empty	empty
+31	5	7	457 Sp21	"2K1"
+31	5	8	190 Sp9	"1C17"
+31	5	9	54 Sp8	"1K1"
+31	5	10	190 Sp9	"1C17"
+31	5	11	54 Sp8	"1K1"
+31	5	12	190 Sp9	"1C17"
+31	5	13	54 Sp8	"1K1"
+31	5	14	empty	empty
+31	6	1	empty	empty
+31	6	2	empty	empty
+31	6	3	485 Sp21	"2O1"
+31	6	4	empty	empty
+31	6	5	485 Sp21	"2O1"
+31	6	6	empty	empty
+31	6	7	485 Sp21	"2O1"
+31	6	8	0	"1G17"
+31	6	9	76 Sp0	"1O1"
+31	6	10	0	"1G17"
+31	6	11	76 Sp0	"1O1"
+31	6	12	0	"1G17"
+31	6	13	76 Sp0	"1O1"
+31	6	14	empty	empty
+31	7	1	empty	empty
+31	7	2	empty	empty
+31	7	3	457 Sp21	"2K1"
+31	7	4	empty	empty
+31	7	5	457 Sp21	"2K1"
+31	7	6	empty	empty
+31	7	7	457 Sp21	"2K1"
+31	7	8	190 Sp9	"1C17"
+31	7	9	54 Sp8	"1K1"
+31	7	10	190 Sp9	"1C17"
+31	7	11	54 Sp8	"1K1"
+31	7	12	190 Sp9	"1C17"
+31	7	13	54 Sp8	"1K1"
+31	7	14	empty	empty
+31	8	1	empty	empty
+31	8	2	empty	empty
+31	8	3	485 Sp21	"2O1"
+31	8	4	empty	empty
+31	8	5	485 Sp21	"2O1"
+31	8	6	empty	empty
+31	8	7	485 Sp21	"2O1"
+31	8	8	0	"1G17"
+31	8	9	76 Sp0	"1O1"
+31	8	10	0	"1G17"
+31	8	11	76 Sp0	"1O1"
+31	8	12	0	"1G17"
+31	8	13	76 Sp0	"1O1"
+31	8	14	empty	empty
+31	9	1	empty	empty
+31	9	2	empty	empty
+31	9	3	515 Sp24	"2C9"
+31	9	4	empty	empty
+31	9	5	515 Sp24	"2C9"
+31	9	6	empty	empty
+31	9	7	515 Sp24	"2C9"
+31	9	8	252 Sp0	"1K17"
+31	9	9	100 Sp16	"1C9"
+31	9	10	252 Sp0	"1K17"
+31	9	11	100 Sp16	"1C9"
+31	9	12	252 Sp0	"1K17"
+31	9	13	100 Sp16	"1C9"
+31	9	14	empty	empty
+31	10	1	Grid Marker	"2C17"
+31	10	2	empty	empty
+31	10	3	538 Sp14	"2G9"
+31	10	4	empty	empty
+31	10	5	538 Sp14	"2G9"
+31	10	6	empty	empty
+31	10	7	538 Sp14	"2G9"
+31	10	8	274 Sp0	"1O17"
+31	10	9	120 Sp14	"1G9"
+31	10	10	274 Sp0	"1O17"
+31	10	11	120 Sp14	"1G9"
+31	10	12	274 Sp0	"1O17"
+31	10	13	120 Sp14	"1G9"
+31	10	14	empty	empty
+31	11	1	Grid Marker	"2C17"
+31	11	2	empty	empty
+31	11	3	515 Sp24	"2C9"
+31	11	4	empty	empty
+31	11	5	515 Sp24	"2C9"
+31	11	6	empty	empty
+31	11	7	515 Sp24	"2C9"
+31	11	8	252 Sp0	"1K17"
+31	11	9	100 Sp16	"1C9"
+31	11	10	252 Sp0	"1K17"
+31	11	11	100 Sp16	"1C9"
+31	11	12	252 Sp0	"1K17"
+31	11	13	100 Sp16	"1C9"
+31	11	14	empty	empty
+31	12	1	Grid Marker	"2C17"
+31	12	2	empty	empty
+31	12	3	538 Sp14	"2G9"
+31	12	4	empty	empty
+31	12	5	538 Sp14	"2G9"
+31	12	6	empty	empty
+31	12	7	538 Sp14	"2G9"
+31	12	8	274 Sp0	"1O17"
+31	12	9	120 Sp14	"1G9"
+31	12	10	274 Sp0	"1O17"
+31	12	11	120 Sp14	"1G9"
+31	12	12	274 Sp0	"1O17"
+31	12	13	120 Sp14	"1G9"
+31	12	14	empty	empty
+32	1	1	empty	empty
+32	1	2	0	"2L9"
+32	1	3	409 Sp21	"2D1"
+32	1	4	0	"2L9"
+32	1	5	409 Sp21	"2D1"
+32	1	6	0	"2L9"
+32	1	7	409 Sp21	"2D1"
+32	1	8	142 Sp8	"1L9"
+32	1	9	17 Sp8	"1D1"
+32	1	10	142 Sp8	"1L9"
+32	1	11	17 Sp8	"1D1"
+32	1	12	142 Sp8	"1L9"
+32	1	13	17 Sp8	"1D1"
+32	1	14	Grid Marker	"2D17"
+32	2	1	empty	empty
+32	2	2	581 Sp0	"2P9"
+32	2	3	434 Sp21	"2H1"
+32	2	4	581 Sp0	"2P9"
+32	2	5	434 Sp21	"2H1"
+32	2	6	581 Sp0	"2P9"
+32	2	7	434 Sp21	"2H1"
+32	2	8	163 Sp8	"1P9"
+32	2	9	35 Sp8	"1H1"
+32	2	10	163 Sp8	"1P9"
+32	2	11	35 Sp8	"1H1"
+32	2	12	163 Sp8	"1P9"
+32	2	13	35 Sp8	"1H1"
+32	2	14	Grid Marker	"2D17"
+32	3	1	empty	empty
+32	3	2	0	"2L9"
+32	3	3	409 Sp21	"2D1"
+32	3	4	0	"2L9"
+32	3	5	409 Sp21	"2D1"
+32	3	6	0	"2L9"
+32	3	7	409 Sp21	"2D1"
+32	3	8	142 Sp8	"1L9"
+32	3	9	17 Sp8	"1D1"
+32	3	10	142 Sp8	"1L9"
+32	3	11	17 Sp8	"1D1"
+32	3	12	142 Sp8	"1L9"
+32	3	13	17 Sp8	"1D1"
+32	3	14	empty	empty
+32	4	1	empty	empty
+32	4	2	581 Sp0	"2P9"
+32	4	3	434 Sp21	"2H1"
+32	4	4	581 Sp0	"2P9"
+32	4	5	434 Sp21	"2H1"
+32	4	6	581 Sp0	"2P9"
+32	4	7	434 Sp21	"2H1"
+32	4	8	163 Sp8	"1P9"
+32	4	9	35 Sp8	"1H1"
+32	4	10	163 Sp8	"1P9"
+32	4	11	35 Sp8	"1H1"
+32	4	12	163 Sp8	"1P9"
+32	4	13	35 Sp8	"1H1"
+32	4	14	empty	empty
+32	5	1	empty	empty
+32	5	2	empty	empty
+32	5	3	458 Sp21	"2L1"
+32	5	4	empty	empty
+32	5	5	458 Sp21	"2L1"
+32	5	6	empty	empty
+32	5	7	458 Sp21	"2L1"
+32	5	8	191 Sp9	"1D17"
+32	5	9	56 Sp8	"1L1"
+32	5	10	191 Sp9	"1D17"
+32	5	11	56 Sp8	"1L1"
+32	5	12	191 Sp9	"1D17"
+32	5	13	56 Sp8	"1L1"
+32	5	14	empty	empty
+32	6	1	empty	empty
+32	6	2	empty	empty
+32	6	3	486 Sp22	"2P1"
+32	6	4	empty	empty
+32	6	5	486 Sp22	"2P1"
+32	6	6	empty	empty
+32	6	7	486 Sp22	"2P1"
+32	6	8	230 Sp0	"1H17"
+32	6	9	77 Sp0	"1P1"
+32	6	10	230 Sp0	"1H17"
+32	6	11	77 Sp0	"1P1"
+32	6	12	230 Sp0	"1H17"
+32	6	13	77 Sp0	"1P1"
+32	6	14	empty	empty
+32	7	1	empty	empty
+32	7	2	empty	empty
+32	7	3	458 Sp21	"2L1"
+32	7	4	empty	empty
+32	7	5	458 Sp21	"2L1"
+32	7	6	empty	empty
+32	7	7	458 Sp21	"2L1"
+32	7	8	191 Sp9	"1D17"
+32	7	9	56 Sp8	"1L1"
+32	7	10	191 Sp9	"1D17"
+32	7	11	56 Sp8	"1L1"
+32	7	12	191 Sp9	"1D17"
+32	7	13	56 Sp8	"1L1"
+32	7	14	empty	empty
+32	8	1	empty	empty
+32	8	2	empty	empty
+32	8	3	486 Sp22	"2P1"
+32	8	4	empty	empty
+32	8	5	486 Sp22	"2P1"
+32	8	6	empty	empty
+32	8	7	486 Sp22	"2P1"
+32	8	8	230 Sp0	"1H17"
+32	8	9	77 Sp0	"1P1"
+32	8	10	230 Sp0	"1H17"
+32	8	11	77 Sp0	"1P1"
+32	8	12	230 Sp0	"1H17"
+32	8	13	77 Sp0	"1P1"
+32	8	14	empty	empty
+32	9	1	empty	empty
+32	9	2	empty	empty
+32	9	3	516 Sp19	"2D9"
+32	9	4	empty	empty
+32	9	5	516 Sp19	"2D9"
+32	9	6	empty	empty
+32	9	7	516 Sp19	"2D9"
+32	9	8	253 Sp0	"1L17"
+32	9	9	101 Sp8	"1D9"
+32	9	10	253 Sp0	"1L17"
+32	9	11	101 Sp8	"1D9"
+32	9	12	253 Sp0	"1L17"
+32	9	13	101 Sp8	"1D9"
+32	9	14	empty	empty
+32	10	1	Grid Marker	"2D17"
+32	10	2	empty	empty
+32	10	3	539 Sp21	"2H9"
+32	10	4	empty	empty
+32	10	5	539 Sp21	"2H9"
+32	10	6	empty	empty
+32	10	7	539 Sp21	"2H9"
+32	10	8	275 Sp0	"1P17"
+32	10	9	121 Sp8	"1H9"
+32	10	10	275 Sp0	"1P17"
+32	10	11	121 Sp8	"1H9"
+32	10	12	275 Sp0	"1P17"
+32	10	13	121 Sp8	"1H9"
+32	10	14	empty	empty
+32	11	1	Grid Marker	"2D17"
+32	11	2	empty	empty
+32	11	3	516 Sp19	"2D9"
+32	11	4	empty	empty
+32	11	5	516 Sp19	"2D9"
+32	11	6	empty	empty
+32	11	7	516 Sp19	"2D9"
+32	11	8	253 Sp0	"1L17"
+32	11	9	101 Sp8	"1D9"
+32	11	10	253 Sp0	"1L17"
+32	11	11	101 Sp8	"1D9"
+32	11	12	253 Sp0	"1L17"
+32	11	13	101 Sp8	"1D9"
+32	11	14	empty	empty
+32	12	1	Grid Marker	"2D17"
+32	12	2	empty	empty
+32	12	3	539 Sp21	"2H9"
+32	12	4	empty	empty
+32	12	5	539 Sp21	"2H9"
+32	12	6	empty	empty
+32	12	7	539 Sp21	"2H9"
+32	12	8	275 Sp0	"1P17"
+32	12	9	121 Sp8	"1H9"
+32	12	10	275 Sp0	"1P17"
+32	12	11	121 Sp8	"1H9"
+32	12	12	275 Sp0	"1P17"
+32	12	13	121 Sp8	"1H9"
+32	12	14	empty	empty

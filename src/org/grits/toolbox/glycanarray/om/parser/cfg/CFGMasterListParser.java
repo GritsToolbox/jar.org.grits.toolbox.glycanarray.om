@@ -165,6 +165,7 @@ public class CFGMasterListParser {
                 	library.getFeatureLibrary().getGlycan().add(glycan);
             	} // else update existing data
             	
+            	
             	Cell structureCell = row.getCell(config.getStructureColumn());
             	if (structureCell != null) {
             		String origStr = structureCell.getStringCellValue();
@@ -172,10 +173,71 @@ public class CFGMasterListParser {
             	    for (String t_key : this.m_replaceSet.keySet()) {
                     	origStr = origStr.replace(t_key, this.m_replaceSet.get(t_key));
                     }
+            	    
+            	   /* if (glycan.getOrigSequence() != null && !glycan.getOrigSequence().equalsIgnoreCase(origStr)) {
+            			// create a new glycan
+            			glycan = new Glycan();
+            			String[] splittedName = glycanName.split(" ");
+                    	glycan.setName( splittedName[0] + "v2 " + splittedName[1]);
+                    	glycan.setId(glycanCounter++);
+                    	library.getFeatureLibrary().getGlycan().add(glycan);
+            		}*/
+            	    
+            	    // special handling for this glycan - 5.1v2 uses v2 of this glycan, 5.0, 5.0v2, 5.1, 5.2 uses 561 Sp0
+                	if (glycanName.equalsIgnoreCase("561 Sp0")) {
+                		// compare the sequence with the existing one, create a new version if the sequence is different
+                		if (glycan.getOrigSequence() != null && !glycan.getOrigSequence().equalsIgnoreCase(origStr)) {
+                			// create a new glycan
+                			glycan = new Glycan();
+                        	glycan.setName("561v2 Sp0" );
+                        	glycan.setId(glycanCounter++);
+                        	library.getFeatureLibrary().getGlycan().add(glycan);
+                		}
+                	}
+                	if (glycanName.equalsIgnoreCase("506 Sp19")) { // 5.1v2 use 506v2 glycan, 5.1, 5.2, 5.3, 5.4 use 506 Sp19
+                		// compare the sequence with the existing one, create a new version if the sequence is different
+                		if (glycan.getOrigSequence() != null && !glycan.getOrigSequence().equalsIgnoreCase(origStr)) {
+                			// create a new glycan
+                			glycan = new Glycan();
+                        	glycan.setName("506v2 Sp19" );
+                        	glycan.setId(glycanCounter++);
+                        	library.getFeatureLibrary().getGlycan().add(glycan);
+                		}
+                	}
+                	if (glycanName.equalsIgnoreCase("138 Sp0")) { // 5.0 uses 138 Sp0, 5.0v2, 5.1, 5.1v2, 5.2, 5.3, 5.4 use v2
+                		// compare the sequence with the existing one, create a new version if the sequence is different
+                		if (glycan.getOrigSequence() != null && !glycan.getOrigSequence().equalsIgnoreCase(origStr)) {
+                			// create a new glycan
+                			glycan = new Glycan();
+                        	glycan.setName("138v2 Sp0" );
+                        	glycan.setId(glycanCounter++);
+                        	library.getFeatureLibrary().getGlycan().add(glycan);
+                		}
+                	}
+                	if (glycanName.equalsIgnoreCase("137 Sp0")) { // 5.0 uses 137 Sp0, 5.0v2, 5.1, 5.1v2, 5.2, 5.3, 5.4 use v2
+                		// compare the sequence with the existing one, create a new version if the sequence is different
+                		if (glycan.getOrigSequence() != null && !glycan.getOrigSequence().equalsIgnoreCase(origStr)) {
+                			// create a new glycan
+                			glycan = new Glycan();
+                        	glycan.setName("137v2 Sp0" );
+                        	glycan.setId(glycanCounter++);
+                        	library.getFeatureLibrary().getGlycan().add(glycan);
+                		}
+                	}
+                	/*if (glycanName.equalsIgnoreCase("114 Sp0")) { // 5.0 uses 114 Sp0, 5.0v2, 5.1, 5.1v2, 5.2, 5.3, 5.4 use v2
+                		// compare the sequence with the existing one, create a new version if the sequence is different
+                		if (glycan.getOrigSequence() != null && !glycan.getOrigSequence().equalsIgnoreCase(origStr)) {
+                			// create a new glycan
+                			glycan = new Glycan();
+                        	glycan.setName("114v2 Sp0" );
+                        	glycan.setId(glycanCounter++);
+                        	library.getFeatureLibrary().getGlycan().add(glycan);
+                		}
+                	}*/
                     glycan.setOrigSequence(origStr);
             		glycan.setOriginalSequenceType("CFG Internal");
             	}
-            
+            	
             	if (config.getCarbIdColumn() != -1) {
             		Cell commentCell = row.getCell(config.getCarbIdColumn());
             		if (commentCell != null && commentCell.getCellType() == CellType.STRING) {

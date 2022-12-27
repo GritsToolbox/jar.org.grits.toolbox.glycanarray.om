@@ -434,6 +434,12 @@ public class GalFileParser {
 		blockLayout.setLevelUnit(levels);
 		//Integer numberOfGroups = blockLayout.getColumnNum() * blockLayout.getRowNum() / blockLayout.getReplicNum();
 		blockLayout.setGroupNum(maxGroup);
+		if (txtFileVersion) {
+			// height of the slide layout is not set
+			if (slideLayout.getHeight() == null || slideLayout.getHeight() == 0) 
+				slideLayout.setHeight(slideLayout.getBlock().size());
+		}
+		
 		layoutList.add(blockLayout);
 		
 		

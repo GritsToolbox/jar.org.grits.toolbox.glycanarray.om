@@ -665,6 +665,22 @@ public class LibraryUtils {
 			parser.parse("doc/CFG MasterLists and GAL files/CFG Gal files/CFGv5.1_gene ID-fixed.txt", library, "CFG_V5.1", 6, true);
 			// END - STEP 4
 			
+			System.out.println("Getting version 5.1-v2");
+			// STEP 4
+			config = new ParserConfiguration();
+			config.setBlockColumn(-1);
+			config.setMetaRow(0);
+			config.setMetaColumn(1);
+			config.setCoordinateColumnX(3);  // column
+			config.setCoordinateColumnY(2);  // row
+			config.setNameColumn(4);
+			parser = new GalFileParser();
+			parser.setConfig(config);
+			// parse the txt File to create slide/block layouts
+			parser.parse("doc/CFG MasterLists and GAL files/CFG Gal files/CFGv5.1_gene ID-fixedv2.txt", library, "CFG_V5.1v2", 6, true);
+			// END - STEP 4
+			
+			
 			System.out.println("Getting version 5.0");
 			// STEP 4
 			config = new ParserConfiguration();
@@ -675,8 +691,20 @@ public class LibraryUtils {
 			parser = new GalFileParser();
 			parser.setConfig(config);
 			// parse the GAL File to create slide/block layouts
-			parser.parse("doc/CFG MasterLists and GAL files/CFG Gal files/CFGv5-fixed.gal", library, "CFG_V5.0", 6, false);
+			parser.parse("doc/CFG MasterLists and GAL files/CFG Gal files/CFGv5-fixed2.gal", library, "CFG_V5.0", 6, false);
 			// END - STEP 4
+			
+			System.out.println("Getting version 5.0");
+			// STEP 4
+			config = new ParserConfiguration();
+			config.setBlockColumn(0);
+			config.setCoordinateColumnX(1);  // row/column switched from 5.2
+			config.setCoordinateColumnY(2);
+			config.setNameColumn(4);
+			parser = new GalFileParser();
+			parser.setConfig(config);
+			// parse the GAL File to create slide/block layouts
+			parser.parse("doc/CFG MasterLists and GAL files/CFG Gal files/CFGv5-fixedv2.gal", library, "CFG_V5.0v2", 6, false);
 			
 			System.out.println("Getting version 4.2");
 			// STEP 4
@@ -857,10 +885,7 @@ public class LibraryUtils {
 			e.printStackTrace();
 		}	
 	}
-	
-	
-	
-	
+
 	/**
 	 * check if the slide layout name exists in the library
 	 * @param library existing library
