@@ -48,6 +48,8 @@ public class GlycoVisitorNamespaceCfgArrayToCarbbank implements GlycoVisitor
         this.m_translationTable.put("Mana", "a-D-Manp");
         this.m_translationTable.put("Neu5Aca", "a-D-Neup5Ac");
         this.m_translationTable.put("Neu5Acb", "b-D-Neup5Ac");
+        this.m_translationTable.put("NeuAca", "a-D-Neup5Ac");
+        this.m_translationTable.put("NeuAcb", "b-D-Neup5Ac");
         this.m_translationTable.put("Fuca", "a-L-Fucp");
         this.m_translationTable.put("Fucb", "b-L-Fucp");
         this.m_translationTable.put("Gala", "a-D-Galp");
@@ -59,6 +61,8 @@ public class GlycoVisitorNamespaceCfgArrayToCarbbank implements GlycoVisitor
         this.m_translationTable.put("GalNAcb", "b-D-GalpNAc");
         this.m_translationTable.put("Neu5Gca", "a-D-Neup5Gc");
         this.m_translationTable.put("Neu5Gcb", "b-D-Neup5Gc");
+        this.m_translationTable.put("NeuGca", "a-D-Neup5Gc");
+        this.m_translationTable.put("NeuGcb", "b-D-Neup5Gc");
         this.m_translationTable.put("Xyla", "a-D-Xylp");
         this.m_translationTable.put("OSO3", "Sulfate");
         this.m_translationTable.put("S", "Sulfate");
@@ -67,7 +71,14 @@ public class GlycoVisitorNamespaceCfgArrayToCarbbank implements GlycoVisitor
         this.m_translationTable.put("GlcAb", "b-D-GlcpA");
         this.m_translationTable.put("KDNa", "a-D-KDNp");
         this.m_translationTable.put("P", "P");
+        this.m_translationTable.put("H2PO3", "P");
+        this.m_translationTable.put("PO3", "P");
         this.m_translationTable.put("Ac", "Ac");
+        // put lowercase versions
+        for (String key: this.m_translationTable.keySet()) {
+        	String lowerCaseKey = key.toLowerCase();
+        	this.m_translationTable.put (lowerCaseKey, this.m_translationTable.get(key));
+        }
     }
 
     @Override
@@ -126,7 +137,13 @@ public class GlycoVisitorNamespaceCfgArrayToCarbbank implements GlycoVisitor
             String t_name = this.m_translationTable.get(a_glycoNode.getName());
             if (t_name == null)
             {
-                this.m_unknownResidues.add(a_glycoNode.getName());
+            	t_name = this.m_translationTable.get(a_glycoNode.getName().toLowerCase());
+            	if (t_name == null) {
+            		this.m_unknownResidues.add(a_glycoNode.getName());
+            	} 
+            	else {
+            		a_glycoNode.setName(t_name);
+            	}
             }
             else
             {
