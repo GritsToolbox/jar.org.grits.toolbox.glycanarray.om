@@ -1111,11 +1111,11 @@ Block	Column	Row	ID	Name
 7	5	6	empty	0
 7	5	7	unknown (2K7)	558 Sp0
 7	5	8	unknown (1C23)	312 Sp8
-7	5	9	unknown (1K7)	138v2 Sp0
+7	5	9	unknown (1K7)	138 Sp0
 7	5	10	unknown (1C23)	312 Sp8
-7	5	11	unknown (1K7)	138v2 Sp0
+7	5	11	unknown (1K7)	138 Sp0
 7	5	12	unknown (1C23)	312 Sp8
-7	5	13	unknown (1K7)	138v2 Sp0
+7	5	13	unknown (1K7)	138 Sp0
 7	5	14	empty	0
 7	6	1	empty	0
 7	6	2	empty	0
@@ -1139,11 +1139,11 @@ Block	Column	Row	ID	Name
 7	7	6	empty	0
 7	7	7	unknown (2K7)	558 Sp0
 7	7	8	unknown (1C23)	312 Sp8
-7	7	9	unknown (1K7)	138v2 Sp0
+7	7	9	unknown (1K7)	138 Sp0
 7	7	10	unknown (1C23)	312 Sp8
-7	7	11	unknown (1K7)	138v2 Sp0
+7	7	11	unknown (1K7)	138 Sp0
 7	7	12	unknown (1C23)	312 Sp8
-7	7	13	unknown (1K7)	138v2 Sp0
+7	7	13	unknown (1K7)	138 Sp0
 7	7	14	empty	0
 7	8	1	empty	0
 7	8	2	empty	0
@@ -2902,11 +2902,11 @@ Block	Column	Row	ID	Name
 18	1	5	unknown (2B4)	403 Sp12
 18	1	6	unknown (2J12)	557 Sp14
 18	1	7	unknown (2B4)	403 Sp12
-18	1	8	unknown (1J12)	137v2 Sp0
+18	1	8	unknown (1J12)	137 Sp0
 18	1	9	unknown (1B4)	12 Sp8
-18	1	10	unknown (1J12)	137v2 Sp0
+18	1	10	unknown (1J12)	137 Sp0
 18	1	11	unknown (1B4)	12 Sp8
-18	1	12	unknown (1J12)	137v2 Sp0
+18	1	12	unknown (1J12)	137 Sp0
 18	1	13	unknown (1B4)	12 Sp8
 18	1	14	unknown (2B20)	Grid Marker
 18	2	1	empty	0
@@ -2930,11 +2930,11 @@ Block	Column	Row	ID	Name
 18	3	5	unknown (2B4)	403 Sp12
 18	3	6	unknown (2J12)	557 Sp14
 18	3	7	unknown (2B4)	403 Sp12
-18	3	8	unknown (1J12)	137v2 Sp0
+18	3	8	unknown (1J12)	137 Sp0
 18	3	9	unknown (1B4)	12 Sp8
-18	3	10	unknown (1J12)	137v2 Sp0
+18	3	10	unknown (1J12)	137 Sp0
 18	3	11	unknown (1B4)	12 Sp8
-18	3	12	unknown (1J12)	137v2 Sp0
+18	3	12	unknown (1J12)	137 Sp0
 18	3	13	unknown (1B4)	12 Sp8
 18	3	14	empty	0
 18	4	1	empty	0

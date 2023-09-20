@@ -2,7 +2,9 @@ package org.grits.toolbox.glycanarray.library.om.translation;
 
 import java.util.ArrayList;
 import java.util.HashMap;
+import java.util.HashSet;
 import java.util.List;
+import java.util.Set;
 
 import org.eurocarbdb.MolecularFramework.sugar.GlycoEdge;
 import org.eurocarbdb.MolecularFramework.sugar.GlycoconjugateException;
@@ -74,8 +76,10 @@ public class GlycoVisitorNamespaceCfgArrayToCarbbank implements GlycoVisitor
         this.m_translationTable.put("H2PO3", "P");
         this.m_translationTable.put("PO3", "P");
         this.m_translationTable.put("Ac", "Ac");
+        Set<String> keys = new HashSet<>();
+        keys.addAll(this.m_translationTable.keySet());
         // put lowercase versions
-        for (String key: this.m_translationTable.keySet()) {
+        for (String key: keys) {
         	String lowerCaseKey = key.toLowerCase();
         	this.m_translationTable.put (lowerCaseKey, this.m_translationTable.get(key));
         }
